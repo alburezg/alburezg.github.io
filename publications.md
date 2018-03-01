@@ -5,7 +5,7 @@ title: Publications and conferences
 
 #  Working papers
 
-I am currently interested in the effects of war on women. I use a mix-methods research design to analyse how reproductive behaviour changes after genocidal violence, in particular the role of pronatalism in post-war settings. I am also interested in the ‘protective’ effects of family during armed conflicts. My research uses respondent-generated genealogical data to study population dynamics during and after mortality crises.
+I am currently interested in the effects of mass violence exercised against non-combatants. I use a mix-methods research design to analyse how reproductive behaviour changes after genocidal violence, in particular the role of pronatalism in post-war settings. I am also interested in the ‘protective’ effects of family during and after armed conflicts. My research uses respondent-generated genealogical data to study population dynamics during and after mortality crises.
 
 Alburez-Gutierrez, D. (April 2018) ["Social support and social scarring: the protective effects of family ties during mass killings"](pdf/SUDA18_Alburez.pdf). Working paper.
 
