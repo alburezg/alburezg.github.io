@@ -7,6 +7,8 @@ title: Publications and conferences
 
 I am currently interested in the effects of war on women. I use a mix-methods research design to analyse how reproductive behaviour changes after genocidal violence, in particular the role of pronatalism in post-war settings. I am also interested in the ‘protective’ effects of family during armed conflicts. My research uses respondent-generated genealogical data to study population dynamics during and after mortality crises.
 
+Alburez-Gutierrez, D. (April 2018) ["Social support and social scarring: the protective effects of family ties during mass killings"](pdf/SUDA18_Alburez.pdf). Working paper.
+
 Alburez-Gutierrez, D. (July 2017). ["Blood is thicker than bloodshed: using genealogies to reconstruct populations after armed conflicts"](pdf/BSPS17_methodology_alburez.pdf). Submitted for publication.
 
 Alburez-Gutierrez, D. (August 2017). ["Who drives fertility recover after armed conflicts? A case study from the Guatemalan genocide"](pdf/IUSSP17_demographic_effects_conflict_alburez.pdf). Working paper.
