@@ -18,9 +18,9 @@ Alburez-Gutierrez, D. (August 2017). ["Who drives fertility recover after armed 
 # Peer-reviewed papers
 
 {: .notice}
-McGovern, P., and Alburez-Gutierrez, D. (2017) "Who takes workplace case-study methods seriously? The influence of gender, academic rank and PhD training.”  Industrial Relations Journal, 48: 98–114. doi:[10.1111/irj.12171](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full).
-
 Leone, T., Alburez-Gutierrez, D., Gandour, R., Coast, E., and Giacaman, R. (2018). "Maternal and child health outcomes and intensity of conflict in the occupied Palestinian territory in 2000-14: a pseudo longitudinal analysis." The Lancet 391:S48. doi:[10.1016/S0140-6736(18)30414-8](https://doi.org/10.1016/S0140-6736(18)30414-8).
+
+McGovern, P., and Alburez-Gutierrez, D. (2017) "Who takes workplace case-study methods seriously? The influence of gender, academic rank and PhD training.”  Industrial Relations Journal, 48: 98–114. doi:[10.1111/irj.12171](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full).
 
 # Conferences
 
