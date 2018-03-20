@@ -7,7 +7,7 @@ title: Publications and conferences
 
 I am currently interested in the effects of mass violence exercised against non-combatants. I use a mix-methods research design to analyse how reproductive behaviour changes after genocidal violence, in particular the role of pronatalism in post-war settings. I am also interested in the ‘protective’ effects of family during and after armed conflicts. My research uses respondent-generated genealogical data to study population dynamics during and after mortality crises.
 
-Segura, C., and Alburez-Gutierrez, D. ``Estimating migrant stocks in displacement settings: cohort-component projections using UNHCR ProGres data". UNHCR Statistics Technical Series 2018/1. Expected publication: May 2018. 
+Segura, C., and Alburez-Gutierrez, D. "Estimating migrant stocks in displacement settings: cohort-component projections using UNHCR ProGres data". UNHCR Statistics Technical Series 2018/1. Expected publication: May 2018. 
 
 Alburez-Gutierrez, D. (April 2018) ["Social support and social scarring: the protective effects of family ties during mass killings"](pdf/SUDA18_Alburez.pdf). Working paper.
 
