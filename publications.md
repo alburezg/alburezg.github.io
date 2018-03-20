@@ -7,6 +7,8 @@ title: Publications and conferences
 
 I am currently interested in the effects of mass violence exercised against non-combatants. I use a mix-methods research design to analyse how reproductive behaviour changes after genocidal violence, in particular the role of pronatalism in post-war settings. I am also interested in the ‘protective’ effects of family during and after armed conflicts. My research uses respondent-generated genealogical data to study population dynamics during and after mortality crises.
 
+Segura, C., and Alburez-Gutierrez, D. ``Estimating migrant stocks in displacement settings: cohort-component projections using UNHCR ProGres data". UNHCR Statistics Technical Series 2018/1. Expected publication: May 2018. 
+
 Alburez-Gutierrez, D. (April 2018) ["Social support and social scarring: the protective effects of family ties during mass killings"](pdf/SUDA18_Alburez.pdf). Working paper.
 
 Alburez-Gutierrez, D. (July 2017). ["Blood is thicker than bloodshed: using genealogies to reconstruct populations after armed conflicts"](pdf/BSPS17_methodology_alburez.pdf). Submitted for publication.
@@ -16,7 +18,9 @@ Alburez-Gutierrez, D. (August 2017). ["Who drives fertility recover after armed 
 # Peer-reviewed papers
 
 {: .notice}
-McGovern, P., and Alburez-Gutierrez, D. (2017) "Who takes workplace case-study methods seriously? The influence of gender, academic rank and PhD training.”  Industrial Relations Journal, 48: 98–114. [doi: 10.1111/irj.12171](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full).
+McGovern, P., and Alburez-Gutierrez, D. (2017) "Who takes workplace case-study methods seriously? The influence of gender, academic rank and PhD training.”  Industrial Relations Journal, 48: 98–114. doi:[10.1111/irj.12171](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full).
+
+Leone, T., Alburez-Gutierrez, D., Gandour, R., Coast, E., and Giacaman, R. (2018). "Maternal and child health outcomes and intensity of conflict in the occupied Palestinian territory in 2000-14: a pseudo longitudinal analysis." The Lancet 391:S48. doi:[10.1016/S0140-6736(18)30414-8](https://doi.org/10.1016/S0140-6736(18)30414-8).
 
 # Conferences
 

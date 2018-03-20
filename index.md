@@ -10,4 +10,4 @@ PhD candidate in Demography/Population Studies at the London School of Economics
 ## 	Check out my latest publication!
 
 {: .notice}
-McGovern, P., and Alburez-Gutierrez, D. (2017) "[Who takes workplace case-study methods seriously? The influence of gender, academic rank and PhD training](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full).”  Industrial Relations Journal, 48: 98–114. doi: 10.1111/irj.12171.
+Leone, T., Alburez-Gutierrez, D., Gandour, R., Coast, E., and Giacaman, R. (2018). "Maternal and child health outcomes and intensity of conflict in the occupied Palestinian territory in 2000-14: a pseudo longitudinal analysis." The Lancet 391:S48. doi:[10.1016/S0140-6736(18)30414-8](https://doi.org/10.1016/S0140-6736(18)30414-8).
