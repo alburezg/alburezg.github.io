@@ -5,6 +5,8 @@ category: Opinion
 author: Diego Alburez Gutiérrez
 ---
 
+* Una versión de este artículo fue publicada en el periódico digital [Nómada Guatemala](https://nomada.gt/blogs/jimmy-morales-la-biblia-y-la-embajada-en-jerusalen/)
+
 > Querido pueblo de Guatemala, hoy he conversado con el Primer Ministro de Israel, Benjamin Netanyahu. Hablamos de las excelentes relaciones que hemos tenido como naciones desde que Guatemala apoyó la creación del Estado de Israel.
 Uno de los temas de mayor relevancia fue el retorno de la Embajada de Guatemala a Jerusalén. Por lo que les informo que he girado instrucciones a la Canciller para que inicie las coordinaciones respectivas para que así sea.
 Dios los bendiga. - Jimmy Morales
