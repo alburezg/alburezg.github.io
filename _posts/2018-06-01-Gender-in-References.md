@@ -8,9 +8,9 @@ Copy and paste your bibliography to see how gender-bias or gender-balanced it is
 
 **NOTE**
 
-The tool currently only works with peer-reviewed and indexed papers. Including books, reports, and theses may produce an error. It is advisable to remove them before pasting the text in the box below. 
-
-Allow some time for the tool to retrieve the information from the API (up to a couple of minutes for long bibliographies).
+  - The tool currently only works with peer-reviewed and indexed papers. Including books, reports, and theses may produce an error. It is advisable to remove them before pasting the text in the box below. 
+  - The tool will always provide an output - the most likely match. Most matches are correct, but some noise if to be expected (especially for older or lesser-known articles)
+  - Allow some time for the tool to retrieve the information from the API (up to a couple of minutes for long bibliographies).
 
 **PLEASE** 
 
