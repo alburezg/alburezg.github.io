@@ -6,4 +6,8 @@ category: Research
 
 Copy and paste your bibliography to see how gender-bias or gender-balanced it is!
 
+**PLEASE** This tool relies on the kindness of the [Crossref API](https://github.com/CrossRef/rest-api-doc). Don't abuse it!
+
+Comments: [@d_alburez](https://twitter.com/d_alburez)
+
 <iframe width = "100%" height = "1000px" seamless frameborder = "0" src="https://diego-alburez.shinyapps.io/gender_check/"></iframe>
