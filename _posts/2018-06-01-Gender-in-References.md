@@ -4,17 +4,17 @@ title: Check the gender bias in your bibliography
 category: Research
 ---
 
-Copy and paste your bibliography to see how gender-bias or gender-balanced it is!
+Copy and paste your bibliography to see how gender-bias or gender-balanced it is! This is a **Beta version** ((source code)[]).
 
-**NOTE**
+**READ BEFORE USE**
 
-  - The tool currently only works with peer-reviewed and indexed papers. Including books, reports, and theses may produce an error. It is advisable to remove them before pasting the text in the box below. 
-  - The tool will always provide an output - the most likely match. Most matches are correct, but some noise if to be expected (especially for older or lesser-known articles)
+  - Do not include books, reports or theses. The tool currently only works with peer-reviewed and indexed papers.
+  - The tool will look up each citation in a database and output the most likely match. Most matches are correct, but some noise if to be expected for older or lesser-known articles.
+  - The gender of the authors is determined using U.S. Social Security Administration baby name data ([gender](https://www.r-project.org/nosvn/pandoc/gender.html) package in R). Unrecognised names are ignored.
   - Allow some time for the tool to retrieve the information from the API (up to a couple of minutes for long bibliographies).
+  - If the tool doesn't load or if it cannot be reached (e.g. Error 504), please wait five minutes to reload the page. 
 
-**PLEASE** 
-
-This tool relies on the kindness of the [Crossref API](https://github.com/CrossRef/rest-api-doc). Don't abuse it!
+**This tool relies on the kindness of the [Crossref API](https://github.com/CrossRef/rest-api-doc). Don't abuse it!**
 
 Comments: [@d_alburez](https://twitter.com/d_alburez)
 
