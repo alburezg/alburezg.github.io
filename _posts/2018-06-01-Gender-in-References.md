@@ -4,8 +4,9 @@ title: Check the gender bias in your bibliography
 category: Research
 ---
 
-The hashtag [#CiteWomen](https://twitter.com/hashtag/citewomen) has been around for a while, but I haven't been able to find a tool to evaluate gender bias in my own academic work.
-How many of the papers you cite were written by women? And, if your bibliography is mostly male, why is this? The tool below makes it easy to evaluate how male (or female) your citation practices are. 
+The hashtag [#CiteWomen](https://twitter.com/hashtag/citewomen) made me want to evaluate the gender bias in my own academic work. 
+How many of the papers you cite were written by women? The tool below makes it easy to evaluate how male (or female) your bibliography is. 
+Are you citing mostly men? Why?
 Give it a try and let me know what you think at [@d_alburez](https://twitter.com/d_alburez)!
 
 Please excuse the glitches - this is very much work in progress ([source](https://github.com/alburezg/gender_bibliography)).
