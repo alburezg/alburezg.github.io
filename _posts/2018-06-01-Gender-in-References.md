@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Are you citing any women?
+title: Is your bibliograph male?
 category: Research
 ---
 
 The hashtag [#CiteWomen](https://twitter.com/hashtag/citewomen) made me wonder about the gender bias in my own academic work. 
-Am I citing only men (and why)? The tool below makes it easy to evaluate how male (or female) your bibliography is - simply paste your references in the box.
+Am I citing mostly men, and why? The tool below makes it easy to evaluate how male (or female) your bibliography is - simply paste your references in the box.
 
 Give it a try and let me know what you think at [@d_alburez](https://twitter.com/d_alburez)! This is a [beta version](https://github.com/alburezg/gender_bibliography) - **please excuse the glitches**.
 
