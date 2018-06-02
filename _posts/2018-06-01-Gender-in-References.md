@@ -4,7 +4,11 @@ title: Check the gender bias in your bibliography
 category: Research
 ---
 
-This is a **Beta version** ((source)[https://github.com/alburezg/gender_bibliography]).
+The hashtag [#CiteWomen](https://twitter.com/hashtag/citewomen) has been around for a while, but I haven't been able to find a tool to evaluate gender bias in my own academic work.
+How many of the papers you cite were written by women? And, if your bibliography is mostly male, why is this? The tool below makes it easy to evaluate how male (or female) your citation practices are. 
+Give it a try and let me know what you think at [@d_alburez](https://twitter.com/d_alburez)!
+
+Please excuse the glitches - this is very much work in progress ([source](https://github.com/alburezg/gender_bibliography)).
 
 # Instructions for use
 
@@ -16,7 +20,5 @@ This is a **Beta version** ((source)[https://github.com/alburezg/gender_bibliogr
   - If the tool doesn't load or if it cannot be reached (e.g. Error 504), please wait five minutes to reload the page. 
 
 **This tool relies on the kindness of the [Crossref API](https://github.com/CrossRef/rest-api-doc). Don't abuse it!**
-
-Comments: [@d_alburez](https://twitter.com/d_alburez)
 
 <iframe width = "100%" height = "1000px" seamless frameborder = "0" src="https://diego-alburez.shinyapps.io/gender_check/"></iframe>
