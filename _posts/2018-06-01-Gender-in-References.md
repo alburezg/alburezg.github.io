@@ -13,9 +13,7 @@ but researchers have leeway to chose whom they cite otherwise. Given two papers 
 the one written by a women? The choice is pretty much up to the individual researcher. To help make the decision, I created the gender checker 
 tool which makes it easy to evaluate the gender bias in your own bibliography. 
 
-Try it out - simply paste your references in the box below! Let me know what you think at [@d_alburez](https://twitter.com/d_alburez).
-
-*This is a [beta version](https://github.com/alburezg/gender_bibliography) - please excuse the glitches.*
+Try it out - simply paste your references in the box below! Let me know what you think at [@d_alburez](https://twitter.com/d_alburez). *This is a [beta version](https://github.com/alburezg/gender_bibliography) - please excuse the glitches.*
 
 # Instructions for use
 
