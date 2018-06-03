@@ -18,8 +18,8 @@ Try it out - simply paste your references in the box below! Let me know what you
 # Instructions for use
 
   - Copy and paste your bibliography in the text box, click the button, and allow some time for the tool to retrieve the information (up to a couple of minutes for long bibliographies).
-  - **The tool only works with peer-reviewed and indexed papers**. Don't include books, reports, or theses.
-  - Each reference must be in a separate line (i.e. separated by a line break) - you may have to reformat referencecs pasted from pdfs.
+  - **The tool only works with peer-reviewed papers in indexed journals**. Don't include books, reports, or theses.
+  - Each reference must be in a separate line (i.e. separated by a line break) - you may have to reformat references pasted from pdf files.
   - If the tool doesn't load or can't be reached (e.g. Error 504), please refresh after five minutes. 
   - The tool will look up each citation in a database and output the most likely match. Most matches are correct, but some noise if to be expected for older or lesser-known articles.
   - The gender of the authors is determined using U.S. Social Security Administration baby name data ([gender](https://www.r-project.org/nosvn/pandoc/gender.html) package in R). Unrecognised names are ignored.
