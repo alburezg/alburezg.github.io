@@ -4,19 +4,20 @@ title: Do bibliographies have a gender?
 category: Research
 ---
 
-The hashtag [#CiteWomen](https://twitter.com/hashtag/citewomen) made me think about bibliographic gender bias in my own work. Are the papers I cite mainly written 
-by men? Is my bibliography male and, if so, why? I did some empirical work to find out. 48.9% of the authors we cited in my last 
-[publication](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full) - which coincidently showed that women tend to be more thorough when 
-reporting their methodologies - were women. However, I don't think we had this in mind when we wrote the paper. 
+The hashtag [#CiteWomen](https://twitter.com/hashtag/citewomen) made me think about bibliographic gender bias in my own research. 
+Do I mainly cite papers written by men? Is my bibliography male and, if so, why? I did some research to explore this and found that 
+48.9% of the authors we cited in my last 
+[publication](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full) were women - the paper coincidently argues that women tend to be more thorough when 
+reporting their methodologies. However, I don't think we had this in mind when we wrote the paper. 
 
 Should we pay more attention to the gender of the authors we cite in our work? Seminal papers (usually written by men) often need to be cited, 
 but researchers have leeway to chose whom they cite otherwise. Given two papers of equivalent relevance and quality, should we actively cite 
 the one written by a women? The choice is pretty much up to the individual researcher. 
-To help make the decision, I created the gender checkr tool (below) which makes it easy 
-to evaluate the gender bias in your own bibliography - simply paste your references in the box. Give it a try and let me know what you think 
-at [@d_alburez](https://twitter.com/d_alburez)! 
+To help make the decision, I created the gender checker tool which makes it easy 
+to evaluate the gender bias in your own bibliography. Simply paste your references in the box below! Give it a try and let me know what you think 
+at [@d_alburez](https://twitter.com/d_alburez).
 
-This is a [beta version](https://github.com/alburezg/gender_bibliography) - please excuse the glitches.
+*This is a [beta version](https://github.com/alburezg/gender_bibliography) - please excuse the glitches.*
 
 # Instructions for use
 
