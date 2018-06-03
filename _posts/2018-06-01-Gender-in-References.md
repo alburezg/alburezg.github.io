@@ -19,7 +19,7 @@ Try it out - simply paste your references in the box below! Let me know what you
 
 # Instructions for use
 
-  - Copy and paste your bibliography in the text box and allow some time for the tool to retrieve the information (up to a couple of minutes for long bibliographies).
+  - Copy and paste your bibliography in the text box, click the button, and allow some time for the tool to retrieve the information (up to a couple of minutes for long bibliographies).
   - **The tool only works with peer-reviewed and indexed papers**. Don't include books, reports, or theses.
   - Each reference must be in a separate line (i.e. separated by a line break) - you may have to reformat referencecs pasted from pdfs.
   - If the tool doesn't load or can't be reached (e.g. Error 504), please refresh after five minutes. 
