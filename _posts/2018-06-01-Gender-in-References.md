@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do bibliographies have a gender?
+title: Do bibliographies have gender?
 category: Research
 ---
 
