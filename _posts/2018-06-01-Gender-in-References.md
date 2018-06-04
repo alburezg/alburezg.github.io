@@ -29,7 +29,7 @@ own bibliography.
   4. Let me know what you think at [@d_alburez](https://twitter.com/d_alburez)  
   5. I rely on the kindness of the [Crossref API](https://github.com/CrossRef/rest-api-doc). **Please, do not over-use the tool!**
 
-<iframe width = "100%" height = "100px" seamless frameborder = "0" src="https://diego-alburez.shinyapps.io/gender_check/"></iframe>
+<iframe width = "100%" height = "500px" seamless frameborder = "0" src="https://diego-alburez.shinyapps.io/gender_check/"></iframe>
 
 *This is a [beta version](https://github.com/alburezg/gender_bibliography). You can help improve it! Send me your error and input if something goes wrong: 
 alburezg[at]lse.ac.uk.*
