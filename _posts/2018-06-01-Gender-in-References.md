@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Is my bibliography gender-blind?
-subtitle: Should it be?
+title: Is my bibliography gendered?
 category: Research
 ---
 
 I like to think that I am a surname-type-of-person - when I cite a paper I never look at the author's name. As a result, my bibliography is gender-blind. Right? 
-To be honest, I never gave this much though. It was until a couple of days ago I come acros the [#CiteWomen](https://twitter.com/hashtag/citewomen) hashtag 
+Alhough, to be honest I never gave this much though. It was until a couple of days ago I come acros the [#CiteWomen](https://twitter.com/hashtag/citewomen) hashtag 
 on Twitter (there is also a [#CiteBlackWomen](https://twitter.com/hashtag/citeblackwomen) hashtag) that I began to wonder: whom *do* I cite in my own research? 
 Are my bibliographies gendered?
 
@@ -24,12 +23,11 @@ own bibliography.
 
 # It's easy to use - try it out!
 
-  1. Paste your bibliography in the box below and click the button! Be patient - the tool takes a couple of seconds to retrieve the information depending on the size of your bibligoraphy
+  1. Paste your bibliography in the box below and click the button! Be patient - the tool takes a while to retrieve the information depending on your bibligoraphy's size
   2. **The tool only works with peer-reviewed papers in indexed journals**. Don't include books, reports, or theses (sorry, non-paper-based disciplines!)
-  3. Each reference must be in a separate line - you may have to reformat references pasted from pdf files
+  3. Each reference must be in a separate line - you may have to reformat references copied from pdfs
   4. Let me know what you think at [@d_alburez](https://twitter.com/d_alburez)  
-
-**I rely on the kindness of the [Crossref API](https://github.com/CrossRef/rest-api-doc). Please, do not over-use the tool!**
+  5. I rely on the kindness of the [Crossref API](https://github.com/CrossRef/rest-api-doc). **Please, do not over-use the tool!**
 
 <iframe width = "100%" height = "1000px" seamless frameborder = "0" src="https://diego-alburez.shinyapps.io/gender_check/"></iframe>
 
