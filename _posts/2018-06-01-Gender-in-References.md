@@ -23,7 +23,7 @@ own bibliography.
 
 # It's easy to use - try it out!
 
-  1. Paste your bibliography in the box below and click the button! Be patient - the tool takes a while to retrieve the information depending on your bibligoraphy's size
+  1. Paste your bibliography in the box below and click the button! Be patient - it may take a while depending on the number of references
   2. **The tool only works with peer-reviewed papers in indexed journals**. Don't include books, reports, or theses (sorry, non-paper-based disciplines!)
   3. Each reference must be in a separate line - you may have to reformat references copied from pdfs
   4. Let me know what you think at [@d_alburez](https://twitter.com/d_alburez)  
