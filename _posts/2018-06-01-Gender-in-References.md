@@ -25,9 +25,9 @@ own bibliography.
 
   1. Paste your bibliography in the box below and click the button! Be patient - it may take a while depending on the number of references
   2. **The tool only works with peer-reviewed papers in indexed journals**. Don't include books, reports, or theses (sorry, non-paper-based disciplines!)
-  3. Each reference must be in a separate line - you may have to reformat references copied from pdfs
+  3. Include each reference in a separate line - you may have to reformat references from pdfs
   4. Let me know what you think at [@d_alburez](https://twitter.com/d_alburez)  
-  5. I rely on the kindness of the [Crossref API](https://github.com/CrossRef/rest-api-doc). **Please, do not over-use the tool!**
+  5. The tool uses the [Crossref API](https://github.com/CrossRef/rest-api-doc). **Please, restrict your number of queries!**
 
 <iframe width = "100%" height = "500px" seamless frameborder = "0" src="https://diego-alburez.shinyapps.io/gender_check/"></iframe>
 
