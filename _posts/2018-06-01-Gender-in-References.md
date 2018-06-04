@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Do bibliographies have gender?
+title: Is my bibliography gender-blind?
+subtitle: Should it be?
 category: Research
 ---
 
@@ -26,7 +27,7 @@ but researchers have leeway to chose whom they reference otherwise. Given two pa
 the one written by a women? The choice is pretty much up to the individual researcher. As a first step, I created a simple tool that can be used to evaluate 
 the gender bias in your own bibliography.
 
-# It's simple to use - try it out!
+# It's easy to use - try it out!
 
   1. Paste your bibliography in the box below and click the button! Be patient - the tool will take a couple of seconds to retrieve the information depending on the size of your bibligoraphy
   2. Each reference must be in a separate line - you may have to reformat references pasted from pdf files
