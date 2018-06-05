@@ -28,9 +28,10 @@ bibliography. How does yours fare?
   2. **The tool only works with peer-reviewed papers in indexed journals**. Don't include books, reports, or theses (sorry, non-paper-based disciplines!)
   3. Include each reference in a separate line - you may have to reformat references from pdfs
   4. Let me know what you think at [@d_alburez](https://twitter.com/d_alburez)  
-  5. The tool uses the Crossref [API](https://github.com/CrossRef/rest-api-doc). **Please, please do not abuse it!**
+  5. The tool uses the Crossref [API](https://github.com/CrossRef/rest-api-doc). **Please, do not abuse it!**
 
-<iframe width = "100%" height = "550px" seamless frameborder = "0" src="http://ec2-18-218-227-138.us-east-2.compute.amazonaws.com:3838/myapp/"></iframe>
+[comment]: <> <iframe width = "100%" height = "550px" seamless frameborder = "0" src="http://ec2-18-218-227-138.us-east-2.compute.amazonaws.com:3838/myapp/"></iframe>
+<iframe width = "100%" height = "550px" seamless frameborder = "0" src="https://diego-alburez.shinyapps.io/gender_check/"></iframe>
 
 *This is a [beta version](https://github.com/alburezg/gender_bibliography). You can help improve it! If the tool doesn't work, send me the error message and
 your input references: alburezg[at]lse.ac.uk.*
