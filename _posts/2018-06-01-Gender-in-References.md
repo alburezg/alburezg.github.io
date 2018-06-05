@@ -36,6 +36,6 @@ alburezg[at]lse.ac.uk.*
 
 # Technical notes and limitations
 
-  - The tool will look up each citation and output the most likely match. Most matches are correct, but some noise if to be expected for older or lesser-known articles.
+  - The tool outputs the most likely match for each reference. Most matches are correct, but some noise if to be expected for older or lesser-known articles.
   - The (binary) gender of the authors is determined using U.S. Social Security Administration baby name data ([gender](https://www.r-project.org/nosvn/pandoc/gender.html) package in R). Unrecognised names are ignored.
   - The most common gender will be assigned to gender-neutral names.
