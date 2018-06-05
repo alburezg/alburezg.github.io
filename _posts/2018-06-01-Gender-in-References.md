@@ -4,22 +4,24 @@ title: Is my bibliography gendered?
 category: Research
 ---
 
-I like to think that I am a surname-type-of-person - when I cite a paper I never look at the author's name. As a result, my bibliography is gender-blind. Right? 
-Alhough, to be honest I never gave this much though. It was until a couple of days ago I come acros the [#CiteWomen](https://twitter.com/hashtag/citewomen) hashtag 
-on Twitter (there is also a [#CiteBlackWomen](https://twitter.com/hashtag/citeblackwomen) hashtag) that I began to wonder: whom *do* I cite in my own research? 
-Are my bibliographies gendered?
+I like to think that my bibliography is gender-blind because when I cite a paper I hardly ever look at the author's name. Alhough, to be completely honest, 
+I never gave this much though until I come acros the [#CiteWomen](https://twitter.com/hashtag/citewomen) hashtag on Twitter. 
+(there is also a [#CiteBlackWomen](https://twitter.com/hashtag/citeblackwomen) hashtag). Then I began to wonder: whom *do* I cite in my own research? 
+Is my bibliography gendered?
 
-In my discipline, women are now [almost as likely](https://demotrends.org/2016/11/17/gendered-pattern-of-publication-in-demography/) 
-to publish in the field's top-rated journal - Demography. However this is a recent phenomenon and most of the papers already out there, in the *academosphere*, 
-were written by men. Therefore, there are more male-authored papers to cite. This is also problematic since certain works become more popular over time. 
-Seminal papers in demography were mostly written by men and every time I bring up, for example, the concept of the 'proximate determinants of fertility' I feel 
-the need to cite John Bongaarts. This way, John continues to accummulate citations. Finally, there is the inexplicable fact that 
+Women are now [almost as likely as men](https://demotrends.org/2016/11/17/gendered-pattern-of-publication-in-demography/) to publish in my field's top-rated 
+journal - Demography. However this is a recent phenomenon and most of the papers already out there were written by men, which means there are more 
+male-authored papers in the 'citing pool'. This is especially problematic since certain works become more popular over time. Seminal papers in demography 
+were mostly written by men and every time I write about, for example, the concept of the 'proximate determinants of fertility' I feel the need to cite 
+it's creator - John Bongaarts. This way, John continues to accummulate citations. This is not to mention the fact that 
 [men cite themselves more than women do](https://www.nature.com/news/men-cite-themselves-more-than-women-do-1.20176). 
 
-Should we pay more attention to the gender of the authors we cite in our own work? Foundational papers (usually written by men) often need to be cited, 
-but researchers have leeway to chose whom they reference otherwise. Given two papers of equivalent relevance and quality, should we actively cite 
-the one written by a women? The choice is up to the individual researcher. As an initial first step, I created a tool to evaluate the gender bias in your 
-own bibliography.
+Should we pay more attention to the gender of the authors we cite in our own work? Foundational papers (in my discipline, usually written by men) 
+need to be cited, but researchers have leeway to chose whom they reference otherwise. Given two papers of equivalent relevance and quality, should we 
+actively cite the one written by a women? To help make this decision, I created a tool to evaluate gender bias by determining the propoertion of
+female-authored papers in a given bibligraphy.
+
+The choice is up to the individual researcher. As an initial first step, 
 
 ## It's easy to use - try it out!
 
@@ -27,7 +29,7 @@ own bibliography.
   2. **The tool only works with peer-reviewed papers in indexed journals**. Don't include books, reports, or theses (sorry, non-paper-based disciplines!)
   3. Include each reference in a separate line - you may have to reformat references from pdfs
   4. Let me know what you think at [@d_alburez](https://twitter.com/d_alburez)  
-  5. The tool uses the [Crossref API](https://github.com/CrossRef/rest-api-doc). **Please, restrict your number of queries!**
+  5. The tool uses the Crossref [API](https://github.com/CrossRef/rest-api-doc). **Please, please do not abuse it!**
 
 <iframe width = "100%" height = "550px" seamless frameborder = "0" src="http://ec2-18-218-227-138.us-east-2.compute.amazonaws.com:3838/myapp/"></iframe>
 
