@@ -18,10 +18,8 @@ it's creator - John Bongaarts. This way, John continues to accummulate citations
 
 Should we pay more attention to the gender of the authors we cite in our own work? Foundational papers (in my discipline, usually written by men) 
 need to be cited, but researchers have leeway to chose whom they reference otherwise. Given two papers of equivalent relevance and quality, should we 
-actively cite the one written by a women? To help make this decision, I created a tool to evaluate gender bias by determining the propoertion of
-female-authored papers in a given bibligraphy.
-
-The choice is up to the individual researcher. As an initial first step, 
+actively cite the one written by a women? To help make this decision, I created a tool to determine the proportion of female-authored papers in a given 
+bibliography. How does yours fare?
 
 ## It's easy to use - try it out!
 
