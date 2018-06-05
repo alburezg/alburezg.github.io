@@ -21,7 +21,7 @@ but researchers have leeway to chose whom they reference otherwise. Given two pa
 the one written by a women? The choice is up to the individual researcher. As an initial first step, I created a tool to evaluate the gender bias in your 
 own bibliography.
 
-# It's easy to use - try it out!
+## It's easy to use - try it out!
 
   1. Paste your bibliography in the box below and click the button! Be patient - it may take a while depending on the number of references
   2. **The tool only works with peer-reviewed papers in indexed journals**. Don't include books, reports, or theses (sorry, non-paper-based disciplines!)
@@ -29,12 +29,12 @@ own bibliography.
   4. Let me know what you think at [@d_alburez](https://twitter.com/d_alburez)  
   5. The tool uses the [Crossref API](https://github.com/CrossRef/rest-api-doc). **Please, restrict your number of queries!**
 
-<iframe width = "100%" height = "750px" seamless frameborder = "0" src="http://ec2-18-218-227-138.us-east-2.compute.amazonaws.com:3838/myapp/"></iframe>
+<iframe width = "100%" height = "600px" seamless frameborder = "0" src="http://ec2-18-218-227-138.us-east-2.compute.amazonaws.com:3838/myapp/"></iframe>
 
-*This is a [beta version](https://github.com/alburezg/gender_bibliography). You can help improve it! Send me your error and input if something goes wrong: 
-alburezg[at]lse.ac.uk.*
+*This is a [beta version](https://github.com/alburezg/gender_bibliography). You can help improve it! If the tool doesn't work, send me the error message and
+your input references: alburezg[at]lse.ac.uk.*
 
-# Technical notes and limitations
+## Technical notes and limitations
 
   - The tool outputs the most likely match for each reference. Most matches are correct, but some noise if to be expected for older or lesser-known articles.
   - The (binary) gender of the authors is determined using U.S. Social Security Administration baby name data ([gender](https://www.r-project.org/nosvn/pandoc/gender.html) package in R). Unrecognised names are ignored.
