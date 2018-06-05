@@ -4,8 +4,9 @@ title: Is my bibliography gendered?
 category: Research
 ---
 
-I like to think that my bibliography is gender-blind because when I cite a paper I hardly ever look at the author's name. Alhough, to be completely honest, 
-I never gave this much though until I come acros the [#CiteWomen](https://twitter.com/hashtag/citewomen) hashtag on Twitter. 
+I like to think that my bibliography is gender-blind because when I come across a new paper I focus on the author's surname. I don't really pay 
+too much attention to forenames. Alhough, to be completely honest, I never gave the topic much though until I come acros the 
+[#CiteWomen](https://twitter.com/hashtag/citewomen) hashtag on Twitter 
 (there is also a [#CiteBlackWomen](https://twitter.com/hashtag/citeblackwomen) hashtag). Then I began to wonder: whom *do* I cite in my own research? 
 Is my bibliography gendered?
 
