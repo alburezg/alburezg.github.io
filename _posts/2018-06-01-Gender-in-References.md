@@ -5,7 +5,7 @@ category: Research
 ---
 
 > "Consider what you might want to change about your academic citation practices. Who do you choose to link and re-circulate in your work? Who gets erased? 
-Who should you stop citing?" [The Citation Practices Challenge](http://www.criticalethnicstudiesjournal.org/citation-practices/)
+Who should you stop citing?" [The Citation Practices Challenge](http://www.criticalethnicstudiesjournal.org/citation-practices/).
 
 I like to think that my bibliography is gender-blind because when I come across a new paper I focus on the author's surname. I don't really pay 
 too much attention to forenames. Alhough, to be completely honest, I never gave the topic much though until I come acros the 
@@ -31,10 +31,9 @@ bibliography. How does yours fare?
   2. **The tool only works with peer-reviewed papers in indexed journals**. Don't include books, reports, or theses (sorry, non-paper-based disciplines!)
   3. Include each reference in a separate line - you may have to reformat references from pdfs
   4. Let me know what you think at [@d_alburez](https://twitter.com/d_alburez)  
-  5. The tool uses the Crossref [API](https://github.com/CrossRef/rest-api-doc). **Please, do not abuse it!** 
 
 [comment]: <> <iframe width = "100%" height = "550px" seamless frameborder = "0" src="http://ec2-18-218-227-138.us-east-2.compute.amazonaws.com:3838/myapp/"></iframe>
-<iframe width = "100%" height = "550px" seamless frameborder = "0" src="https://diego-alburez.shinyapps.io/gender_check/"></iframe>
+<iframe width = "100%" height = "550px" seamless frameborder = "0" src="https://diego-alburez.shinyapps.io/gender/"></iframe>
 
 *This is a [beta version](https://github.com/alburezg/gender_bibliography). You can help improve it! If the tool doesn't work, send me the error message and
 your input references: alburezg[at]lse.ac.uk.*
@@ -44,3 +43,4 @@ your input references: alburezg[at]lse.ac.uk.*
   - The tool outputs the most likely match for each reference. Most matches are correct, but some noise if to be expected for older or lesser-known articles.
   - The (binary) gender of the authors is determined using U.S. Social Security Administration baby name data ([gender](https://www.r-project.org/nosvn/pandoc/gender.html) package in R). Unrecognised names are ignored.
   - The most common gender will be assigned to gender-neutral names.
+  - The tool uses the Crossref [API](https://github.com/CrossRef/rest-api-doc). **Please, do not abuse it!** 
