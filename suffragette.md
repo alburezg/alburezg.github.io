@@ -32,6 +32,8 @@ Palettes
 
 ![s](suf/oxon.jpg)
 
+<img src="suf/oxon.jpg" width="200"/>
+
 
     # Discrete
     suf_palette("oxon")
