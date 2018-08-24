@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ‘Sufragette’ 
+title: ‘Sufrage’ 
 subtitle: a colour palette for data visualisation in R
 ---
 
@@ -12,12 +12,12 @@ Installation
 ------------
 
     # library(devtools)
-    # install_github("alburezg/suffragette")
+    # install_github("alburezg/suffrage")
 
 Usage
 -----
 
-    library(suffragette)
+    library(suffrage)
 
 See all available palettes:
 
