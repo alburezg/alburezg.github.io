@@ -30,9 +30,9 @@ Palettes
 
 ### Never a Step Backward: Oxon Berks Bucks Federation
 
-![s](suf/oxon.jpg){width=300px}
+![s](suf/oxon.jpg =300x)
 
- 
+
     # Discrete
     suf_palette("oxon")
 
