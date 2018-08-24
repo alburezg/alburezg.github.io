@@ -58,7 +58,6 @@ Palettes
 ### Classic suffragette flag
 
 ![s](suf/flag.jpg)
-<img src="suf/flag.jpg" alt="drawing" width="300"/>
 
     # Discrete
     suf_palette("flag")
