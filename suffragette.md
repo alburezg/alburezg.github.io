@@ -72,4 +72,4 @@ Palettes
     # Continuous
     suf_palette("flag", n = 6, type = "continuous")
 
-![](suf/unnamed-chunk-8-1.png)
+![s](suf/unnamed-chunk-8-1.png)
