@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ‘Sufrage’ 
+title: ‘Suffrage’ 
 subtitle: a colour palette for data visualisation in R
 ---
 
@@ -30,7 +30,7 @@ Palettes
 
 ### Never a Step Backward: Oxon Berks Bucks Federation
 
-![s](suf/oxon.jpg)
+![s](suf/oxon.jpg | width=300)
 
     # Discrete
     suf_palette("oxon")
