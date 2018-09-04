@@ -12,12 +12,12 @@ Installation
 ------------
 
     # library(devtools)
-    # install_github("alburezg/suffrage")
+    # install_github("alburezg/suffragette")
 
 Usage
 -----
 
-    library(suffrage)
+    library(suffragette)
 
 See all available palettes:
 
@@ -68,3 +68,20 @@ Palettes
     suf_palette("flag", n = 6, type = "continuous")
 
 ![s](suf/unnamed-chunk-8-1.png)
+
+Examples
+--------
+
+    library(ggplot2)
+
+    ## Warning: package 'ggplot2' was built under R version 3.4.4
+
+    data(diamonds)
+
+    pal <- suf_palette("oxon")
+
+    ggplot(diamonds, aes(x=carat, y=price, colour=cut)) +
+      geom_point() +
+      scale_colour_manual(values = pal)
+
+![s](suf/unnamed-chunk-9-1.png)
