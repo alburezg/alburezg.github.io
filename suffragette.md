@@ -32,10 +32,6 @@ Palettes
 
 <img src="/suf/oxon.jpg" width="300">
 
-<img src="/oxon.jpg" width="300">
-
-![s](suf/oxon.jpg | width=300)
-
     # Discrete
     suf_palette("oxon")
 
@@ -43,7 +39,7 @@ Palettes
 
 ### London Society (from Mary Lowndes Album)
 
-![s](suf/london.jpg)
+<img src="/suf/london.jpg" width="300">
 
     # Discrete
     suf_palette("london")
@@ -52,7 +48,7 @@ Palettes
 
 ### Hanwell Women's Institute
 
-![s](suf/hanwell.jpg)
+<img src="/suf/hanwell.jpg" width="300">
 
     # Discrete
     suf_palette("hanwell")
@@ -61,7 +57,7 @@ Palettes
 
 ### Classic suffragette flag
 
-![s](suf/flag.jpg)
+<img src="/suf/flag.jpg" width="300">
 
     # Discrete
     suf_palette("flag")
