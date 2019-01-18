@@ -11,18 +11,19 @@ Alburez-Gutierrez, D. & Segura García C. (2018). "The UNHCR Demographic Project
 
 Alburez-Gutierrez, D. (April 2018) ["Social support and social scarring: the protective effects of family ties during mass killings"](pdf/SUDA18_Alburez.pdf). Working paper.
 
-Alburez-Gutierrez, D. (July 2017). ["Blood is thicker than bloodshed: using genealogies to reconstruct populations after armed conflicts"](pdf/BSPS17_methodology_alburez.pdf). Submitted for publication.
-
 Alburez-Gutierrez, D. (August 2017). ["Who drives fertility recover after armed conflicts? A case study from the Guatemalan genocide"](pdf/IUSSP17_demographic_effects_conflict_alburez.pdf). Working paper.
 
 # Peer-reviewed papers
 
 {: .notice}
+
+Alburez-Gutierrez, D. (2019). "Blood is thicker than bloodshed: using genealogies to reconstruct populations after armed conflicts". Demographic Research (in print).
+
 Leone, T., Alburez-Gutierrez, D., Gandour, R., Coast, E., and Giacaman, R. (2018). "Maternal and child health outcomes and intensity of conflict in the occupied Palestinian territory in 2000-14: a pseudo longitudinal analysis." The Lancet 391:S48. doi:[10.1016/S0140-6736(18)30414-8](https://doi.org/10.1016/S0140-6736(18)30414-8).
 
 McGovern, P., and Alburez-Gutierrez, D. (2017) "Who takes workplace case-study methods seriously? The influence of gender, academic rank and PhD training.”  Industrial Relations Journal, 48: 98–114. doi:[10.1111/irj.12171](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full).
 
-# Conferences
+# Recent conferences
 
 Alburez-Gutierrez, D. (2017). "The demographic effects of armed conflict: evidence from the 1980 Maya Achi genocide". In: XXVIII IUSSP International Population Conference, 1-5 November 2017, Cape Town, South Africa.
 
