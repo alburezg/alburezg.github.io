@@ -17,7 +17,7 @@ Alburez-Gutierrez, D. (August 2017). ["Who drives fertility recover after armed 
 
 {: .notice}
 
-Alburez-Gutierrez, D. (2019). "Blood is thicker than bloodshed: using genealogies to reconstruct populations after armed conflicts". Demographic Research (in print).
+Alburez-Gutierrez, D. (2019). Blood is thicker than bloodshed: A genealogical approach to reconstruct populations after armed conflicts. Demographic Research, 40(23): 627-656. DOI: [10.4054/DemRes.2019.40.23](https://www.demographic-research.org/volumes/vol40/23/).
 
 Leone, T., Alburez-Gutierrez, D., Gandour, R., Coast, E., and Giacaman, R. (2018). "Maternal and child health outcomes and intensity of conflict in the occupied Palestinian territory in 2000-14: a pseudo longitudinal analysis." The Lancet 391:S48. doi:[10.1016/S0140-6736(18)30414-8](https://doi.org/10.1016/S0140-6736(18)30414-8).
 
