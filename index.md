@@ -10,4 +10,4 @@ Research Scientist at the [Laboratory of Digital and Computational Demography](h
 ## 	Check out my latest publication!
 
 {: .notice}
-Alburez-Gutierrez, D. & Segura García C. (2018). "The UNHCR Demographic Projection Tool: estimating the future size and compositionof forcibly displaced populations." [UNHCR Statistics Technical Series, 2018/1](http://www.unhcr.org/en-au/5ae9ee747.pdf).
+Alburez-Gutierrez, D. (2019). Blood is thicker than bloodshed: A genealogical approach to reconstruct populations after armed conflicts. Demographic Research, 40(23): 627-656. DOI: \href{10.4054/DemRes.2019.40.23}{https://www.demographic-research.org/volumes/vol40/23/}.
