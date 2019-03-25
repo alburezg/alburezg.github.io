@@ -25,7 +25,7 @@ McGovern, P., and Alburez-Gutierrez, D. (2017) "Who takes workplace case-study m
 
 # Recent conferences
 
-Alburez-Gutierrez, D. (2019). [Kinship 3.0: A data-driven approach](pdf/alburez_kinship_3.0.pdf). Workshop: Emerging Research Questions at the Intersection of Demography and Epidemiology, Castle Ringberg, 22.03.2019. 
+Alburez-Gutierrez, D. (2019). [Kinship 3.0: A data-driven approach](pdf/alburez_kinship_3.0.pdf). Workshop: Emerging Research Questions at the Intersection of Demography and Epidemiology, MPIDR: Castle Ringberg, 22.03.2019. 
 
 Alburez-Gutierrez, D. (2017). "The demographic effects of armed conflict: evidence from the 1980 Maya Achi genocide". In: XXVIII IUSSP International Population Conference, 1-5 November 2017, Cape Town, South Africa.
 
