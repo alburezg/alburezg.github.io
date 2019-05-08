@@ -7,7 +7,7 @@ title: Publications and conferences
 
 Papers on digital and computational demography:
 
-Alburez-Gutierrez, D., Zagheni, E., Aref, S., Gil-Clavel, S., Grow, A., & Negraia, D. V. (2019, May 8). Demography in the Digital Era: New Data Sources for Population Research. https://doi.org/10.31235/osf.io/24jp7
+Alburez-Gutierrez, D., Zagheni, E., Aref, S., Gil-Clavel, S., Grow, A., & Negraia, D. V. (2019, May 8). Demography in the Digital Era: New Data Sources for Population Research. [https://doi.org/10.31235/osf.io/24jp7](https://doi.org/10.31235/osf.io/24jp7)
 
 Papers related to the effects of mass violence exercised against non-combatants. I use a mix-methods research design to analyse how reproductive behaviour changes after genocidal violence, in particular the role of pronatalism in post-war settings. I am also interested in the ‘protective’ effects of family during and after armed conflicts. My research uses respondent-generated genealogical data to study population dynamics during and after mortality crises.
 
