@@ -41,6 +41,10 @@ Alburez-Gutierrez, D. (2017). "Blood is thicker than bloodshed: using genealogie
 
 Leone, Tiziana; D. Alburez-Gutierrez; R. Gandour; E. Coast; and R. Giacaman (2017) "[Maternal and child health outcomes and intensity of conflict in the occupied Palestinian territory: a pseudo longitudinal analysis of the 2000-2014 period](http://eprints.lse.ac.uk/69993/)". In: The Lancet Palestinian Health Alliance (LPHA) Eighth Annual Conference, 15-16 March 2017, Birzeit, Palestine. (Unpublished) 
 
+# PhD thesis
+
+Alburez-Gutierrez, D. (2018). [Beyond excess mortality: the demographic life of a Mayan community after a war of massacres.](http://etheses.lse.ac.uk/3872/). PhD thesis, The London School of Economics and Political Science (LSE). 
+
 # Blog posts and media
 
 Alburez-Gutierrez, D. (2016) [Genocide is the tip of the iceberg: Reviewing the Guatemalan case.](http://blogs.lse.ac.uk/humanrights/2016/02/18/genocide-is-the-tip-of-the-iceberg-reviewing-the-guatemalan-case/) LSE Human Rights blog.
