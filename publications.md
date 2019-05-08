@@ -25,6 +25,12 @@ McGovern, P., and Alburez-Gutierrez, D. (2017) "Who takes workplace case-study m
 
 # Recent conferences
 
+Alburez-Gutierrez, D. (2019). [Sangre y parentesco: Un acercamiento genealógico para reconstruir poblaciones tras conﬂictos armados](pdf/1_alburez_metodos_FLACSO.pdf). Guatemala: Latin American Social Sciences Institute, 25 April 2019.
+
+Alburez-Gutierrez, D. (2019). [Supervivencia en tiempos de violencia colectiva: El papel del apoyo familiar](pdf/2_alburez_mortalidad_FLACSO.pdf). Guatemala: Latin American Social Sciences Institute, 25 April 2019.
+
+Alburez-Gutierrez, D. (2019). [Violencia y reproducción tras las masacres de Río Negro](pdf/3_alburez_fecundidad_FLACSO.pdf). Guatemala: Latin American Social Sciences Institute, 25 April 2019.
+
 Alburez-Gutierrez, D. (2019). [Kinship 3.0: A data-driven approach](pdf/alburez_kinship_3.0.pdf). Workshop: Emerging Research Questions at the Intersection of Demography and Epidemiology, MPIDR: Castle Ringberg, 22.03.2019. 
 
 Alburez-Gutierrez, D. (2017). "The demographic effects of armed conflict: evidence from the 1980 Maya Achi genocide". In: XXVIII IUSSP International Population Conference, 1-5 November 2017, Cape Town, South Africa.
