@@ -43,7 +43,9 @@ Leone, Tiziana; D. Alburez-Gutierrez; R. Gandour; E. Coast; and R. Giacaman (201
 
 # PhD thesis
 
-Alburez-Gutierrez, D. (2018). [Beyond excess mortality: the demographic life of a Mayan community after a war of massacres.](http://etheses.lse.ac.uk/3872/). PhD thesis, The London School of Economics and Political Science (LSE). 
+The full text of my PhD thesis is available online:
+
+Alburez-Gutierrez, D. (2018). [Beyond excess mortality: the demographic life of a Mayan community after a war of massacres](http://etheses.lse.ac.uk/3872/). PhD thesis, The London School of Economics and Political Science (LSE). 
 
 I also prepared three posters (in a [#betterposter](https://twitter.com/hashtag/BetterPoster?src=hash) format) to highlight some of the main results. For the time being, these are only available in Spanish:
 
@@ -52,8 +54,6 @@ I also prepared three posters (in a [#betterposter](https://twitter.com/hashtag/
    2. [Del 62% de los habitantes de Río Negro que sobrevivió las masacres, quienes perdieron más parientes murieron antes](pdf/2.poster_mortalidad_alburez.pdf)
 
    3. [Las mujeres que fueron más afectadas por la violencia tuvieron un menor número de hijos tras las Masacres de Río Negro](pdf/3.poster_fertilidad_alburez.pdf)
-
-(1._poster_metodo_alburez.pdf)
 
 # Blog posts and media
 
