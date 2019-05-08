@@ -25,12 +25,6 @@ McGovern, P., and Alburez-Gutierrez, D. (2017) "Who takes workplace case-study m
 
 # Recent conferences
 
-Alburez-Gutierrez, D. (2019). [Sangre y parentesco: Un acercamiento genealógico para reconstruir poblaciones tras conﬂictos armados](pdf/1_alburez_metodos_FLACSO.pdf). Guatemala: Latin American Social Sciences Institute, 25 April 2019.
-
-Alburez-Gutierrez, D. (2019). [Supervivencia en tiempos de violencia colectiva: El papel del apoyo familiar](pdf/2_alburez_mortalidad_FLACSO.pdf). Guatemala: Latin American Social Sciences Institute, 25 April 2019.
-
-Alburez-Gutierrez, D. (2019). [Violencia y reproducción tras las masacres de Río Negro](pdf/3_alburez_fecundidad_FLACSO.pdf). Guatemala: Latin American Social Sciences Institute, 25 April 2019.
-
 Alburez-Gutierrez, D. (2019). [Kinship 3.0: A data-driven approach](pdf/alburez_kinship_3.0.pdf). Workshop: Emerging Research Questions at the Intersection of Demography and Epidemiology, MPIDR: Castle Ringberg, 22.03.2019. 
 
 Alburez-Gutierrez, D. (2017). "The demographic effects of armed conflict: evidence from the 1980 Maya Achi genocide". In: XXVIII IUSSP International Population Conference, 1-5 November 2017, Cape Town, South Africa.
@@ -47,7 +41,15 @@ The full text of my PhD thesis is available online:
 
 Alburez-Gutierrez, D. (2018). [Beyond excess mortality: the demographic life of a Mayan community after a war of massacres](http://etheses.lse.ac.uk/3872/). PhD thesis, The London School of Economics and Political Science (LSE). 
 
-I also prepared three posters (in a [#betterposter](https://twitter.com/hashtag/BetterPoster?src=hash) format) to highlight some of the main results. For the time being, these are only available in Spanish:
+A summary of the thesis can be found in these three presentations given at the Latin American Social Sciences Institute, Guatemala 25 April 2019.(in Spanish):
+
+   1. [Sangre y parentesco: Un acercamiento genealógico para reconstruir poblaciones tras conﬂictos armados](pdf/1_alburez_metodos_FLACSO.pdf). 
+
+   2. [Supervivencia en tiempos de violencia colectiva: El papel del apoyo familiar](pdf/2_alburez_mortalidad_FLACSO.pdf). Guatemala: Latin American Social Sciences Institute, 25 April 2019.
+
+   3. [Violencia y reproducción tras las masacres de Río Negro](pdf/3_alburez_fecundidad_FLACSO.pdf). Guatemala: Latin American Social Sciences Institute, 25 April 2019.
+
+I also prepared three posters (in a [#betterposter](https://twitter.com/hashtag/BetterPoster?src=hash) format) to highlight some of the main results. For now, they are only available in Spanish:
 
    1. [100 árboles familiares de sobrevivientes de las masacres generaron información sobre toda la población de Río Negro](pdf/1._poster_metodo_alburez.pdf)
 
