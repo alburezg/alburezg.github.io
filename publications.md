@@ -41,21 +41,21 @@ The full text of my PhD thesis is available online:
 
 Alburez-Gutierrez, D. (2018). [Beyond excess mortality: the demographic life of a Mayan community after a war of massacres](http://etheses.lse.ac.uk/3872/). PhD thesis, The London School of Economics and Political Science (LSE). 
 
-A summary of the thesis can be found in these three presentations given at the Latin American Social Sciences Institute, Guatemala 25 April 2019.(in Spanish):
+A summary of the thesis can be found in these three presentations given at the Latin American Social Sciences Institute, Guatemala 25 April 2019 (in Spanish):
 
-   1. [Sangre y parentesco: Un acercamiento genealógico para reconstruir poblaciones tras conﬂictos armados](pdf/1_alburez_metodos_FLACSO.pdf). 
+   1. [Método de recolección de datos en Río Negro (presentación)](pdf/1_alburez_metodos_FLACSO.pdf). 
 
-   2. [Supervivencia en tiempos de violencia colectiva: El papel del apoyo familiar](pdf/2_alburez_mortalidad_FLACSO.pdf). Guatemala: Latin American Social Sciences Institute, 25 April 2019.
+   2. [Mortalidad en Río Negro durante y tras las masacres (presentación)](pdf/2_alburez_mortalidad_FLACSO.pdf)
 
-   3. [Violencia y reproducción tras las masacres de Río Negro](pdf/3_alburez_fecundidad_FLACSO.pdf). Guatemala: Latin American Social Sciences Institute, 25 April 2019.
+   3. [Fertilidad en Río Negro tras las masacres (presentación)](pdf/3_alburez_fecundidad_FLACSO.pdf)
 
 I also prepared three posters (in a [#betterposter](https://twitter.com/hashtag/BetterPoster?src=hash) format) to highlight some of the main results. For now, they are only available in Spanish:
 
-   1. [100 árboles familiares de sobrevivientes de las masacres generaron información sobre toda la población de Río Negro](pdf/1._poster_metodo_alburez.pdf)
+   1. [Método de recolección de datos en Río Negro (poster)](pdf/1._poster_metodo_alburez.pdf)
 
-   2. [Del 62% de los habitantes de Río Negro que sobrevivió las masacres, quienes perdieron más parientes murieron antes](pdf/2.poster_mortalidad_alburez.pdf)
+   2. [Mortalidad en Río Negro durante y tras las masacres (poster)](pdf/2.poster_mortalidad_alburez.pdf)
 
-   3. [Las mujeres que fueron más afectadas por la violencia tuvieron un menor número de hijos tras las Masacres de Río Negro](pdf/3.poster_fertilidad_alburez.pdf)
+   3. [Fertilidad en Río Negro tras las masacres (poster)](pdf/3.poster_fertilidad_alburez.pdf)
 
 # Blog posts and media
 
