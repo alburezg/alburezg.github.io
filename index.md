@@ -10,4 +10,4 @@ Hi! I am a Research Scientist at the [Laboratory of Digital and Computational De
 ## 	Check out my latest publication!
 
 {: .notice}
-Alburez-Gutierrez, D. (2019). Blood is thicker than bloodshed: A genealogical approach to reconstruct populations after armed conflicts. Demographic Research, 40(23): 627-656. DOI: [10.4054/DemRes.2019.40.23](https://www.demographic-research.org/volumes/vol40/23/).
+Leone, T., **Alburez-Gutierrez, D.**, Ghandour, R., Coast, E., and Giacaman, R. (2019). Maternal and child access to care and intensity of conflict in the occupied Palestinian territory: a pseudo-longitudinal analysis (2000–2014). Conflict and Health 13(1). [doi:10.1186/s13031-019-0220-2](https://doi.org/10.1186/s13031-019-0220-2).
