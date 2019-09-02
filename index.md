@@ -10,4 +10,4 @@ Hi! I am a Research Scientist at the [Laboratory of Digital and Computational De
 ## 	Check out my latest publication!
 
 {: .notice}
-Leone, T., **Alburez-Gutierrez, D.**, Ghandour, R., Coast, E., and Giacaman, R. (2019). Maternal and child access to care and intensity of conflict in the occupied Palestinian territory: a pseudo-longitudinal analysis (2000–2014). Conflict and Health 13(1). [doi:10.1186/s13031-019-0220-2](https://doi.org/10.1186/s13031-019-0220-2).
+Leone, T., **Alburez-Gutierrez, D.**, Ghandour, R., Coast, E., and Giacaman, R. (2019). *Maternal and child access to care and intensity of conflict in the occupied Palestinian territory: a pseudo-longitudinal analysis (2000–2014)*. Conflict and Health 13(1). DOI:[10.1186/s13031-019-0220-2](https://doi.org/10.1186/s13031-019-0220-2).
