@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Population pyramids in R for beginners
