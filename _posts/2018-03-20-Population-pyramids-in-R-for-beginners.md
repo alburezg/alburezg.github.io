@@ -1,7 +1,12 @@
-Population pyramids in R for beginners
-================
-Diego Alburez-Gutierrez
-3/10/2020
+
+---
+layout: post
+title: Population pyramids in R for beginners
+category: Opinion
+author: Diego Alburez-Gutierrez
+---
+
+* Easy hacks for plotting population pyramids in R.
 
 Following the explosion of data visualisations in the context of the
 COVID-19 pandemic, I thought I’d share some easy and flexible code to
