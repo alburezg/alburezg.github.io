@@ -11,7 +11,7 @@ Following the explosion of data visualisations in the context of the
 COVID-19 pandemic, I thought I’d share some easy and flexible code to
 plot population pyramids in R.
 
-First, we’ll create a bogus population dataset with population totals by
+For this exercise, we’ll create a bogus population dataset with population totals by
 age and sex, including a column to indicate the fraction that each group
 is of the total population.
 
@@ -24,9 +24,14 @@ pop <- data.frame(
   , frac = c(0.11, 0.14, 0.11, 0.06, 0.04, 0.04, 0.11, 0.13, 0.12, 
             0.06, 0.05, 0.04)
 )
+```
 
+and explore the data:
+
+``` r
 head(pop)
 ```
+
 
     ##      sex   age pop frac
     ## 1 Female   0-9 256 0.11
@@ -36,43 +41,55 @@ head(pop)
     ## 5 Female 40-49 103 0.04
     ## 6 Female   50+  88 0.04
 
-We’ll use two packages from the `tidyverse` family.
+We’ll need two packages from the `tidyverse` family to plot the pyramid:
 
 ``` r
 library(dplyr)
 library(ggplot2)
 ```
 
-Now for the plotting, you can adjust the code below to fit your
-purposes\!
+and a simple function to determine position of the labels next to the bars:
 
 ``` r
-# Small function to determine position of labels
 nudge_fun <- function(df){
   ifelse(df$sex == "Female", (sd(df$pop)/3)*-1, sd(df$pop)/3)
 }
+```
 
-# Plot the pyramid!
+Now come the code for plotting. I added comments in the code below. Try adjusting the code to fit your purposes\!
+
+``` r
+
 pop %>%
+# First, we transforms the columns so that female values show in the
+# left-hand side of the plot, in this case as 'negative values'.
+# I also round some values for convenience.
   mutate(
     pop = ifelse(sex=="Female", pop*(-1), pop*1)
     , frac = ifelse(sex=="Female", frac*(-1), frac*1)
     , share = paste0(abs(round(frac*100,1)), "%")
   ) %>% 
+# This starts the actual plotting, first we define which columns 
+# have the data that we want to use
   ggplot(aes(x=age, y = pop, label = share)) +
+# Now we add a layer to the plot with the bars of the pyramid
   geom_col(aes(fill=sex)) +
+# Add the labels indicating the percentages
   geom_text(aes(label = share),
             position = position_nudge(y = nudge_fun(pop)),
             size = 4
   ) +
+# and flip the graph to look like a pyramid
   coord_flip() +
-  # Colours from plotting
+# Custom colours from plotting, you can change these
   scale_fill_manual("", values = c("#990099", "#009900")) +
+# Now we make sure that all values in the horizontal axis are positive
   scale_y_continuous(
     "", breaks = scales::pretty_breaks(n = 6),
     # Small function to rescale y axis
     labels =  function(br) ifelse(abs(br)>=1000,paste0(abs(br)/1000, "k"), abs(br))
   ) +
+# Here you can add your own captions and axis titles
   labs(x = "", y = "Age group", caption = "Your caption here: by @d_alburez") +
   theme_bw() +
   theme(
