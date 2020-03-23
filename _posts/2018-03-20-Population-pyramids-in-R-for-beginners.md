@@ -41,7 +41,7 @@ head(pop)
     ## 5 Female 40-49 103 0.04
     ## 6 Female   50+  88 0.04
 
-We’ll need three packages from the `tidyverse` family to plot the pyramid:
+We’ll need three packages from the `tidyverse` family to plot the pyramid (we're using `ggplot` 3.3, so please make sure to have the latest version installed!):
 
 ``` r
 library(dplyr)
@@ -62,42 +62,40 @@ Now come the code for plotting. I added comments in the code below. Try adjustin
 ``` r
 
 pop %>%
-# First, we transforms the columns so that female values show in the
-# left-hand side of the plot, in this case as 'negative values'.
-# I also round some values for convenience.
+  # First, we transforms the columns so that female values show in the
+  # left-hand side of the plot, in this case as 'negative values'.
+  # I also round some values for convenience.
   mutate(
     pop = ifelse(sex=="Female", pop*(-1), pop*1)
     , frac = ifelse(sex=="Female", frac*(-1), frac*1)
     , share = paste0(abs(round(frac*100,1)), "%")
   ) %>% 
-# This starts the actual plotting, first we define which columns 
-# have the data that we want to use
-  ggplot(aes(x=age, y = pop, label = share)) +
-# Now we add a layer to the plot with the bars of the pyramid
+  # This starts the actual plotting, first we define which columns 
+  # have the data that we want to use
+  ggplot(aes(x = pop, y=age, label = share)) +
+  # Now we add a layer to the plot with the bars of the pyramid
   geom_col(aes(fill=sex)) +
-# Add the labels indicating the percentages
+  # Add the labels indicating the percentages
   geom_text(aes(label = share),
-            position = position_nudge(y = nudge_fun(pop)),
+            position = position_nudge(x = nudge_fun(pop)),
             size = 4
   ) +
-# and flip the graph to look like a pyramid
-  coord_flip() +
-# Custom colours from plotting, you can change these
+  # Custom colours from plotting, you can change these
   scale_fill_manual("", values = c("#990099", "#009900")) +
-# Now we make sure that all values in the horizontal axis are positive
-  scale_y_continuous(
+  # Now we make sure that all values in the horizontal axis are positive
+  scale_x_continuous(
     "", breaks = scales::pretty_breaks(n = 6),
     # Small function to rescale y axis
     labels =  function(br) ifelse(abs(br)>=1000,paste0(abs(br)/1000, "k"), abs(br))
   ) +
-# Here you can add your own captions and axis titles
+  # Here you can add your own captions and axis titles
   labs(x = "", y = "", caption = "Your caption here: by @d_alburez") +
   theme_bw() +
   theme(
     legend.position = 'bottom'
     ,axis.title.x=element_blank()
   )
-```
+ ```
 
 ![Population Pyramid](/img/unnamed-chunk-3-1.png)<!-- -->
 
