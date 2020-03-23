@@ -41,11 +41,12 @@ head(pop)
     ## 5 Female 40-49 103 0.04
     ## 6 Female   50+  88 0.04
 
-We’ll need two packages from the `tidyverse` family to plot the pyramid:
+We’ll need three packages from the `tidyverse` family to plot the pyramid:
 
 ``` r
 library(dplyr)
 library(ggplot2)
+library(scales)
 ```
 
 and a simple function to determine position of the labels next to the bars:
@@ -90,7 +91,7 @@ pop %>%
     labels =  function(br) ifelse(abs(br)>=1000,paste0(abs(br)/1000, "k"), abs(br))
   ) +
 # Here you can add your own captions and axis titles
-  labs(x = "", y = "Age group", caption = "Your caption here: by @d_alburez") +
+  labs(x = "", y = "", caption = "Your caption here: by @d_alburez") +
   theme_bw() +
   theme(
     legend.position = 'bottom'
