@@ -1,0 +1,86 @@
+Population pyramids in R for beginners
+================
+Diego Alburez-Gutierrez
+3/10/2020
+
+Following the explosion of data visualisations in the context of the
+COVID-19 pandemic, I thought I’d share some easy and flexible code to
+plot population pyramids in R.
+
+First, we’ll create a bogus population dataset with population totals by
+age and sex, including a column to indicate the fraction that each group
+is of the total population.
+
+``` r
+pop <- data.frame(
+  sex = sort(rep(c("Female", "Male"), 6))
+  , age = c("0-9", "10-19", "20-29", "30-39", "40-49", "50+", 
+            "0-9", "10-19", "20-29", "30-39", "40-49", "50+")
+  , pop = c(256L, 335L, 278L, 155L, 103L, 88L, 266L, 317L, 286L, 145L, 118L, 87L)
+  , frac = c(0.11, 0.14, 0.11, 0.06, 0.04, 0.04, 0.11, 0.13, 0.12, 
+            0.06, 0.05, 0.04)
+)
+
+head(pop)
+```
+
+    ##      sex   age pop frac
+    ## 1 Female   0-9 256 0.11
+    ## 2 Female 10-19 335 0.14
+    ## 3 Female 20-29 278 0.11
+    ## 4 Female 30-39 155 0.06
+    ## 5 Female 40-49 103 0.04
+    ## 6 Female   50+  88 0.04
+
+We’ll use two packages from the `tidyverse` family.
+
+``` r
+library(dplyr)
+library(ggplot2)
+```
+
+Now for the plotting, you can adjust the code below to fit your
+purposes\!
+
+``` r
+# Small function to determine position of labels
+nudge_fun <- function(df){
+  ifelse(df$sex == "Female", (sd(df$pop)/3)*-1, sd(df$pop)/3)
+}
+
+# Plot the pyramid!
+pop %>%
+  mutate(
+    pop = ifelse(sex=="Female", pop*(-1), pop*1)
+    , frac = ifelse(sex=="Female", frac*(-1), frac*1)
+    , share = paste0(abs(round(frac*100,1)), "%")
+  ) %>% 
+  ggplot(aes(x=age, y = pop, label = share)) +
+  geom_col(aes(fill=sex)) +
+  geom_text(aes(label = share),
+            position = position_nudge(y = nudge_fun(pop)),
+            size = 4
+  ) +
+  coord_flip() +
+  # Colours from plotting
+  scale_fill_manual("", values = c("#990099", "#009900")) +
+  scale_y_continuous(
+    "", breaks = scales::pretty_breaks(n = 6),
+    # Small function to rescale y axis
+    labels =  function(br) ifelse(abs(br)>=1000,paste0(abs(br)/1000, "k"), abs(br))
+  ) +
+  labs(x = "", y = "Age group", caption = "Your caption here: by @d_alburez") +
+  theme_bw() +
+  theme(
+    legend.position = 'bottom'
+    ,axis.title.x=element_blank()
+  )
+```
+
+![Population Pyramid](/img/unnamed-chunk-3-1.png)<!-- -->
+
+``` r
+# You can export this graph to your current working directory:
+## NOT RUN
+# ggsave(filename = "pyramid.pdf")
+```
