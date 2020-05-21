@@ -14,41 +14,32 @@ Nepomuceno, M., Acosta, E., **Alburez-Gutierrez, D.**, Aburto, J.M., Gagnon, A.,
 
 Leone, T., **Alburez-Gutierrez, D.**, Ghandour, R., Coast, E., and Giacaman, R. (2019). *Maternal and child access to care and intensity of conflict in the occupied Palestinian territory: a pseudo-longitudinal analysis (2000–2014)*. Conflict and Health 13(1). DOI:[10.1186/s13031-019-0220-2](https://doi.org/10.1186/s13031-019-0220-2).
 
-Alburez-Gutierrez, D. (2019). Blood is thicker than bloodshed: A genealogical approach to reconstruct populations after armed conflicts. Demographic Research, 40(23): 627-656. DOI: [10.4054/DemRes.2019.40.23](https://www.demographic-research.org/volumes/vol40/23/).
+**Alburez-Gutierrez, D.** (2019). Blood is thicker than bloodshed: A genealogical approach to reconstruct populations after armed conflicts. Demographic Research, 40(23): 627-656. DOI: [10.4054/DemRes.2019.40.23](https://www.demographic-research.org/volumes/vol40/23/).
 
-McGovern, P., and Alburez-Gutierrez, D. (2017) "Who takes workplace case-study methods seriously? The influence of gender, academic rank and PhD training.”  Industrial Relations Journal, 48: 98–114. doi:[10.1111/irj.12171](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full).
+McGovern, P., and **Alburez-Gutierrez, D.** (2017) "Who takes workplace case-study methods seriously? The influence of gender, academic rank and PhD training.”  Industrial Relations Journal, 48: 98–114. doi:[10.1111/irj.12171](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full).
 
-# Recent conferences
 
-Alburez-Gutierrez, D. (2019). [Kinship 3.0: A data-driven approach](pdf/alburez_kinship_3.0.pdf). Workshop: Emerging Research Questions at the Intersection of Demography and Epidemiology, MPIDR: Castle Ringberg, 22.03.2019. 
+# Book chapters
 
-Alburez-Gutierrez, D. (2017). "The demographic effects of armed conflict: evidence from the 1980 Maya Achi genocide". In: XXVIII IUSSP International Population Conference, 1-5 November 2017, Cape Town, South Africa.
+**Alburez-Gutierrez, D.**, Zagheni, E., Aref, S., Gil-Clavel, S., Grow, A., & Negraia, D. V. (2019, May 8). Demography in the Digital Era: New Data Sources for Population Research. Proceedings of the 2019 Conference of the Italian Statistical Society. DOI:[10.31235/osf.io/24jp7](https://doi.org/10.31235/osf.io/24jp7)
 
-Alburez-Gutierrez, D. (2017). "Living to tell the tale: family, survival, and the genocide of the Maya Achi in Guatemala". In: British Society for Population Studies Conference, 6-8 September 2017, Liverpool, UK.
-
-Alburez-Gutierrez, D. (2017). "Blood is thicker than bloodshed: using genealogies to reconstruct populations after armed conflict". In: British Society for Population Studies Conference, 6-8 September 2017, Liverpool, UK. 
-
-Leone, Tiziana; D. Alburez-Gutierrez; R. Gandour; E. Coast; and R. Giacaman (2017) "[Maternal and child health outcomes and intensity of conflict in the occupied Palestinian territory: a pseudo longitudinal analysis of the 2000-2014 period](http://eprints.lse.ac.uk/69993/)". In: The Lancet Palestinian Health Alliance (LPHA) Eighth Annual Conference, 15-16 March 2017, Birzeit, Palestine. (Unpublished) 
-
-#  Working papers
-
-Papers on digital and computational demography:
-
-Alburez-Gutierrez, D., Zagheni, E., Aref, S., Gil-Clavel, S., Grow, A., & Negraia, D. V. (2019, May 8). Demography in the Digital Era: New Data Sources for Population Research. [https://doi.org/10.31235/osf.io/24jp7](https://doi.org/10.31235/osf.io/24jp7)
-
-Papers related to the effects of mass violence exercised against non-combatants. I use a mix-methods research design to analyse how reproductive behaviour changes after genocidal violence, in particular the role of pronatalism in post-war settings. I am also interested in the ‘protective’ effects of family during and after armed conflicts. My research uses respondent-generated genealogical data to study population dynamics during and after mortality crises.
+#  Technical reports
 
 Alburez-Gutierrez, D. & Segura García C. (2018). "The UNHCR Demographic Projection Tool: estimating the future size and compositionof forcibly displaced populations." [UNHCR Statistics Technical Series, 2018/1](http://www.unhcr.org/en-au/5ae9ee747.pdf).
 
-Alburez-Gutierrez, D. (April 2018) ["Social support and social scarring: the protective effects of family ties during mass killings"](pdf/SUDA18_Alburez.pdf). Working paper.
+# Working papers
 
-Alburez-Gutierrez, D. (August 2017). ["Who drives fertility recover after armed conflicts? A case study from the Guatemalan genocide"](pdf/IUSSP17_demographic_effects_conflict_alburez.pdf). Working paper.
+**Alburez-Gutierrez, D.**, E. Zagheni and M. Kolk. (November 2019) *Women's experience of child death: a global demographic perspective*. SocArxiv. DOI:(10.31235/osf.io/s69fz})[https://osf.io/preprints/socarxiv/s69fz/]
+
+**Alburez-Gutierrez, D.** (April 2018) ["Social support and social scarring: the protective effects of family ties during mass killings"](pdf/SUDA18_Alburez.pdf). Working paper.
+
+**Alburez-Gutierrez, D.** (August 2017). ["Who drives fertility recover after armed conflicts? A case study from the Guatemalan genocide"](pdf/IUSSP17_demographic_effects_conflict_alburez.pdf). Working paper.
 
 # PhD thesis
 
 The full text of my PhD thesis is available online:
 
-Alburez-Gutierrez, D. (2018). [Beyond excess mortality: the demographic life of a Mayan community after a war of massacres](http://etheses.lse.ac.uk/3872/). PhD thesis, The London School of Economics and Political Science (LSE). 
+**Alburez-Gutierrez, D.** (2018). [Beyond excess mortality: the demographic life of a Mayan community after a war of massacres](http://etheses.lse.ac.uk/3872/). PhD thesis, The London School of Economics and Political Science (LSE). 
 
 A summary of the thesis can be found in these three presentations given at the Latin American Social Sciences Institute, Guatemala 25 April 2019 (in Spanish):
 
@@ -66,9 +57,25 @@ I also prepared three posters (in a [#betterposter](https://twitter.com/hashtag/
 
    3. [Fertilidad en Río Negro tras las masacres (poster)](pdf/3.poster_fertilidad_alburez.pdf)
 
-# Blog posts and media
+# Invited talks (selected)
 
-Alburez-Gutierrez, D. (2016) [Genocide is the tip of the iceberg: Reviewing the Guatemalan case.](http://blogs.lse.ac.uk/humanrights/2016/02/18/genocide-is-the-tip-of-the-iceberg-reviewing-the-guatemalan-case/) LSE Human Rights blog.
+**Alburez-Gutierrez, D.** (27 May 2020, postponed due to Covid-19 lockdown) *Die demografischen Auswirkungen von Massengewalt in Guatemala [The demographic consequences of Genocide in Guatemala].* Berlin, Germany (Ibero-American Institute).
+
+**Alburez-Gutierrez, D.** (27 Nov 2019) *Women's experience of child death: a global demographic perspective.* [ISER External Seminar](https://www.iser.essex.ac.uk/events/seminars/external/2019-11-27), Colchester, UK (Institute for Social and Economic Research, University of Essex).
+
+**Alburez-Gutierrez, D.** (23 May 2019) *The Demographic Foundations of the Lived Experience of Kin Death: A Genealogical Reconstruction.* [SUDA Demographic Colloquium Series](https://www.suda.su.se/about-us/events/suda-demographic-colloquium-series/suda-demographic-colloquium-diego-alburez-gutierrez-max-planck-institute-for-demographic-research-1.423293), Stockholm, Sweden (Stockholm University).
+
+**Alburez-Gutierrez, D.** (25 April 2019) *Ciencias Sociales Computacionales: Retos y oportunidades en la era digital [Computational Social Sciences: challenges and opportunities in the Digital Age]*. Guatemala City, Guatemala (Latin American Faculty of Social Sciences). 
+
+**Alburez-Gutierrez, D.** (8 February 2018) *Mass killings, family support, and survival: evidence from Guatemala.* [SUDA Demographic Colloquium Series](http://alburez.me/pdf/SUDA18_Alburez.pdf), Stockholm, Sweden (Stockholm University).
+   
+# Blog posts and science communication
+
+Academic video: *How Can We Quantify the Immediate and Lingering Impact of Genocide on Local Populations?*. [Latest Thinking, Apr 2020](https://lt.org/publication/how-can-we-quantify-immediate-and-lingering-impact-genocide-local-populations).
+
+**Alburez-Gutierrez, D.**, Nepomuceno, M., and Aburto, J.M. (2020). *Coronavirus: a warning to Latin America and the Caribbean to dramatically increase COVID-19 testing*. [The Conversation](https://theconversation.com/coronavirus-a-warning-to-latin-america-and-the-caribbean-to-dramatically-increase-covid-19-testing-135759), UK, Apr 2020})
+
+**Alburez-Gutierrez, D.** (2016) [Genocide is the tip of the iceberg: Reviewing the Guatemalan case.](http://blogs.lse.ac.uk/humanrights/2016/02/18/genocide-is-the-tip-of-the-iceberg-reviewing-the-guatemalan-case/) LSE Human Rights blog.
 
 "[No hablar de sexo como estrategia de país](https://www.plazapublica.com.gt/content/no-hablar-de-sexo-como-estrategia-de-pais)". Plaza Pública. 10/02/16
 
