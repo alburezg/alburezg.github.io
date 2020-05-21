@@ -71,11 +71,11 @@ I also prepared three posters (in a [#betterposter](https://twitter.com/hashtag/
    
 # Blog posts and science communication
 
-Academic video: *How Can We Quantify the Immediate and Lingering Impact of Genocide on Local Populations?*. [Latest Thinking, Apr 2020](https://lt.org/publication/how-can-we-quantify-immediate-and-lingering-impact-genocide-local-populations).
+Academic video: *How Can We Quantify the Immediate and Lingering Impact of Genocide on Local Populations?*. [Latest Thinking](https://lt.org/publication/how-can-we-quantify-immediate-and-lingering-impact-genocide-local-populations), Germany (Apr 2020).
 
-**Alburez-Gutierrez, D.**, Nepomuceno, M., and Aburto, J.M. (2020) *Coronavirus: a warning to Latin America and the Caribbean to dramatically increase COVID-19 testing*. [The Conversation](https://theconversation.com/coronavirus-a-warning-to-latin-america-and-the-caribbean-to-dramatically-increase-covid-19-testing-135759), UK, Apr 2020})
+**Alburez-Gutierrez, D.**, Nepomuceno, M., and Aburto, J.M. (2020) *Coronavirus: a warning to Latin America and the Caribbean to dramatically increase COVID-19 testing*. [The Conversation](https://theconversation.com/coronavirus-a-warning-to-latin-america-and-the-caribbean-to-dramatically-increase-covid-19-testing-135759), UK, (Apr 2020).
 
-**Alburez-Gutierrez, D.** (2016) [Genocide is the tip of the iceberg: Reviewing the Guatemalan case.](http://blogs.lse.ac.uk/humanrights/2016/02/18/genocide-is-the-tip-of-the-iceberg-reviewing-the-guatemalan-case/) LSE Human Rights blog.
+**Alburez-Gutierrez, D.** (2016) Genocide is the tip of the iceberg: Reviewing the Guatemalan case. [LSE Human Rights blog](http://blogs.lse.ac.uk/humanrights/2016/02/18/genocide-is-the-tip-of-the-iceberg-reviewing-the-guatemalan-case/), London, UK (London School of Economics).
 
 **Alburez-Gutierrez, D.** (2016) *No hablar de sexo como estrategia de país [Ingnoring sex as a country strategy]*. [Plaza Pública](https://www.plazapublica.com.gt/content/no-hablar-de-sexo-como-estrategia-de-pais), Guatemala City, Guatemala. (February 10 2016)
 
