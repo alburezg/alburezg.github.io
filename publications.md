@@ -10,13 +10,13 @@ title: Publications and conferences
 
 Nepomuceno, M., Acosta, E., **Alburez-Gutierrez, D.**, Aburto, J.M., Gagnon, A., and Turra, C. (Forthcoming). *Besides population age-structure, health and other demographic factors can contribute to understanding the COVID-19 burden across the globe.* Proceedings of the National Academy of Sciences (Accepted for publication).
 
-**Alburez-Gutierrez, D.**, Chandrasekharan, E., Chunara, R., Gil-Clavel, S., Hannak, A., Interdonato, R., Joseph, K., Kalimeri, K., Malik, M., Mayer, K., Mejova, Y., Paolotti, D., and Zagheni, E. (2019). **Reports of the Workshops Held at the 2019 International AAAI Conference on Web and Social Media.** AI Magazine, 40(4), 78-82. DOI:[10.1609/aimag.v40i4.5287](https://doi.org/10.1609/aimag.v40i4.5287).
+**Alburez-Gutierrez, D.**, Chandrasekharan, E., Chunara, R., Gil-Clavel, S., Hannak, A., Interdonato, R., Joseph, K., Kalimeri, K., Malik, M., Mayer, K., Mejova, Y., Paolotti, D., and Zagheni, E. (2019). *Reports of the Workshops Held at the 2019 International AAAI Conference on Web and Social Media.* AI Magazine, 40(4), 78-82. DOI:[10.1609/aimag.v40i4.5287](https://doi.org/10.1609/aimag.v40i4.5287).
 
 Leone, T., **Alburez-Gutierrez, D.**, Ghandour, R., Coast, E., and Giacaman, R. (2019). *Maternal and child access to care and intensity of conflict in the occupied Palestinian territory: a pseudo-longitudinal analysis (2000–2014)*. Conflict and Health 13(1). DOI:[10.1186/s13031-019-0220-2](https://doi.org/10.1186/s13031-019-0220-2).
 
 **Alburez-Gutierrez, D.** (2019). Blood is thicker than bloodshed: A genealogical approach to reconstruct populations after armed conflicts. Demographic Research, 40(23): 627-656. DOI: [10.4054/DemRes.2019.40.23](https://www.demographic-research.org/volumes/vol40/23/).
 
-McGovern, P., and **Alburez-Gutierrez, D.** (2017) "Who takes workplace case-study methods seriously? The influence of gender, academic rank and PhD training.”  Industrial Relations Journal, 48: 98–114. doi:[10.1111/irj.12171](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full).
+McGovern, P., and **Alburez-Gutierrez, D.** (2017) *Who takes workplace case-study methods seriously? The influence of gender, academic rank and PhD training.*  Industrial Relations Journal, 48: 98–114. doi:[10.1111/irj.12171](http://onlinelibrary.wiley.com/doi/10.1111/irj.12171/full).
 
 
 # Book chapters
@@ -29,7 +29,7 @@ Alburez-Gutierrez, D. & Segura García C. (2018). "The UNHCR Demographic Project
 
 # Working papers
 
-**Alburez-Gutierrez, D.**, E. Zagheni and M. Kolk. (November 2019) *Women's experience of child death: a global demographic perspective*. SocArxiv. DOI:(10.31235/osf.io/s69fz})[https://osf.io/preprints/socarxiv/s69fz/]
+**Alburez-Gutierrez, D.**, E. Zagheni and M. Kolk. (November 2019) *Women's experience of child death: a global demographic perspective*. SocArxiv. DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/)
 
 **Alburez-Gutierrez, D.** (April 2018) ["Social support and social scarring: the protective effects of family ties during mass killings"](pdf/SUDA18_Alburez.pdf). Working paper.
 
@@ -73,11 +73,11 @@ I also prepared three posters (in a [#betterposter](https://twitter.com/hashtag/
 
 Academic video: *How Can We Quantify the Immediate and Lingering Impact of Genocide on Local Populations?*. [Latest Thinking, Apr 2020](https://lt.org/publication/how-can-we-quantify-immediate-and-lingering-impact-genocide-local-populations).
 
-**Alburez-Gutierrez, D.**, Nepomuceno, M., and Aburto, J.M. (2020). *Coronavirus: a warning to Latin America and the Caribbean to dramatically increase COVID-19 testing*. [The Conversation](https://theconversation.com/coronavirus-a-warning-to-latin-america-and-the-caribbean-to-dramatically-increase-covid-19-testing-135759), UK, Apr 2020})
+**Alburez-Gutierrez, D.**, Nepomuceno, M., and Aburto, J.M. (2020) *Coronavirus: a warning to Latin America and the Caribbean to dramatically increase COVID-19 testing*. [The Conversation](https://theconversation.com/coronavirus-a-warning-to-latin-america-and-the-caribbean-to-dramatically-increase-covid-19-testing-135759), UK, Apr 2020})
 
 **Alburez-Gutierrez, D.** (2016) [Genocide is the tip of the iceberg: Reviewing the Guatemalan case.](http://blogs.lse.ac.uk/humanrights/2016/02/18/genocide-is-the-tip-of-the-iceberg-reviewing-the-guatemalan-case/) LSE Human Rights blog.
 
-"[No hablar de sexo como estrategia de país](https://www.plazapublica.com.gt/content/no-hablar-de-sexo-como-estrategia-de-pais)". Plaza Pública. 10/02/16
+**Alburez-Gutierrez, D.** (2016) *No hablar de sexo como estrategia de país [Ingnoring sex as a country strategy]*. [Plaza Pública](https://www.plazapublica.com.gt/content/no-hablar-de-sexo-como-estrategia-de-pais), Guatemala City, Guatemala. (February 10 2016)
 
 # Advisory role
 
