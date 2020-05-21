@@ -49,12 +49,12 @@ avatar: "/img/net.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Diego Alburez-Gutierrez
-  email: "alburezg@lse.ac.uk"
+  email: "alburezgutierrez@demogr.mpg.de"
   facebook: diego.alburez.3  # eg. daattali
   github: alburezg    # eg. daattali
   twitter: d_alburez   # eg. daattali
   linkedin: diego-alburez-gutierrez-64b62975  # eg. daattali
-  stackoverflow: 5905446/raistlin
+  stackoverflow: 5201944/inspectorsands
 
 # Select which links to show in the footer
 footer-links-active:
