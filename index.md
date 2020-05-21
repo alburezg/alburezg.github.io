@@ -10,4 +10,5 @@ Hi! I am a Research Scientist at the [Laboratory of Digital and Computational De
 ## 	Check out my latest publication!
 
 {: .notice}
-Leone, T., **Alburez-Gutierrez, D.**, Ghandour, R., Coast, E., and Giacaman, R. (2019). *Maternal and child access to care and intensity of conflict in the occupied Palestinian territory: a pseudo-longitudinal analysis (2000–2014)*. Conflict and Health 13(1). DOI:[10.1186/s13031-019-0220-2](https://doi.org/10.1186/s13031-019-0220-2).
+
+Nepomuceno, M., Acosta, E., **Alburez-Gutierrez, D.**, Aburto, J.M., Gagnon, A., and Turra, C. (Forthcoming). *Besides population age-structure, health and other demographic factors can contribute to understanding the COVID-19 burden across the globe.* Proceedings of the National Academy of Sciences (Accepted for publication).
