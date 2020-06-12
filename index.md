@@ -21,7 +21,7 @@ You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Schola
 
 {: .notice}
 
-Nepomuceno, M., Acosta, E., **Alburez-Gutierrez, D.**, Aburto, J.M., Gagnon, A., and Turra, C. (Forthcoming). *Besides population age-structure, health and other demographic factors can contribute to understanding the COVID-19 burden across the globe.* Proceedings of the National Academy of Sciences (Accepted for publication).
+Nepomuceno, M., Acosta, E., **Alburez-Gutierrez, D.**, Aburto, J.M., Gagnon, A., and Turra, C. (2020). *Besides population age-structure, health and other demographic factors can contribute to understanding the COVID-19 burden across the globe.* Proceedings of the National Academy of Sciences, 117(25). DOI:[10.1073/pnas.2008760117](https://doi.org/10.1073/pnas.2008760117).
 
 ## Or watch a short video-publication of my work on the demography of genocide
 
