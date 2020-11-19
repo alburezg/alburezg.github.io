@@ -32,10 +32,9 @@ Alburez-Gutierrez, D. & Segura García C. (2018). "The UNHCR Demographic Project
 **Alburez-Gutierrez, D.**, Mason, C., and Zagheni, E. (2020). "The 'Sandwich Generation' Revisited: Global Demographic Drivers of Care Time Demands". MPIDR Working Paper. Rostock: Max Planck Institute for Demographic Research. DOI:[10.4054/MPIDR-WP-2020-037](https://dx.doi.org/10.4054/MPIDR-WP-2020-037).
 
 
-\hangindent=2em
 Riffe, T., Acosta, E., Aburto, J. M., **Alburez-Gutierrez, D.**, et al. (2020) "COVerAGE-DB: a database of age-structured COVID-19 cases and deaths". MPIDR Working Paper. Rostock: Max Planck Institute for Demographic Research. DOI:[10.4054/MPIDR-WP-2020-032](https://www.demogr.mpg.de/papers/working/wp-2020-032.pdf).
 
-\hangindent=2em
+
 Basellini, U., **Alburez-Gutierrez, D.**, Del Fava, E., Perrotta, D., Bonetti, M., Camarda, C. and Zagheni, E. (2020). "Linking excess mortality to Google mobility data during the COVID-19 pandemic in England and Wales". HAL Working Papers. DOI:[10.31235/osf.io/75d6m](https://dx.doi.org/10.31235/osf.io/75d6m).
 
 **Alburez-Gutierrez, D.**, E. Zagheni and M. Kolk. (November 2019) *Women's experience of child death: a global demographic perspective*. SocArxiv. DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/)
