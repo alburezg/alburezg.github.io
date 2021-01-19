@@ -8,7 +8,7 @@ title: Publications and conferences
 
 {: .notice}
 
-**Alburez-Gutierrez, D.**, E. Zagheni and M. Kolk. (Forthcoming). *Women's experience of child death: a global demographic perspective.* Demography (Accepted for publication). Temporary DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/).
+**Alburez-Gutierrez, D.**, Kolk, M. and Zagheni E. (Forthcoming). *Women's experience of child death: A global demographic perspective.* Demography (Accepted for publication). Temporary DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/).
 
 Nepomuceno, M., Acosta, E., **Alburez-Gutierrez, D.**, Aburto, J.M., Gagnon, A., and Turra, C. (2020). *Besides population age-structure, health and other demographic factors can contribute to understanding the COVID-19 burden.* Proceedings of the National Academy of Sciences, 117(25). DOI:[10.1073/pnas.2008760117](https://doi.org/10.1073/pnas.2008760117).
 

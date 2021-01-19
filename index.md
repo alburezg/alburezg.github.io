@@ -22,7 +22,7 @@ You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Schola
 {: .notice}
 
 
-**Alburez-Gutierrez, D.**, E. Zagheni and M. Kolk. (Forthcoming). *Women's experience of child death: a global demographic perspective.* Demography (Accepted for publication). Temporary DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/).
+**Alburez-Gutierrez, D.**, Kolk, M. and Zagheni E. (Forthcoming). *Women's experience of child death: A global demographic perspective.* Demography (Accepted for publication). Temporary DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/).
 
 ## Or watch a short video-publication of my work on the demography of genocide
 
