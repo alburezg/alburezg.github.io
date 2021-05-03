@@ -10,6 +10,10 @@ title: Publications and conferences
 
 **Alburez-Gutierrez, D.**, Kolk, M. and Zagheni E. (Forthcoming). *Women's experience of child death: A global demographic perspective.* Demography (Accepted for publication). Temporary DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/).
 
+Basellini, U., **Alburez-Gutierrez, D.**, Del Fava, E., Perrotta, D., Bonetti, M., Camarda, C. and Zagheni, E. (2021). "Linking excess mortality to Google mobility data during the COVID-19 pandemic in England and Wales". SSM - Population Health 14. DOI:[j.ssmph.2021.100799](https://doi.org/10.1016/j.ssmph.2021.100799).
+
+Smith-Greenaway, E., **Alburez-Gutierrez, D.**, Trinitapoli, J, and Zagheni, E. (2021) "The Global Burden of Maternal Bereavement: Indicators of the Cumulative Prevalence of Child Loss." BMJ Global Health, 6:e004837. doi:\href{http://dx.doi.org/10.1136/bmjgh-2020-004837}{bmjgh-2020-004837}
+
 Nepomuceno, M., Acosta, E., **Alburez-Gutierrez, D.**, Aburto, J.M., Gagnon, A., and Turra, C. (2020). *Besides population age-structure, health and other demographic factors can contribute to understanding the COVID-19 burden.* Proceedings of the National Academy of Sciences, 117(25). DOI:[10.1073/pnas.2008760117](https://doi.org/10.1073/pnas.2008760117).
 
 **Alburez-Gutierrez, D.**, Chandrasekharan, E., Chunara, R., Gil-Clavel, S., Hannak, A., Interdonato, R., Joseph, K., Kalimeri, K., Malik, M., Mayer, K., Mejova, Y., Paolotti, D., and Zagheni, E. (2019). *Reports of the Workshops Held at the 2019 International AAAI Conference on Web and Social Media.* AI Magazine, 40(4), 78-82. DOI:[10.1609/aimag.v40i4.5287](https://doi.org/10.1609/aimag.v40i4.5287).
@@ -23,27 +27,23 @@ McGovern, P., and **Alburez-Gutierrez, D.** (2017) *Who takes workplace case-stu
 
 # Book chapters
 
-**Alburez-Gutierrez, D.**, Zagheni, E., Aref, S., Gil-Clavel, S., Grow, A., & Negraia, D. V. (2019, May 8). Demography in the Digital Era: New Data Sources for Population Research. Proceedings of the 2019 Conference of the Italian Statistical Society. DOI:[10.31235/osf.io/24jp7](https://doi.org/10.31235/osf.io/24jp7)
+**Alburez-Gutierrez, D.**, Zagheni, E., Aref, S., Gil-Clavel, S., Grow, A., and Negraia, D. V. (2019, May 8). Demography in the Digital Era: New Data Sources for Population Research. Proceedings of the 2019 Conference of the Italian Statistical Society. DOI:[10.31235/osf.io/24jp7](https://doi.org/10.31235/osf.io/24jp7)
 
 #  Technical reports
 
-Alburez-Gutierrez, D. & Segura García C. (2018). "The UNHCR Demographic Projection Tool: estimating the future size and compositionof forcibly displaced populations." [UNHCR Statistics Technical Series, 2018/1](http://www.unhcr.org/en-au/5ae9ee747.pdf). Copenhagen: United Nations High Commissioner for Refugees.
+Alburez-Gutierrez, D. and Segura García C. (2018). "The UNHCR Demographic Projection Tool: estimating the future size and compositionof forcibly displaced populations." [UNHCR Statistics Technical Series, 2018/1](http://www.unhcr.org/en-au/5ae9ee747.pdf). Copenhagen: United Nations High Commissioner for Refugees.
 
 # Working papers
+
+**Alburez-Gutierrez, D.** (2021). "The demographic drivers of grief and memory after genocide in Guatemala". MPIDR Working Paper. Rostock: Max Planck Institute for Demographic Research. DOI:[10.4054/MPIDR-WP-2021-003](https://dx.doi.org/10.4054/MPIDR-WP-2021-003).
+
+Williams, I. and **Alburez-Gutierrez, D.** (2021). "Mortality change and its impact on child survival." MPIDR Working Paper. Rostock: Max Planck Institute for Demographic Research.DOI: [10.4054/MPIDR-WP-2021-001](https://dx.doi.org/10.4054/MPIDR-WP-2021-001).
 
 **Alburez-Gutierrez, D.**, Mason, C., and Zagheni, E. (2020). "The 'Sandwich Generation' Revisited: Global Demographic Drivers of Care Time Demands". MPIDR Working Paper. Rostock: Max Planck Institute for Demographic Research. DOI:[10.4054/MPIDR-WP-2020-037](https://dx.doi.org/10.4054/MPIDR-WP-2020-037).
 
 
 Riffe, T., Acosta, E., Aburto, J. M., **Alburez-Gutierrez, D.**, et al. (2020) "COVerAGE-DB: a database of age-structured COVID-19 cases and deaths". MPIDR Working Paper. Rostock: Max Planck Institute for Demographic Research. DOI:[10.4054/MPIDR-WP-2020-032](https://www.demogr.mpg.de/papers/working/wp-2020-032.pdf).
 
-
-Basellini, U., **Alburez-Gutierrez, D.**, Del Fava, E., Perrotta, D., Bonetti, M., Camarda, C. and Zagheni, E. (2020). "Linking excess mortality to Google mobility data during the COVID-19 pandemic in England and Wales". HAL Working Papers. DOI:[10.31235/osf.io/75d6m](https://dx.doi.org/10.31235/osf.io/75d6m).
-
-**Alburez-Gutierrez, D.**, E. Zagheni and M. Kolk. (November 2019) *Women's experience of child death: a global demographic perspective*. SocArxiv. DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/)
-
-**Alburez-Gutierrez, D.** (April 2018) ["Social support and social scarring: the protective effects of family ties during mass killings"](pdf/SUDA18_Alburez.pdf). Working paper.
-
-**Alburez-Gutierrez, D.** (August 2017). ["Who drives fertility recover after armed conflicts? A case study from the Guatemalan genocide"](pdf/IUSSP17_demographic_effects_conflict_alburez.pdf). Working paper.
 
 # PhD thesis
 
