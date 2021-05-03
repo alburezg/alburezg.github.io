@@ -10,9 +10,9 @@ title: Publications and conferences
 
 **Alburez-Gutierrez, D.**, Kolk, M. and Zagheni E. (Forthcoming). *Women's experience of child death: A global demographic perspective.* Demography (Accepted for publication). Temporary DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/).
 
-Basellini, U., **Alburez-Gutierrez, D.**, Del Fava, E., Perrotta, D., Bonetti, M., Camarda, C. and Zagheni, E. (2021). "Linking excess mortality to Google mobility data during the COVID-19 pandemic in England and Wales". SSM - Population Health 14. DOI:[j.ssmph.2021.100799](https://doi.org/10.1016/j.ssmph.2021.100799).
+Basellini, U., **Alburez-Gutierrez, D.**, Del Fava, E., Perrotta, D., Bonetti, M., Camarda, C. and Zagheni, E. (2021). "Linking excess mortality to Google mobility data during the COVID-19 pandemic in England and Wales". SSM - Population Health, 14. DOI:[j.ssmph.2021.100799](https://doi.org/10.1016/j.ssmph.2021.100799).
 
-Smith-Greenaway, E., **Alburez-Gutierrez, D.**, Trinitapoli, J, and Zagheni, E. (2021) "The Global Burden of Maternal Bereavement: Indicators of the Cumulative Prevalence of Child Loss." BMJ Global Health, 6:e004837. doi:\href{http://dx.doi.org/10.1136/bmjgh-2020-004837}{bmjgh-2020-004837}
+Smith-Greenaway, E., **Alburez-Gutierrez, D.**, Trinitapoli, J, and Zagheni, E. (2021) "The Global Burden of Maternal Bereavement: Indicators of the Cumulative Prevalence of Child Loss." BMJ Global Health, 6:e004837. DOI:[bmjgh-2020-004837](http://dx.doi.org/10.1136/bmjgh-2020-004837).
 
 Nepomuceno, M., Acosta, E., **Alburez-Gutierrez, D.**, Aburto, J.M., Gagnon, A., and Turra, C. (2020). *Besides population age-structure, health and other demographic factors can contribute to understanding the COVID-19 burden.* Proceedings of the National Academy of Sciences, 117(25). DOI:[10.1073/pnas.2008760117](https://doi.org/10.1073/pnas.2008760117).
 
