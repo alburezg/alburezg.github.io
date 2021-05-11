@@ -17,10 +17,11 @@ My later work has expanded this line of work to highlight how the experience of 
 You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=uyx520sAAAAJ&view_op=list_works&gmla=AJsN-F5Qqb0hd3B0qivi8Hgo906iqIDsIV4_AoQ_AXo4d7tK9JWn3vD5Uh_DdsT3nJNg_fWgYuma6tRQ83kVBljTd346Abk1aRJ77fnNsqC1GPM4jlU03Pc).
 
 
-## 	Check out my latest publication!
+## 	Check out my latest publications!
 
 {: .notice}
 
+**Alburez-Gutierrez, D.**, Mason, C., and Zagheni, E. (Forthcoming). "The 'Sandwich Generation' Revisited: Global Demographic Drivers of Care Time Demands". Population and Development Review. Temporary DOI:[10.4054/MPIDR-WP-2020-037](https://dx.doi.org/10.4054/MPIDR-WP-2020-037).
 
 **Alburez-Gutierrez, D.**, Kolk, M. and Zagheni E. (Forthcoming). *Women's experience of child death: A global demographic perspective.* Demography (Accepted for publication). Temporary DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/).
 
