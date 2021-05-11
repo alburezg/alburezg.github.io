@@ -10,7 +10,7 @@ title: Publications and conferences
 
 **Alburez-Gutierrez, D.**, Mason, C., and Zagheni, E. (Forthcoming). "The 'Sandwich Generation' Revisited: Global Demographic Drivers of Care Time Demands". Population and Development Review. Temporary DOI:[10.4054/MPIDR-WP-2020-037](https://dx.doi.org/10.4054/MPIDR-WP-2020-037).
 
-**Alburez-Gutierrez, D.**, Kolk, M. and Zagheni E. (Forthcoming). *Women's experience of child death: A global demographic perspective.* Demography (Accepted for publication). Temporary DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/).
+**Alburez-Gutierrez, D.**, Kolk, M. and Zagheni E. (Forthcoming). *Women's experience of child death: A global demographic perspective.* Demography. Temporary DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/).
 
 Basellini, U., **Alburez-Gutierrez, D.**, Del Fava, E., Perrotta, D., Bonetti, M., Camarda, C. and Zagheni, E. (2021). "Linking excess mortality to Google mobility data during the COVID-19 pandemic in England and Wales". SSM - Population Health, 14. DOI:[j.ssmph.2021.100799](https://doi.org/10.1016/j.ssmph.2021.100799).
 
