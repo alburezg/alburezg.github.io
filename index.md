@@ -21,9 +21,9 @@ You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Schola
 
 {: .notice}
 
-Alburez-Gutierrez, D., Mason, C., and Zagheni, E. (Forthcoming). *The 'Sandwich Generation' Revisited: Global Demographic Drivers of Care Time Demands*. Population and Development Review. Temporary DOI:[10.4054/MPIDR-WP-2020-037](https://dx.doi.org/10.4054/MPIDR-WP-2020-037).
+Alburez-Gutierrez, D., Mason, C., and Zagheni, E. (2021). *The 'Sandwich Generation' Revisited: Global Demographic Drivers of Care Time Demands*. Population and Development Review. Advanced Publication. DOI:[padr.12436](https://doi.org/10.1111/padr.12436).
 
-Alburez-Gutierrez, D., Kolk, M. and Zagheni E. (2021). *Women's experience of child death: A global demographic perspective.* Demography. DOI:[10.1215/00703370-9420770](https://doi.org/10.1215/00703370-9420770).
+Alburez-Gutierrez, D., Kolk, M. and Zagheni E. (2021). *Women's experience of child death: A global demographic perspective.* Demography. Advanced Publication. DOI:[10.1215/00703370-9420770](https://doi.org/10.1215/00703370-9420770).
 
 ## Or watch a short video-publication of my work on the demography of genocide
 
