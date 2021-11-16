@@ -8,17 +8,27 @@ title: Publications and conferences
 
 {: .notice}
 
-**Alburez-Gutierrez, D.**, Mason, C., and Zagheni, E. (Forthcoming). "The 'Sandwich Generation' Revisited: Global Demographic Drivers of Care Time Demands". Population and Development Review. Temporary DOI:[10.4054/MPIDR-WP-2020-037](https://dx.doi.org/10.4054/MPIDR-WP-2020-037).
+**Alburez-Gutierrez, D**. (accepted). *The demographic drivers of grief and memory after genocide in Guatemala.* Demography. Temporary DOI:\[10.4054/MPIDR-WP-2021-003](https://dx.doi.org/10.4054/MPIDR-WP-2021-003).
 
-**Alburez-Gutierrez, D.**, Kolk, M. and Zagheni E. (Forthcoming). *Women's experience of child death: A global demographic perspective.* Demography. Temporary DOI:[10.31235/osf.io/s69fz](https://osf.io/preprints/socarxiv/s69fz/).
+**Alburez-Gutierrez, D.**, Mason, C., and Zagheni, E. (2021). *The 'Sandwich Generation' Revisited: Global Demographic Drivers of Care Time Demands*. Population and Development Review. Advanced Publication. DOI:[padr.12436](https://doi.org/10.1111/padr.12436).
 
-Basellini, U., **Alburez-Gutierrez, D.**, Del Fava, E., Perrotta, D., Bonetti, M., Camarda, C. and Zagheni, E. (2021). "Linking excess mortality to Google mobility data during the COVID-19 pandemic in England and Wales". SSM - Population Health, 14. DOI:[j.ssmph.2021.100799](https://doi.org/10.1016/j.ssmph.2021.100799).
+**Alburez-Gutierrez, D.**, Kolk, M. and Zagheni E. (2021). *Women's experience of child death: A global demographic perspective.* Demography, 58(5):1715-1735 . DOI:[10.1215/00703370-9420770](https://doi.org/10.1215/00703370-9420770).
 
 Smith-Greenaway, E., **Alburez-Gutierrez, D.**, Trinitapoli, J, and Zagheni, E. (2021) "The Global Burden of Maternal Bereavement: Indicators of the Cumulative Prevalence of Child Loss." BMJ Global Health, 6:e004837. DOI:[bmjgh-2020-004837](http://dx.doi.org/10.1136/bmjgh-2020-004837).
 
+Martinez-Folgar, K., **Alburez-Gutierrez, D.**, Paniagua-Avila, A., Ramirez-Zea, M., Bilal, U. (2021). *Excess Mortality during the COVID-19 Pandemic in Guatemala*. American Journal of Public Health, 0:e1-e8. DOI:10.2105/AJPH.2021.306452(https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2021.306452). 
+
+Basellini, U., **Alburez-Gutierrez, D.**, Del Fava, E., Perrotta, D., Bonetti, M., Camarda, C. and Zagheni, E. (2021). "Linking excess mortality to Google mobility data during the COVID-19 pandemic in England and Wales". SSM - Population Health, 14. DOI:[j.ssmph.2021.100799](https://doi.org/10.1016/j.ssmph.2021.100799).
+
+Riffe, T., Acosta E., **Alburez-Gutierrez, D.**, the COVerAGE-DB team. (2021) *Data Resource Profile: COVerAGE-DB: a global demographic database of COVID-19 cases and deaths.* International Journal of Epidemiology, 50(2): 390-390f. DOI:[10.1093/ije/dyab027](https://doi.org/10.1093/ije/dyab027).
+
+ **Alburez-Gutierrez, D.**. (2021). *Vivir para contarla: un análisis demográfico de las masacres de Río Negro en Guatemala (1980-1982) [Living to tell the tale: A demographic analysis of the Rio Negro massacres in Guatemala (1980-1982)]*. Análisis de la Realidad Nacional, 208:91–104. ISSN:[2227-9113](http://ipn.usac.edu.gt/wp-content/uploads/2021/07/IPN-RD-208.pdf).
+
 Nepomuceno, M., Acosta, E., **Alburez-Gutierrez, D.**, Aburto, J.M., Gagnon, A., and Turra, C. (2020). *Besides population age-structure, health and other demographic factors can contribute to understanding the COVID-19 burden.* Proceedings of the National Academy of Sciences, 117(25). DOI:[10.1073/pnas.2008760117](https://doi.org/10.1073/pnas.2008760117).
 
+<!--
 **Alburez-Gutierrez, D.**, Chandrasekharan, E., Chunara, R., Gil-Clavel, S., Hannak, A., Interdonato, R., Joseph, K., Kalimeri, K., Malik, M., Mayer, K., Mejova, Y., Paolotti, D., and Zagheni, E. (2019). *Reports of the Workshops Held at the 2019 International AAAI Conference on Web and Social Media.* AI Magazine, 40(4), 78-82. DOI:[10.1609/aimag.v40i4.5287](https://doi.org/10.1609/aimag.v40i4.5287).
+-->
 
 Leone, T., **Alburez-Gutierrez, D.**, Ghandour, R., Coast, E., and Giacaman, R. (2019). *Maternal and child access to care and intensity of conflict in the occupied Palestinian territory: a pseudo-longitudinal analysis (2000–2014)*. Conflict and Health 13(1). DOI:[10.1186/s13031-019-0220-2](https://doi.org/10.1186/s13031-019-0220-2).
 
