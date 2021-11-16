@@ -16,7 +16,7 @@ title: Publications and conferences
 
 Smith-Greenaway, E., **Alburez-Gutierrez, D.**, Trinitapoli, J, and Zagheni, E. (2021) "The Global Burden of Maternal Bereavement: Indicators of the Cumulative Prevalence of Child Loss." BMJ Global Health, 6:e004837. DOI:[bmjgh-2020-004837](http://dx.doi.org/10.1136/bmjgh-2020-004837).
 
-Martinez-Folgar, K., **Alburez-Gutierrez, D.**, Paniagua-Avila, A., Ramirez-Zea, M., Bilal, U. (2021). *Excess Mortality during the COVID-19 Pandemic in Guatemala*. American Journal of Public Health, 0:e1-e8. DOI:10.2105/AJPH.2021.306452](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2021.306452). 
+Martinez-Folgar, K., **Alburez-Gutierrez, D.**, Paniagua-Avila, A., Ramirez-Zea, M., Bilal, U. (2021). *Excess Mortality during the COVID-19 Pandemic in Guatemala*. American Journal of Public Health, 0:e1-e8. DOI:[10.2105/AJPH.2021.306452](https://ajph.aphapublications.org/doi/abs/10.2105/AJPH.2021.306452). 
 
 Basellini, U., **Alburez-Gutierrez, D.**, Del Fava, E., Perrotta, D., Bonetti, M., Camarda, C. and Zagheni, E. (2021). "Linking excess mortality to Google mobility data during the COVID-19 pandemic in England and Wales". SSM - Population Health, 14. DOI:[j.ssmph.2021.100799](https://doi.org/10.1016/j.ssmph.2021.100799).
 
