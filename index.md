@@ -5,7 +5,7 @@ path: ""
 
 # About me
 
-Hi! I am a Research Scientist and Research Area Chair (Aging and Generational Processes) at the [Laboratory of Digital and Computational Demography](https://www.demogr.mpg.de/en/laboratories/digital_and_computational_demography_5555/default.htm) of the Max Planck Institute for Demographic Research (MPIDR). 
+Hi! I am a Research Scientist at the [Laboratory of Digital and Computational Demography](https://www.demogr.mpg.de/en/laboratories/digital_and_computational_demography_5555/default.htm) of the Max Planck Institute for Demographic Research (MPIDR). 
 I do basic demography with a particular focus on kinship processes in an inter-generational perspective. 
 My research focuses on how changing demographic regimes affect, among other things, the exposure to mortality and availability of family resources over the life-course of people. 
 <!---For this, I combine mathematical modeling, micro-simulation techniques, and empirical data from genealogical sources.-->
