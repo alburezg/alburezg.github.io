@@ -31,10 +31,10 @@ Alburez-Gutierrez, D., Mason, C., and Zagheni, E. (2021). *The 'Sandwich Generat
 Alburez-Gutierrez, D., Kolk, M. and Zagheni E. (2021). *Women's experience of child death: A global demographic perspective.* Demography, 58(5):1715-1735 . DOI:[10.1215/00703370-9420770](https://doi.org/10.1215/00703370-9420770).
 -->
 
-## Updates
-
-<a class="twitter-timeline" href="https://twitter.com/d_alburez?ref_src=twsrc^tfw">News and tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Or watch a short video-publication of my work on the demography of genocide
 
 <script type="application/javascript" src="https://lt.org/sites/all/modules/project/custom/video_publication/js/embed.js"></script><div class="latest-thinking-video" video-src="https://lt.org/embed/4825"></div>
+
+## Updates
+
+<a class="twitter-timeline" data-width="600" data-height="500" data-dnt="true" href="https://twitter.com/d_alburez?ref_src=twsrc%5Etfw">Tweets by d_alburez</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
