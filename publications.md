@@ -47,12 +47,7 @@ Alburez-Gutierrez, D. and Segura García C. (2018). "The UNHCR Demographic Proje
 
 # Working papers
 
-**Alburez-Gutierrez, D.** (2021). "The demographic drivers of grief and memory after genocide in Guatemala". MPIDR Working Paper. Rostock: Max Planck Institute for Demographic Research. DOI:[10.4054/MPIDR-WP-2021-003](https://dx.doi.org/10.4054/MPIDR-WP-2021-003).
-
 Williams, I. and **Alburez-Gutierrez, D.** (2021). "Mortality change and its impact on child survival." MPIDR Working Paper. Rostock: Max Planck Institute for Demographic Research.DOI: [10.4054/MPIDR-WP-2021-001](https://dx.doi.org/10.4054/MPIDR-WP-2021-001).
-
-
-Riffe, T., Acosta, E., Aburto, J. M., **Alburez-Gutierrez, D.**, et al. (2020) "COVerAGE-DB: a database of age-structured COVID-19 cases and deaths". MPIDR Working Paper. Rostock: Max Planck Institute for Demographic Research. DOI:[10.4054/MPIDR-WP-2020-032](https://www.demogr.mpg.de/papers/working/wp-2020-032.pdf).
 
 
 # PhD thesis
