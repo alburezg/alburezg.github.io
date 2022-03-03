@@ -23,9 +23,15 @@ You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Schola
 
 {: .notice}
 
-Alburez-Gutierrez, D. (accepted). *The demographic drivers of grief and memory after genocide in Guatemala.* Demography. Temporary DOI:[10.4054/MPIDR-WP-2021-003](https://dx.doi.org/10.4054/MPIDR-WP-2021-003).
+Castro, A. and Alburez-Gutierrez, D. (2022). North and South: Naming practices and the hidden dimension of global disparities in knowledge production. *Proceedings of the National Academy of Sciences*. 119(10): e2120455119. doi:[10.1073/pnas.2119373119](https://doi.org/10.1073/pnas.2119373119).
 
-Alburez-Gutierrez, D., Mason, C., and Zagheni, E. (2021). *The 'Sandwich Generation' Revisited: Global Demographic Drivers of Care Time Demands*. Population and Development Review. Advanced Publication. DOI:[padr.12436](https://doi.org/10.1111/padr.12436).
+
+Stelter, R. and Alburez-Gutierrez, D. (2000). Representativeness is crucial for inferring demographic processes from online genealogies: Evidence from lifespan dynamics. *Proceedings of the National Academy of Sciences*. 119(10): e2120455119. doi:[10.1073/pnas.2120455119](https://doi.org/10.1073/pnas.2120455119).
+
+
+<!---
+Alburez-Gutierrez, D. (accepted). *The demographic drivers of grief and memory after genocide in Guatemala.* Demography. Temporary DOI:[10.4054/MPIDR-WP-2021-003](https://dx.doi.org/10.4054/MPIDR-WP-2021-003).
+-->
 
 <!---
 Alburez-Gutierrez, D., Kolk, M. and Zagheni E. (2021). *Women's experience of child death: A global demographic perspective.* Demography, 58(5):1715-1735 . DOI:[10.1215/00703370-9420770](https://doi.org/10.1215/00703370-9420770).
