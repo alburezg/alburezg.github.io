@@ -23,10 +23,9 @@ You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Schola
 
 {: .notice}
 
-Castro, A. and Alburez-Gutierrez, D. (2022). North and South: Naming practices and the hidden dimension of global disparities in knowledge production. *Proceedings of the National Academy of Sciences*. 119(10): e2120455119. doi:[10.1073/pnas.2119373119](https://doi.org/10.1073/pnas.2119373119).
+Stelter, R. and Alburez-Gutierrez, D. (2022). "Representativeness is crucial for inferring demographic processes from online genealogies: Evidence from lifespan dynamics." *Proceedings of the National Academy of Sciences*. 119(10): e2120455119. doi:[10.1073/pnas.2120455119](https://doi.org/10.1073/pnas.2120455119).
 
-
-Stelter, R. and Alburez-Gutierrez, D. (2000). Representativeness is crucial for inferring demographic processes from online genealogies: Evidence from lifespan dynamics. *Proceedings of the National Academy of Sciences*. 119(10): e2120455119. doi:[10.1073/pnas.2120455119](https://doi.org/10.1073/pnas.2120455119).
+Castro, A. and Alburez-Gutierrez, D. (2022). "North and South: Naming practices and the hidden dimension of global disparities in knowledge production." *Proceedings of the National Academy of Sciences*. 119(10): e2120455119. doi:[10.1073/pnas.2119373119](https://doi.org/10.1073/pnas.2119373119).
 
 
 <!---
