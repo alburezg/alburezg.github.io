@@ -7,7 +7,7 @@ path: ""
 
 I am a social scientist with an interest in basic demography, kinship dynamics, and inter-generational processes. 
 I currently lead the [Research Group on Kinship Inequalities](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/new_research_group_on_kinship_inequalities_10514) at the Max Planck Institute for Demographic Research (MPIDR). 
-My research studies how changing demographic regimes affect, among other things, the exposure to mortality and availability of family resources over the lifecourse.
+My work studies how changing demographic regimes affect, among other things, the exposure to mortality and availability of family resources over the lifecourse.
 
 You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Scholar](https://scholar.google.com/citations?user=uyx520sAAAAJ&hl=en).
 
