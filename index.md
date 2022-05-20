@@ -6,7 +6,7 @@ path: ""
 # About me
 
 I am a social scientist with an interest in basic demography, kinship dynamics, and inter-generational dynamics. 
-I currently lead the *Research Group on Kinship Inequalities* at the Max Planck Institute for Demographic Research (MPIDR). 
+I currently lead the [Research Group on Kinship Inequalities](https://www.demogr.mpg.de/en/news_events_6123/news_press_releases_4630/news/new_research_group_on_kinship_inequalities_10514) at the Max Planck Institute for Demographic Research (MPIDR). 
 Our research focuses on how changing demographic regimes affect, among other things, the exposure to mortality and availability of family resources over the lifecourse.
 
 You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Scholar](https://scholar.google.com/citations?user=uyx520sAAAAJ&hl=en).
@@ -22,10 +22,10 @@ You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Schola
 
 {: .notice}
 
-Snyder, M., **Alburez-Gutierrez, D.**, Williams, I., and Zagheni, E. (in press). "Estimates from 31 countries show the significant impact of COVID-19 excess mortality on the incidence of family bereavement." *Proceedings of the National Academy of Sciences*. Preprint: [10.4054/MPIDR-WP-2022-010][https://dx.doi.org/10.4054/MPIDR-WP-2022-010].
+Snyder, M., **Alburez-Gutierrez, D.**, Williams, I., and Zagheni, E. (in press). "Estimates from 31 countries show the significant impact of COVID-19 excess mortality on the incidence of family bereavement." *Proceedings of the National Academy of Sciences*. Preprint: [10.4054/MPIDR-WP-2022-010](https://dx.doi.org/10.4054/MPIDR-WP-2022-010).
 
 
-**Alburez-Gutierrez, D.** (2022). "The demographic drivers of grief and memory after genocide in Guatemala." *Demography*. Advanced Publication. doi:[10.1215/00703370-9975747][https://doi.org/10.1215/00703370-9975747].
+**Alburez-Gutierrez, D.** (2022). "The demographic drivers of grief and memory after genocide in Guatemala." *Demography*. Advanced Publication. doi:[10.1215/00703370-9975747](https://doi.org/10.1215/00703370-9975747).
 
 <!---
 Stelter, R. and Alburez-Gutierrez, D. (2022). "Representativeness is crucial for inferring demographic processes from online genealogies: Evidence from lifespan dynamics." *Proceedings of the National Academy of Sciences*. 119(10): e2120455119. doi:[10.1073/pnas.2120455119](https://doi.org/10.1073/pnas.2120455119).
@@ -45,7 +45,11 @@ Alburez-Gutierrez, D., Kolk, M. and Zagheni E. (2021). *Women's experience of ch
 
 ## Or watch a short video-publication of my work on the demography of genocide
 
+<iframe width="560" height="315" src="https://lt.org/embed/4825" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!---
 <script type="application/javascript" src="https://lt.org/sites/all/modules/project/custom/video_publication/js/embed.js"></script><div class="latest-thinking-video" video-src="https://lt.org/embed/4825"></div>
+-->
 
 ## Updates
 
