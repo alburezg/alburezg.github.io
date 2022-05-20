@@ -5,12 +5,11 @@ path: ""
 
 # About me
 
-Hi! I am a Research Scientist at the [Laboratory of Digital and Computational Demography](https://www.demogr.mpg.de/en/laboratories/digital_and_computational_demography_5555/default.htm) of the Max Planck Institute for Demographic Research (MPIDR). 
-I do basic demography with a particular focus on kinship processes in an inter-generational perspective. 
-My research focuses on how changing demographic regimes affect, among other things, the exposure to mortality and availability of family resources over the life-course of people. 
-<!---For this, I combine mathematical modeling, micro-simulation techniques, and empirical data from genealogical sources.-->
+I am a social scientist with an interest in basic demography, kinship dynamics, and inter-generational dynamics. 
+I currently lead the *Research Group on Kinship Inequalities* at the Max Planck Institute for Demographic Research (MPIDR). 
+Our research focuses on how changing demographic regimes affect, among other things, the exposure to mortality and availability of family resources over the lifecourse.
 
-You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=uyx520sAAAAJ&view_op=list_works&gmla=AJsN-F5Qqb0hd3B0qivi8Hgo906iqIDsIV4_AoQ_AXo4d7tK9JWn3vD5Uh_DdsT3nJNg_fWgYuma6tRQ83kVBljTd346Abk1aRJ77fnNsqC1GPM4jlU03Pc).
+You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Scholar](https://scholar.google.com/citations?user=uyx520sAAAAJ&hl=en).
 
 <!---
 I am mainly motivated by the persisting demographic inequalities between the Global North and South and within particular countries. 
@@ -23,10 +22,18 @@ You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Schola
 
 {: .notice}
 
+Snyder, M., **Alburez-Gutierrez, D.**, Williams, I., and Zagheni, E. (in press). "Estimates from 31 countries show the significant impact of COVID-19 excess mortality on the incidence of family bereavement." *Proceedings of the National Academy of Sciences*. Preprint: [10.4054/MPIDR-WP-2022-010][https://dx.doi.org/10.4054/MPIDR-WP-2022-010].
+
+
+**Alburez-Gutierrez, D.** (2022). "The demographic drivers of grief and memory after genocide in Guatemala." *Demography*. Advanced Publication. doi:[10.1215/00703370-9975747][https://doi.org/10.1215/00703370-9975747].
+
+<!---
 Stelter, R. and Alburez-Gutierrez, D. (2022). "Representativeness is crucial for inferring demographic processes from online genealogies: Evidence from lifespan dynamics." *Proceedings of the National Academy of Sciences*. 119(10): e2120455119. doi:[10.1073/pnas.2120455119](https://doi.org/10.1073/pnas.2120455119).
+-->
 
+<!---
 Castro, A. and Alburez-Gutierrez, D. (2022). "North and South: Naming practices and the hidden dimension of global disparities in knowledge production." *Proceedings of the National Academy of Sciences*. 119(10): e2120455119. doi:[10.1073/pnas.2119373119](https://doi.org/10.1073/pnas.2119373119).
-
+-->
 
 <!---
 Alburez-Gutierrez, D. (accepted). *The demographic drivers of grief and memory after genocide in Guatemala.* Demography. Temporary DOI:[10.4054/MPIDR-WP-2021-003](https://dx.doi.org/10.4054/MPIDR-WP-2021-003).
