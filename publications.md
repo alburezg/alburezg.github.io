@@ -8,7 +8,7 @@ title: Publications and conferences
 
 {: .notice}
 
-Snyder, M., **Alburez-Gutierrez, D.**, Williams, I., and Zagheni, E. (in press). "Estimates from 31 countries show the significant impact of COVID-19 excess mortality on the incidence of family bereavement." *Proceedings of the National Academy of Sciences*. Preprint: [10.4054/MPIDR-WP-2022-010](https://dx.doi.org/10.4054/MPIDR-WP-2022-010).
+Snyder, M., **Alburez-Gutierrez, D.**, Williams, I., and Zagheni, E. (in press). "Estimates from 31 countries show the significant impact of COVID-19 excess mortality on the incidence of family bereavement." *Proceedings of the National Academy of Sciences*.  119 (26): e2202686119. doi:[10.1073/pnas.2202686119](https://doi.org/10.1073/pnas.2202686119)
 
 
 **Alburez-Gutierrez, D.** (2022). "The demographic drivers of grief and memory after genocide in Guatemala." *Demography*. Advanced Publication. doi:[10.1215/00703370-9975747](https://doi.org/10.1215/00703370-9975747).
