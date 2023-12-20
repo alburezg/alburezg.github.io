@@ -22,9 +22,9 @@ You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Schola
 
 {: .notice}
 
-**Alburez-Gutierrez, D.**, Williams, I., and Caswell, H. (in press). "Projections of human kinship for all countries." *Proceedings of the National Academy of Sciences*. temporary doi:[10.31235/osf.io/hn3zm](https://doi.org/10.31235/osf.io/hn3zm).
+Alburez-Gutierrez, D., Williams, I., and Caswell, H. (2023). "Projections of human kinship for all countries." *Proceedings of the National Academy of Sciences*. 120(52):e2315722120. doi:[10.1073/pnas.2315722120](https://doi.org/10.1073/pnas.2315722120).
 
-Snyder, M., **Alburez-Gutierrez, D.**, Williams, I., and Zagheni, E. (2022). "Estimates from 31 countries show the significant impact of COVID-19 excess mortality on the incidence of family bereavement." *Proceedings of the National Academy of Sciences*.  119 (26): e2202686119. doi:[10.1073/pnas.2202686119](https://doi.org/10.1073/pnas.2202686119).
+Snyder, M., Alburez-Gutierrez, D., Williams, I., and Zagheni, E. (2022). "Estimates from 31 countries show the significant impact of COVID-19 excess mortality on the incidence of family bereavement." *Proceedings of the National Academy of Sciences*.  119 (26): e2202686119. doi:[10.1073/pnas.2202686119](https://doi.org/10.1073/pnas.2202686119).
 
 <!---
 **Alburez-Gutierrez, D.** (2022). "The demographic drivers of grief and memory after genocide in Guatemala." *Demography*. 59 (3): 1173–1194. doi:[10.1215/00703370-9975747](https://doi.org/10.1215/00703370-9975747).
