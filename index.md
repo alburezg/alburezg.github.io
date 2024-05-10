@@ -22,9 +22,13 @@ You can follow me on [Twitter](https://twitter.com/d_alburez) and [Google Schola
 
 {: .notice}
 
+Schlüter, B-S., Alburez-Gutierrez, D., Bibbins-Domingo, K., Alexander, M., Kiang, M. (2024) "Youth Experiencing Parental Death Due to Drug Poisoning and Firearm Violence in the US, 1999-2020." Published online May 04, 2024. *JAMA*. doi:[10.1001/jama.2024.8391](https://jamanetwork.com/journals/jama/fullarticle/2818482).
+
 Alburez-Gutierrez, D., Williams, I., and Caswell, H. (2023). "Projections of human kinship for all countries." *Proceedings of the National Academy of Sciences*. 120(52):e2315722120. doi:[10.1073/pnas.2315722120](https://doi.org/10.1073/pnas.2315722120).
 
+<!---
 Snyder, M., Alburez-Gutierrez, D., Williams, I., and Zagheni, E. (2022). "Estimates from 31 countries show the significant impact of COVID-19 excess mortality on the incidence of family bereavement." *Proceedings of the National Academy of Sciences*.  119 (26): e2202686119. doi:[10.1073/pnas.2202686119](https://doi.org/10.1073/pnas.2202686119).
+-->
 
 <!---
 **Alburez-Gutierrez, D.** (2022). "The demographic drivers of grief and memory after genocide in Guatemala." *Demography*. 59 (3): 1173–1194. doi:[10.1215/00703370-9975747](https://doi.org/10.1215/00703370-9975747).
