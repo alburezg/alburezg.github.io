@@ -32,7 +32,6 @@ navbar-links:
     - Teaching            : "teaching"
     - Guatemalan genocide : "genocide"
 
-  Blog                    : "blog"
   CV                      : "pdf/CV_Diego_Alburez.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
