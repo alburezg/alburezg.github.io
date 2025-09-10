@@ -1,4 +1,8 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'github-pages', '106'
-gem 'jekyll-paginate'
+# use the meta-gem (lets GitHub Pages pick compatible, patched versions)
+gem "github-pages", group: :jekyll_plugins
+
+# keep your plugins explicitly
+gem "jekyll-paginate"
+gem "faraday-retry"
