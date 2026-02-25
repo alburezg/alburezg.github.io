@@ -184,51 +184,6 @@
         doi: "10.1111/irj.12171"
         doi_url: "https://doi.org/10.1111/irj.12171"
 
-  - id: revise_resubmit
-    title: Revise and Resubmit
-    items:
-      - authors: "Becca, F.; Esteve, A.; Alburez-Gutierrez, D."
-        year: "n.d."
-        title: "The Living Arrangements of Single Mothers in Latin America: Stratification by Education and Partnership Status"
-        venue: "Population and Development Review"
-        status: "R&R"
-      - authors: "Jiang, S.; Alburez-Gutierrez, D.; Chung, P.; Alexander, M."
-        year: "2025"
-        title: "Measuring kinship dependency: A cross-national comparison across care regimes"
-        venue: "Demography"
-        status: "R&R"
-        doi: "10.4054/MPIDR-WP-2025-024"
-        doi_url: "https://dx.doi.org/10.4054/MPIDR-WP-2025-024"
-      - authors: "Colasurdo, A.; Mulder, C.; Alburez-Gutierrez, D."
-        year: "n.d."
-        title: "The Role of Migration Capital and Household Structure in Internal Migration: Evidence from the Netherlands, 1850-1950"
-        venue: "Comparative Population Studies"
-        status: "R&R"
-      - authors: "Sasson, I.; Andersson, L.; van Raalte, A.; Alburez-Gutierrez, D."
-        year: "2024"
-        title: "Social Inequalities in Bereavement across the Life Course: A Study of Four-Generation Kinship Networks in Sweden"
-        venue: "Demography"
-        status: "R&R"
-        url: "https://su.figshare.com/articles/preprint/Social_Inequalities_in_Bereavement_across_the_Life_Course_A_Study_of_Four-Generation_Kinship_Networks_in_Sweden/26117569"
-      - authors: "Martes-Camargo, P.; Rodríguez-Franco, R.; Reyes-Vázquez, F.; Alburez-Gutierrez, D."
-        year: "unpublished"
-        title: "The Impact of Violence on the Family Size of Children in Mexico: A Subnational Analysis (2000-2020)"
-        venue: "Population and Development Review"
-        status: "R&R"
-      - authors: "Calderón-Bernal, L.; Alburez-Gutierrez, D.; Kolk, M.; Zagheni, E."
-        year: "2025"
-        title: "Assessing the validity of microsimulated kinship networks using Swedish population registers"
-        venue: "Population Studies"
-        status: "R&R"
-        doi: "10.4054/MPIDR-WP-2025-020"
-        doi_url: "https://dx.doi.org/10.4054/MPIDR-WP-2025-020"
-      - authors: "Pojman, E.; Mwedzi, D.; Olaya Bucaro, O.; Zhang, S.; Chong, M.; Alexander, M.; Alburez-Gutierrez, D."
-        year: "2023"
-        title: "Leaving for life: Using online crowd-sourced genealogies to estimate the migrant mortality advantage for the United Kingdom and Ireland"
-        venue: "Population Research and Policy Review"
-        status: "R&R"
-        doi: "10.4054/MPIDR-WP-2023-050"
-        doi_url: "https://dx.doi.org/10.4054/MPIDR-WP-2023-050"
 
   - id: book_chapters
     title: Book Chapters and Conference Proceedings
@@ -266,9 +221,8 @@
         venue: "UNHCR Statistics Technical Series"
         volume_issue_pages: "2018/1"
         url: "https://www.unhcr.org/statistics/unhcrstats/5ae9ee747/unhcr-demographic-projection-tool-estimating-future-size-composition-forcibly.html"
-
   - id: preprints
-    title: Pre-prints
+    title: Preprints
     items:
       - authors: "Hünteler, B.; Hank, K.; Alburez-Gutierrez, D.; Leopold, T."
         year: "2025"
@@ -336,31 +290,31 @@
         venue: "MPIDR Working Paper WP-2021-001"
         doi: "10.4054/MPIDR-WP-2021-001"
         doi_url: "https://dx.doi.org/10.4054/MPIDR-WP-2021-001"
-
-  - id: work_in_progress
-    title: Work in Progress
-    items:
-      - authors: "Colasurdo, A.; Mulder, C.; Alburez-Gutierrez, D."
-        year: "in preparation"
-        title: "The Impact of Family Background and Household Composition on Internal Migration: Historical Evidence from the Netherlands"
-      - authors: "Polizzi, A.; Alburez-Gutierrez, D."
-        year: "in preparation"
-        title: "Kin loss due to violent death in Mexico: a subnational microsimulation approach"
-      - authors: "Snyder, M.; Alburez-Gutierrez, D.; Verdery, A.; Zagheni, E."
-        year: "in preparation"
-        title: "Who Will Remember COVID-19? Kinship Memory after a Global Pandemic"
-
-  - id: software
-    title: Analytical Software Development
-    items:
-      - authors: "Theile, T.; Alburez-Gutierrez, D.; Snyder, M.; Calderón-Bernal, L. P.; Zagheni, E."
-        year: "2022"
-        title: "rsocsim: An R package to run demographic microsimulations using SOCSIM"
-        venue: "GitHub"
-        url: "https://github.com/MPIDR/rsocsim"
-      - authors: "Williams, I.; Alburez-Gutierrez, D.; the DemoKin team"
-        year: "2021"
-        title: "DemoKin: An R package to implement demographic matrix kinship models"
-        venue: "Project website"
-        url: "https://ivanwilli.github.io/DemoKin/"
+      - authors: "Jiang, S.; Alburez-Gutierrez, D.; Chung, P.; Alexander, M."
+        year: "2025"
+        title: "Measuring kinship dependency: A cross-national comparison across care regimes"
+        venue: "MPIDR Working Paper"
+        status: "Under review"
+        doi: "10.4054/MPIDR-WP-2025-024"
+        doi_url: "https://dx.doi.org/10.4054/MPIDR-WP-2025-024"
+      - authors: "Sasson, I.; Andersson, L.; van Raalte, A.; Alburez-Gutierrez, D."
+        year: "2024"
+        title: "Social Inequalities in Bereavement across the Life Course: A Study of Four-Generation Kinship Networks in Sweden"
+        venue: "Stockholm Research Reports in Demography"
+        status: "Under review"
+        url: "https://su.figshare.com/articles/preprint/Social_Inequalities_in_Bereavement_across_the_Life_Course_A_Study_of_Four-Generation_Kinship_Networks_in_Sweden/26117569"
+      - authors: "Calderón-Bernal, L.; Alburez-Gutierrez, D.; Kolk, M.; Zagheni, E."
+        year: "2025"
+        title: "Assessing the validity of microsimulated kinship networks using Swedish population registers"
+        venue: "MPIDR Working Paper"
+        status: "Under review"
+        doi: "10.4054/MPIDR-WP-2025-020"
+        doi_url: "https://dx.doi.org/10.4054/MPIDR-WP-2025-020"
+      - authors: "Pojman, E.; Mwedzi, D.; Olaya Bucaro, O.; Zhang, S.; Chong, M.; Alexander, M.; Alburez-Gutierrez, D."
+        year: "2023"
+        title: "Leaving for life: Using online crowd-sourced genealogies to estimate the migrant mortality advantage for the United Kingdom and Ireland"
+        venue: "MPIDR Working Paper"
+        status: "Under review"
+        doi: "10.4054/MPIDR-WP-2023-050"
+        doi_url: "https://dx.doi.org/10.4054/MPIDR-WP-2023-050"
 

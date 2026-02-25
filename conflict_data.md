@@ -1,7 +1,8 @@
----
-layout: page
-title: Datasets on armed conflict
+﻿---
+layout: minimal
+permalink: /conflict_data/
 ---
 
-# Mortality datasets
-
+<meta http-equiv="refresh" content="0; url=/" />
+<link rel="canonical" href="/" />
+<p>This page has moved to <a href="/">home</a>.</p>
