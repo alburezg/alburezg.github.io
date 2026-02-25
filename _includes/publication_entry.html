@@ -1,0 +1,23 @@
+﻿<li class="pub-item">
+  <span class="pub-authors">{{ include.item.authors }}</span>
+  <span class="pub-year">({{ include.item.year }})</span>.
+  <span class="pub-title">"{{ include.item.title }}"</span>
+  {% if include.item.status %}
+    <span class="pub-status">{{ include.item.status }}</span>.
+  {% endif %}
+  {% if include.item.venue %}
+    <em class="pub-venue">{{ include.item.venue }}</em>{% if include.item.volume_issue_pages %}, {{ include.item.volume_issue_pages }}{% endif %}.
+  {% elsif include.item.volume_issue_pages %}
+    {{ include.item.volume_issue_pages }}.
+  {% endif %}
+  {% if include.item.doi and include.item.doi_url %}
+    DOI: <a href="{{ include.item.doi_url }}">{{ include.item.doi }}</a>.
+  {% elsif include.item.doi_url %}
+    <a href="{{ include.item.doi_url }}">Link</a>.
+  {% elsif include.item.url %}
+    <a href="{{ include.item.url }}">Link</a>.
+  {% endif %}
+  {% if include.item.notes %}
+    <span class="pub-notes">{{ include.item.notes }}</span>
+  {% endif %}
+</li>

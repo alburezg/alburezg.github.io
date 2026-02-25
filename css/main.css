@@ -680,3 +680,159 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+/* --- Academic minimalist refresh --- */
+
+:root {
+  --paper: #fcfcfb;
+  --ink: #1f2a37;
+  --muted: #5f6b78;
+  --accent: #0b4f6c;
+  --line: #d8dde3;
+}
+
+body {
+  background: linear-gradient(180deg, #ffffff 0%, var(--paper) 100%);
+  color: var(--ink);
+  font-family: "Lora", "Times New Roman", serif;
+  font-size: 19px;
+  line-height: 1.75;
+}
+
+p {
+  margin: 0 0 1.1em;
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover,
+a:focus {
+  color: #08384d;
+}
+
+.navbar-custom {
+  background: rgba(255, 255, 255, 0.97);
+  border-bottom: 1px solid var(--line);
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  letter-spacing: 0.03em;
+}
+
+.container[role="main"] {
+  max-width: 1024px;
+}
+
+.page-heading h1 {
+  font-size: 44px;
+  letter-spacing: 0.01em;
+}
+
+.page-subheading {
+  color: var(--muted);
+}
+
+.academic-page {
+  margin-top: 8px;
+}
+
+.lede {
+  font-size: 1.12em;
+  color: #24303d;
+}
+
+.quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 20px 0 30px;
+  padding: 0;
+}
+
+.quick-links a {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 7px 14px;
+  font-size: 0.9em;
+  color: var(--ink);
+  background: #fff;
+  text-decoration: none;
+}
+
+.quick-links a:hover,
+.quick-links a:focus {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.featured-research,
+.featured-video,
+.pub-section {
+  border-top: 1px solid var(--line);
+  padding-top: 18px;
+  margin-top: 28px;
+}
+
+.pub-list {
+  margin: 12px 0 0;
+  padding-left: 1.15em;
+}
+
+.pub-list.compact {
+  margin-bottom: 6px;
+}
+
+.pub-item {
+  margin-bottom: 0.95em;
+}
+
+.pub-title {
+  font-weight: 700;
+}
+
+.pub-status,
+.pub-notes {
+  color: var(--muted);
+}
+
+.responsive-video {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  background: #fff;
+  border: 1px solid var(--line);
+}
+
+.responsive-video iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  border: 0;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 17px;
+  }
+
+  .page-heading h1 {
+    font-size: 34px;
+  }
+
+  .quick-links {
+    gap: 8px;
+  }
+
+  .quick-links a {
+    font-size: 0.86em;
+    padding: 6px 11px;
+  }
+}
