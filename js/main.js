@@ -187,7 +187,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 document.addEventListener('DOMContentLoaded', function() {
-  var avatarLink = document.querySelector('.avatar-container a');
   var modal = document.getElementById('snake-modal');
   var closeBtn = modal ? modal.querySelector('.snake-close') : null;
   var canvas = document.getElementById('snake-canvas');
@@ -202,7 +201,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var score;
   var gameOver;
 
-  if (!avatarLink || !modal || !canvas || !scoreEl) {
+  if (!modal || !canvas || !scoreEl) {
     return;
   }
 
@@ -367,7 +366,15 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
-  avatarLink.addEventListener('click', function(e) {
+  function avatarClicked(target) {
+    return target.closest('.avatar-container a, .avatar-container, .avatar-img-border, .avatar-img');
+  }
+
+  document.addEventListener('click', function(e) {
+    var hit = avatarClicked(e.target);
+    if (!hit) {
+      return;
+    }
     e.preventDefault();
     openModal();
   });
