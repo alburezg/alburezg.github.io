@@ -801,6 +801,43 @@ a:focus {
   color: var(--muted);
 }
 
+.pub-layout {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: 24px;
+  align-items: start;
+}
+
+.pub-nav {
+  position: sticky;
+  top: 105px;
+  border: 1px solid var(--line);
+  background: #fff;
+  padding: 12px 14px;
+}
+
+.pub-nav-title {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.78em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 0 0 8px;
+  color: var(--muted);
+}
+
+.pub-nav ul {
+  margin: 0;
+  padding-left: 16px;
+}
+
+.pub-nav li {
+  margin-bottom: 6px;
+}
+
+.pub-content .pub-section:first-child {
+  margin-top: 0;
+}
+
 .contact-links {
   overflow-wrap: anywhere;
 }
@@ -864,6 +901,16 @@ a:focus {
 
   .academic-page a {
     overflow-wrap: anywhere;
+  }
+
+  .pub-layout {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .pub-nav {
+    position: static;
+    top: auto;
   }
 
   .copy-email-btn {
