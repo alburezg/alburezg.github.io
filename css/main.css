@@ -918,3 +918,69 @@ a:focus {
     margin-left: 0;
   }
 }
+
+/* --- Snake easter egg --- */
+
+.snake-modal {
+  position: fixed;
+  inset: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(10, 14, 24, 0.9);
+  z-index: 9999;
+  padding: 18px;
+}
+
+.snake-modal.open {
+  display: flex;
+}
+
+.snake-modal-inner {
+  width: 100%;
+  max-width: 420px;
+  background: #111827;
+  color: #f9f9f9;
+  border: 1px solid #243244;
+  border-radius: 10px;
+  padding: 14px 14px 12px;
+  text-align: center;
+  position: relative;
+}
+
+.snake-modal-inner h2 {
+  margin: 2px 0 6px;
+  color: #f9f9f9;
+  letter-spacing: 0.06em;
+}
+
+.snake-help {
+  font-size: 13px;
+  color: #c7d2de;
+  margin-bottom: 10px;
+}
+
+#snake-canvas {
+  width: 100%;
+  max-width: 320px;
+  aspect-ratio: 1 / 1;
+  border: 1px solid #2f3f54;
+  background: #09111b;
+}
+
+.snake-score {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #d2dbe7;
+}
+
+.snake-close {
+  position: absolute;
+  right: 8px;
+  top: 4px;
+  border: 0;
+  background: transparent;
+  color: #f9f9f9;
+  font-size: 26px;
+  line-height: 1;
+}

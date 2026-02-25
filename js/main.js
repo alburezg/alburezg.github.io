@@ -185,3 +185,202 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+  var avatarLink = document.querySelector('.avatar-container a');
+  var modal = document.getElementById('snake-modal');
+  var closeBtn = modal ? modal.querySelector('.snake-close') : null;
+  var canvas = document.getElementById('snake-canvas');
+  var scoreEl = document.getElementById('snake-score-value');
+  var gameLoop = null;
+  var tile = 16;
+  var grid = 20;
+  var snake;
+  var food;
+  var dir;
+  var nextDir;
+  var score;
+  var gameOver;
+
+  if (!avatarLink || !modal || !canvas || !scoreEl) {
+    return;
+  }
+
+  var ctx = canvas.getContext('2d');
+
+  function resetGame() {
+    snake = [{ x: 10, y: 10 }];
+    food = { x: 5, y: 5 };
+    dir = { x: 1, y: 0 };
+    nextDir = { x: 1, y: 0 };
+    score = 0;
+    gameOver = false;
+    scoreEl.textContent = score;
+    placeFood();
+    draw();
+  }
+
+  function placeFood() {
+    var valid = false;
+    while (!valid) {
+      food.x = Math.floor(Math.random() * grid);
+      food.y = Math.floor(Math.random() * grid);
+      valid = true;
+      for (var i = 0; i < snake.length; i++) {
+        if (snake[i].x === food.x && snake[i].y === food.y) {
+          valid = false;
+          break;
+        }
+      }
+    }
+  }
+
+  function step() {
+    if (gameOver) {
+      draw();
+      return;
+    }
+
+    dir = nextDir;
+    var head = {
+      x: snake[0].x + dir.x,
+      y: snake[0].y + dir.y
+    };
+
+    if (head.x < 0 || head.y < 0 || head.x >= grid || head.y >= grid) {
+      gameOver = true;
+      draw();
+      return;
+    }
+
+    for (var i = 0; i < snake.length; i++) {
+      if (snake[i].x === head.x && snake[i].y === head.y) {
+        gameOver = true;
+        draw();
+        return;
+      }
+    }
+
+    snake.unshift(head);
+
+    if (head.x === food.x && head.y === food.y) {
+      score += 1;
+      scoreEl.textContent = score;
+      placeFood();
+    } else {
+      snake.pop();
+    }
+
+    draw();
+  }
+
+  function draw() {
+    ctx.fillStyle = '#09111b';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    ctx.strokeStyle = 'rgba(255,255,255,0.05)';
+    for (var i = 0; i <= grid; i++) {
+      ctx.beginPath();
+      ctx.moveTo(i * tile, 0);
+      ctx.lineTo(i * tile, canvas.height);
+      ctx.stroke();
+      ctx.beginPath();
+      ctx.moveTo(0, i * tile);
+      ctx.lineTo(canvas.width, i * tile);
+      ctx.stroke();
+    }
+
+    ctx.fillStyle = '#f97316';
+    ctx.fillRect(food.x * tile + 2, food.y * tile + 2, tile - 4, tile - 4);
+
+    for (var j = 0; j < snake.length; j++) {
+      ctx.fillStyle = j === 0 ? '#67e8f9' : '#22d3ee';
+      ctx.fillRect(snake[j].x * tile + 1, snake[j].y * tile + 1, tile - 2, tile - 2);
+    }
+
+    if (gameOver) {
+      ctx.fillStyle = 'rgba(0,0,0,0.55)';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = '#f8fafc';
+      ctx.textAlign = 'center';
+      ctx.font = 'bold 28px Open Sans';
+      ctx.fillText('Game Over', canvas.width / 2, canvas.height / 2 - 8);
+      ctx.font = '14px Open Sans';
+      ctx.fillText('Press Enter to restart', canvas.width / 2, canvas.height / 2 + 20);
+    }
+  }
+
+  function setDirection(x, y) {
+    if (dir.x === -x && dir.y === -y) {
+      return;
+    }
+    nextDir = { x: x, y: y };
+  }
+
+  function onKey(e) {
+    if (!modal.classList.contains('open')) {
+      return;
+    }
+
+    var key = e.key.toLowerCase();
+    if (key === 'escape') {
+      closeModal();
+      return;
+    }
+
+    if (gameOver && key === 'enter') {
+      resetGame();
+      return;
+    }
+
+    if (key === 'arrowup' || key === 'w') {
+      setDirection(0, -1);
+    } else if (key === 'arrowdown' || key === 's') {
+      setDirection(0, 1);
+    } else if (key === 'arrowleft' || key === 'a') {
+      setDirection(-1, 0);
+    } else if (key === 'arrowright' || key === 'd') {
+      setDirection(1, 0);
+    } else {
+      return;
+    }
+
+    e.preventDefault();
+  }
+
+  function openModal() {
+    modal.classList.add('open');
+    modal.setAttribute('aria-hidden', 'false');
+    resetGame();
+    if (gameLoop) {
+      clearInterval(gameLoop);
+    }
+    gameLoop = setInterval(step, 110);
+  }
+
+  function closeModal() {
+    modal.classList.remove('open');
+    modal.setAttribute('aria-hidden', 'true');
+    if (gameLoop) {
+      clearInterval(gameLoop);
+      gameLoop = null;
+    }
+  }
+
+  avatarLink.addEventListener('click', function(e) {
+    e.preventDefault();
+    openModal();
+  });
+
+  modal.addEventListener('click', function(e) {
+    if (e.target === modal) {
+      closeModal();
+    }
+  });
+
+  if (closeBtn) {
+    closeBtn.addEventListener('click', closeModal);
+  }
+
+  document.addEventListener('keydown', onKey);
+});

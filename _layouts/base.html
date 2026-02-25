@@ -27,6 +27,16 @@ common-js:
 
     {{ content }}
 
+    <div id="snake-modal" class="snake-modal" aria-hidden="true">
+      <div class="snake-modal-inner" role="dialog" aria-modal="true" aria-labelledby="snake-title">
+        <button type="button" class="snake-close" aria-label="Close Snake game">&times;</button>
+        <h2 id="snake-title">Snake</h2>
+        <p class="snake-help">Use arrow keys (or WASD). Press Enter to restart after game over.</p>
+        <canvas id="snake-canvas" width="320" height="320"></canvas>
+        <p class="snake-score">Score: <span id="snake-score-value">0</span></p>
+      </div>
+    </div>
+
     {% include footer.html %}
   
     {% include footer-scripts.html %}
