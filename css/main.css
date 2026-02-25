@@ -801,6 +801,32 @@ a:focus {
   color: var(--muted);
 }
 
+.contact-links {
+  overflow-wrap: anywhere;
+}
+
+.email-obfuscated {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.96em;
+}
+
+.copy-email-btn {
+  margin-left: 8px;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 0.8em;
+  line-height: 1.2;
+}
+
+.copy-email-btn:hover,
+.copy-email-btn:focus {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
 .responsive-video {
   position: relative;
   width: 100%;
@@ -834,5 +860,14 @@ a:focus {
   .quick-links a {
     font-size: 0.86em;
     padding: 6px 11px;
+  }
+
+  .academic-page a {
+    overflow-wrap: anywhere;
+  }
+
+  .copy-email-btn {
+    margin-top: 6px;
+    margin-left: 0;
   }
 }

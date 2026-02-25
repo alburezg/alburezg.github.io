@@ -4,8 +4,6 @@ title: Contact
 ---
 
 <div class="academic-page">
-  <p class="lede">For collaborations, invited talks, supervision, and media inquiries, please get in touch.</p>
-
   <h2>Primary Contact</h2>
   <p>
     Diego Alburez-Gutierrez<br>
@@ -13,12 +11,20 @@ title: Contact
     Konrad-Zuse-Strasse 1, 18057 Rostock, Germany
   </p>
 
-  <p>
-    Email: <a href="mailto:alburezgutierrez@demogr.mpg.de">alburezgutierrez@demogr.mpg.de</a><br>
+  <p class="contact-links">
+    Email: <span class="email-obfuscated">alburezgutierrez [at] demogr [dot] mpg [dot] de</span>
+    <button
+      type="button"
+      class="copy-email-btn"
+      data-email-user="alburezgutierrez"
+      data-email-domain="demogr.mpg.de">
+      Copy email
+    </button><br>
     LinkedIn: <a href="https://www.linkedin.com/in/diego-alburez-gutierrez-64b62975">diego-alburez-gutierrez-64b62975</a><br>
+    Bluesky: <a href="https://bsky.app/profile/demography.bsky.social">@demography.bsky.social</a><br>
+    MPIDR profile: <a href="https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/diego_alburez_gutierrez_3783/">Staff directory page</a><br>
     ORCID: <a href="https://orcid.org/0000-0002-9823-5179">0000-0002-9823-5179</a><br>
     Google Scholar: <a href="https://scholar.google.com/citations?user=uyx520sAAAAJ&hl=en">Profile</a><br>
-    GitHub: <a href="https://github.com/alburezg">alburezg</a><br>
-    X: <a href="https://x.com/d_alburez">@d_alburez</a>
+    GitHub: <a href="https://github.com/alburezg">alburezg</a>
   </p>
 </div>

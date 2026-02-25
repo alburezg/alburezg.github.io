@@ -9,6 +9,7 @@
         notes: "Joint first authorship with E. Acosta"
         doi: "10.31235/osf.io/p87aw_v1"
         doi_url: "https://osf.io/preprints/socarxiv/p87aw_v1"
+        featured: true
       - authors: "Alburez-Gutierrez, D."
         year: "2026"
         title: "Caracterización demográfica del genocidio asociado al Proyecto Hidroeléctrico Chixoy en Guatemala (1982-2015)"
@@ -30,6 +31,7 @@
         volume_issue_pages: "23:55"
         doi: "10.1186/s12963-025-00422-9"
         doi_url: "https://doi.org/10.1186/s12963-025-00422-9"
+        featured: true
       - authors: "Hünteler, B.; Hank, K.; Alburez-Gutierrez, D.; Leopold, T."
         year: "2025"
         title: "A Typology of Nuclear and Extended Family Relations in the United States"
@@ -44,6 +46,7 @@
         volume_issue_pages: "11961236"
         doi: "10.1215/00703370-11961236"
         doi_url: "https://doi.org/10.1215/00703370-11961236"
+        featured: true
       - authors: "Matos-Moreno, A.; Alburez-Gutierrez, D.; Verdery, A.; Santos-Lozada, A.; Fernández Soto, M.; Williams, I."
         year: "2025"
         title: "Kinship Structures for Left Behind Older Adults in High Outmigration Contexts: Evidence from Puerto Rico"
@@ -58,7 +61,6 @@
         notes: "Joint first authorship with E. Acosta"
         doi: "10.1126/sciadv.ado6951"
         doi_url: "https://doi.org/10.1126/sciadv.ado6951"
-        featured: true
       - authors: "Alburez-Gutierrez, D.; Basellini, U.; Zagheni, E."
         year: "2024"
         title: "When do mothers bury a child? Heterogeneity in the maternal age at offspring loss"
@@ -71,7 +73,6 @@
         venue: "Journal of the American Medical Association"
         doi: "10.1001/jama.2024.8391"
         doi_url: "https://jamanetwork.com/journals/jama/fullarticle/2818482"
-        featured: true
       - authors: "Alburez-Gutierrez, D.; Williams, I.; Caswell, H."
         year: "2023"
         title: "Projections of human kinship for all countries"
@@ -79,7 +80,6 @@
         volume_issue_pages: "120(52):e2315722120"
         doi: "10.1073/pnas.2315722120"
         doi_url: "https://doi.org/10.1073/pnas.2315722120"
-        featured: true
       - authors: "Snyder, M.; Alburez-Gutierrez, D.; Williams, I.; Zagheni, E."
         year: "2022"
         title: "Estimates from 31 countries show the significant impact of COVID-19 excess mortality on the incidence of family bereavement"

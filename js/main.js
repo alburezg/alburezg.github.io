@@ -136,3 +136,52 @@ var main = {
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', main.init);
+
+document.addEventListener('DOMContentLoaded', function() {
+  var copyButtons = document.querySelectorAll('.copy-email-btn');
+  if (!copyButtons.length) {
+    return;
+  }
+
+  function fallbackCopy(text) {
+    var helper = document.createElement('textarea');
+    helper.value = text;
+    document.body.appendChild(helper);
+    helper.select();
+    try {
+      document.execCommand('copy');
+      return true;
+    } catch (err) {
+      return false;
+    } finally {
+      document.body.removeChild(helper);
+    }
+  }
+
+  copyButtons.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var user = btn.getAttribute('data-email-user');
+      var domain = btn.getAttribute('data-email-domain');
+      var email = user + '@' + domain;
+      var resetText = btn.textContent;
+
+      var onSuccess = function() {
+        btn.textContent = 'Copied';
+        setTimeout(function() { btn.textContent = resetText; }, 1400);
+      };
+
+      var onFailure = function() {
+        btn.textContent = 'Copy failed';
+        setTimeout(function() { btn.textContent = resetText; }, 1400);
+      };
+
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(email).then(onSuccess).catch(function() {
+          fallbackCopy(email) ? onSuccess() : onFailure();
+        });
+      } else {
+        fallbackCopy(email) ? onSuccess() : onFailure();
+      }
+    });
+  });
+});

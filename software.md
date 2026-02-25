@@ -5,7 +5,7 @@ title: Software
 
 <div class="academic-page">
   <p class="lede">
-    I develop and maintain open-source software for demographic and kinship analysis.
+    I contribute to the development and maintenance of open-source software for demographic and kinship analysis.
     These tools support reproducible research and teaching in formal and computational demography.
   </p>
 
