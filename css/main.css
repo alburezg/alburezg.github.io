@@ -731,6 +731,12 @@ a:focus {
   max-width: 1170px;
 }
 
+/* Align the navbar with the content column rather than the window edges. */
+.navbar-custom > .container-fluid {
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
 /* Lists and grids may use the full width; continuous prose should not, so
    cap it near the readable 65-75 character range. */
 .lede,

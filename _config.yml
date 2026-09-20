@@ -22,8 +22,8 @@ description: Demography, kinship, and inequality.
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
+# Home is rendered separately on the left in _includes/nav.html
 navbar-links:
-  Home                    :  ""
   Publications            :  "publications"
   Software                :  "software"
   Public Engagement       :  "public-engagement"

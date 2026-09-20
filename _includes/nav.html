@@ -10,6 +10,11 @@
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
+      <!-- Home sits on the left, where the site title used to be. It is not in
+           navbar-links so that it does not also appear in the right-hand menu. -->
+      <ul class="nav navbar-nav navbar-left">
+        <li><a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">Home</a></li>
+      </ul>
       <ul class="nav navbar-nav navbar-right">
       {% for link in site.navbar-links %}
         {% if link[1].first %}
