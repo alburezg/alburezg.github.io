@@ -848,37 +848,26 @@ a:focus {
 /* --- Software packages --- */
 
 .pkg {
-  display: grid;
-  grid-template-columns: 88px minmax(0, 1fr);
-  gap: 20px;
-  align-items: start;
   border-top: 1px solid var(--line);
   padding-top: 20px;
   margin-top: 28px;
 }
 
-.pkg-logo {
-  display: block;
-  border: 0;
-  transition: transform 0.15s ease;
-}
-
-.pkg-logo:hover,
-.pkg-logo:focus {
-  transform: translateY(-2px);
-}
-
-.pkg-logo img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.pkg-body > h2 {
+.pkg-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   margin-top: 0;
 }
 
-.pkg-body > p:last-child {
+.pkg-logo {
+  flex: none;
+  height: 1.55em;
+  width: auto;
+  display: block;
+}
+
+.pkg p:last-child {
   margin-bottom: 0;
 }
 
@@ -962,10 +951,12 @@ a:focus {
   }
 
   .pkg {
-    grid-template-columns: 62px minmax(0, 1fr);
-    gap: 14px;
     padding-top: 16px;
     margin-top: 22px;
+  }
+
+  .pkg-title {
+    gap: 8px;
   }
 
   .copy-email-btn {
