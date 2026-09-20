@@ -806,14 +806,11 @@ a:focus {
 }
 
 .pub-nav {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 6px 16px;
+  display: block;
   border: 1px solid var(--line);
   border-left: 3px solid var(--accent);
   background: #fff;
-  padding: 10px 14px;
+  padding: 12px 16px;
   margin-bottom: 24px;
 }
 
@@ -822,23 +819,24 @@ a:focus {
   font-size: 0.78em;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  margin: 0;
+  margin: 0 0 8px;
   color: var(--muted);
-  white-space: nowrap;
 }
 
 .pub-nav ul {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 4px 16px;
+  display: block;
   margin: 0;
-  padding: 0;
-  list-style: none;
+  padding-left: 1.15em;
+  list-style: disc;
 }
 
 .pub-nav li {
-  margin: 0;
-  font-size: 0.92em;
+  margin: 0 0 5px;
+  font-size: 0.94em;
+}
+
+.pub-nav li:last-child {
+  margin-bottom: 0;
 }
 
 .pub-content .pub-section:first-child {
@@ -941,13 +939,8 @@ a:focus {
   }
 
   .pub-nav {
-    gap: 4px 12px;
-    padding: 9px 12px;
+    padding: 11px 14px;
     margin-bottom: 18px;
-  }
-
-  .pub-nav ul {
-    gap: 4px 12px;
   }
 
   .pkg {
