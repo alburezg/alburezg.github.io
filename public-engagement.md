@@ -133,10 +133,9 @@ permalink: /pe-preview-7c41a9/
 
 <div class="academic-page">
   <p class="lede">
-    My work on families, kinship and the human cost of armed conflict has been covered by the
-    international press, including <em>The Economist</em>, <em>The Atlantic</em>, <em>El Pa&iacute;s</em>,
+    My work has been covered by <em>The Economist</em>, <em>The Atlantic</em>, <em>El Pa&iacute;s</em>,
     <em>Der Spiegel</em>, <em>Scientific American</em>, <em>The Times</em>, <em>Die Zeit</em>, CNN and
-    <em>Haaretz</em>. Media enquiries are welcome via the <a href="{{ site.baseurl }}/contact">contact page</a>.
+    <em>Haaretz</em>, among others.
   </p>
 
   <nav class="pub-nav" aria-label="Public engagement sections">
@@ -202,7 +201,7 @@ permalink: /pe-preview-7c41a9/
       </li>
       <li>
         <a class="pe-outlet" href="https://www.zeit.de/politik/ausland/2025-11/kriegstote-gazastreifen-opferzahlen-schaetzung">Die Zeit</a>
-        <span class="pe-desc">On estimating the number of people killed in the war in the Gaza Strip. <span class="pe-lang">In German.</span></span>
+        <span class="pe-desc">&ldquo;War dead in the Gaza Strip: more than 100,000 dead in the Gaza war.&rdquo; <span class="pe-lang">In German.</span></span>
       </li>
       <li>
         <a class="pe-outlet" href="https://www.haaretz.co.il/science/social-science/2024-08-04/ty-article-magazine/.premium/00000191-03e9-db69-af9f-ffed78d40000">Haaretz</a>
@@ -232,14 +231,6 @@ permalink: /pe-preview-7c41a9/
         <a class="pe-outlet" href="https://www.nationalgeographic.de/wissenschaft/2024/01/anzahl-lebende-verwandte-in-zukunft-gross-familie-demografischer-wandel">National Geographic</a>
         <span class="pe-desc">&ldquo;How many living relatives we will have in the future.&rdquo; <span class="pe-lang">In German.</span></span>
       </li>
-      <li>
-        <a class="pe-outlet" href="https://theconversation.com/coronavirus-a-warning-to-latin-america-and-the-caribbean-to-dramatically-increase-covid-19-testing-135759">The Conversation</a>
-        <span class="pe-desc">&ldquo;Coronavirus: a warning to Latin America and the Caribbean to dramatically increase COVID-19 testing.&rdquo;</span>
-      </li>
-      <li>
-        <a class="pe-outlet" href="https://www.niussp.org/health-and-mortality/global-trends-in-child-loss-less-and-later/">N-IUSSP</a>
-        <span class="pe-desc">&ldquo;Global trends in child loss: less and later.&rdquo;</span>
-      </li>
     </ul>
 
     <h3 class="pe-subhead">Television, radio, and podcasts</h3>
@@ -250,7 +241,7 @@ permalink: /pe-preview-7c41a9/
       </li>
       <li>
         <a class="pe-outlet" href="https://www.deutschlandfunk.de/forschung-aktuell-100.html">Deutschlandfunk</a>
-        <span class="pe-desc">&ldquo;Forschung aktuell,&rdquo; the daily science programme. <span class="pe-lang">In German.</span></span>
+        <span class="pe-desc">&ldquo;Study: the number of relatives in families is declining.&rdquo; <span class="pe-lang">In German.</span></span>
       </li>
       <li>
         <a class="pe-outlet" href="https://www.mdrjump.de/podcasts/fakt-oder-fake/hat-der-mensch-immer-weniger-verwandte-100.html">MDR Jump</a>
