@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Public Engagement
-subtitle: Media coverage and keynote lectures
+subtitle: Media coverage and public lectures
 permalink: /pe-preview-7c41a9/
 ---
 
@@ -133,16 +133,18 @@ permalink: /pe-preview-7c41a9/
 
 <div class="academic-page">
   <p class="lede">
-    My work has been covered by <em>The Economist</em>, <em>The Atlantic</em>, <em>El Pa&iacute;s</em>,
-    <em>Der Spiegel</em>, <em>Scientific American</em>, <em>The Times</em>, <em>Die Zeit</em>, CNN and
-    <em>Haaretz</em>, among others.
+    My research has been featured in the international press, such as <em>The Economist</em>,
+    <em>The Atlantic</em>, <em>El Pa&iacute;s</em>, <em>Der Spiegel</em>, <em>Scientific American</em>,
+    <em>The Times</em>, <em>Die Zeit</em>, CNN and <em>Haaretz</em>. I am also invited to speak at
+    high-profile events about the demographic questions behind current affairs, from the future of
+    the family to the human cost of armed conflict.
   </p>
 
   <nav class="pub-nav" aria-label="Public engagement sections">
     <p class="pub-nav-title">Jump to Section</p>
     <ul>
       <li><a href="#media-coverage">Media coverage</a></li>
-      <li><a href="#keynotes">Keynote lectures</a></li>
+      <li><a href="#lectures">Public lectures and panels</a></li>
     </ul>
   </nav>
 
@@ -250,9 +252,14 @@ permalink: /pe-preview-7c41a9/
     </ul>
   </section>
 
-  <section class="pe-section" id="keynotes">
-    <h2>Keynote lectures</h2>
+  <section class="pe-section" id="lectures">
+    <h2>Public lectures and panels</h2>
     <ul class="pe-entries">
+      <li class="pe-entry">
+        <p class="pe-entry-meta"><span class="pe-kind">Keynote</span><span class="pe-sep">&bull;</span>September 2026</p>
+        <p class="pe-entry-title">&ldquo;Demographic Dynamics in a World in Transformation: New Scenarios for Societies and Development&rdquo;</p>
+        <p class="pe-entry-body">Opening <em>conferencia magistral</em> of Session 1, &ldquo;El Salvador and a New Demographic Scenario: Transformations, Generations and Possible Futures,&rdquo; of the <em>C&aacute;tedra permanente sobre desarrollo y resiliencia demogr&aacute;fica</em> convened by UNFPA El Salvador. Universidad Centroamericana Jos&eacute; Sime&oacute;n Ca&ntilde;as (UCA), San Salvador. <span class="pe-lang">In Spanish.</span></p>
+      </li>
       <li class="pe-entry">
         <p class="pe-entry-meta"><span class="pe-kind">Keynote</span><span class="pe-sep">&bull;</span>September 2026</p>
         <p class="pe-entry-title">&ldquo;Quantifying Bereavement: Kinship Memory after Mass Violence&rdquo;</p>
@@ -267,6 +274,11 @@ permalink: /pe-preview-7c41a9/
         <p class="pe-entry-meta"><span class="pe-kind">Keynote</span><span class="pe-sep">&bull;</span>December 2024</p>
         <p class="pe-entry-title">&ldquo;Changing Landscapes: The Importance of Understanding Kinship Dynamics for Social Policy in Latin America and the Caribbean&rdquo;</p>
         <p class="pe-entry-body"><a href="https://www.youtube.com/live/EEeSfu99k5Q">XI Congress of the Latin American Population Association (ALAP)</a>, Bogot&aacute;, Colombia.</p>
+      </li>
+      <li class="pe-entry">
+        <p class="pe-entry-meta"><span class="pe-kind">Panel</span><span class="pe-sep">&bull;</span>October 2024</p>
+        <p class="pe-entry-title">&ldquo;Data on Time &ndash; to Strengthen Social and Demographic Statistics&rdquo;</p>
+        <p class="pe-entry-body">Sprint of the <a href="https://unstats.un.org/unsd/statcom/groups/FOCG_SDS/">Friends of the Chair Group on Social and Demographic Statistics</a>, United Nations Statistics Division (online).</p>
       </li>
     </ul>
   </section>
