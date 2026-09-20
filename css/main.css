@@ -725,8 +725,27 @@ a:focus {
   letter-spacing: 0.03em;
 }
 
+/* Match Bootstrap's own container width so the page header, the content and
+   the navbar all line up. Running prose is capped separately below. */
 .container[role="main"] {
-  max-width: 1024px;
+  max-width: 1170px;
+}
+
+/* Lists and grids may use the full width; continuous prose should not, so
+   cap it near the readable 65-75 character range. */
+.lede,
+.academic-page > p,
+.pkg > p,
+.blog-post p {
+  max-width: 72ch;
+}
+
+.pub-list {
+  max-width: 105ch;
+}
+
+.pub-nav {
+  max-width: 460px;
 }
 
 .page-heading h1 {
