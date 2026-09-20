@@ -728,12 +728,12 @@ a:focus {
 /* Match Bootstrap's own container width so the page header, the content and
    the navbar all line up. Running prose is capped separately below. */
 .container[role="main"] {
-  max-width: 1170px;
+  max-width: 960px;
 }
 
 /* Align the navbar with the content column rather than the window edges. */
 .navbar-custom > .container-fluid {
-  max-width: 1170px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
@@ -747,7 +747,7 @@ a:focus {
 }
 
 .pub-list {
-  max-width: 105ch;
+  max-width: 92ch;
 }
 
 .pub-nav {

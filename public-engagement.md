@@ -36,13 +36,6 @@ permalink: /public-engagement/
   gap: 14px 34px;
 }
 
-/* A third column once there is room for it. */
-@media (min-width: 1080px) {
-  .pe-media {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-}
-
 .pe-media > li {
   margin: 0;
   padding: 2px 0 2px 14px;
