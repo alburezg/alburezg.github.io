@@ -2,7 +2,7 @@
 layout: page
 title: Public Engagement
 subtitle: Media coverage and public lectures
-permalink: /pe-preview-7c41a9/
+permalink: /public-engagement/
 ---
 
 <style>

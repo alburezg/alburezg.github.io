@@ -26,6 +26,7 @@ navbar-links:
   Home                    :  ""
   Publications            :  "publications"
   Software                :  "software"
+  Public Engagement       :  "public-engagement"
   CV                      :  "pdf/CV_Diego_Alburez.pdf"
   Contact                 :  "contact"
 
