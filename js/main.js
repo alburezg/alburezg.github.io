@@ -50,7 +50,7 @@ var main = {
         $.each(children, function(idx, el) { words = words.concat($(el).text().trim().split(/\s+/)); });
         var maxwidth = 0;
         $.each(words, function(id, word) {
-          fakeMenu.html("<a>" + word + "</a>");
+          fakeMenu.empty().append($("<a></a>").text(word));
           var width =  fakeMenu.width();
           if (width > maxwidth) {
             maxwidth = width;

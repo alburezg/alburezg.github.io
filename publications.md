@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Publications
 subtitle: Peer-reviewed work and preprints

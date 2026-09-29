@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Diego Alburez-Gutierrez
 subtitle: Demography, kinship, and inequality

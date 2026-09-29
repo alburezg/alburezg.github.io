@@ -143,6 +143,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - vendor
+  - alburezg.github.io.Rproj
 
 # prose.io config
 prose:
@@ -198,6 +200,8 @@ prose:
 
 plugins:
   - jekyll-paginate
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

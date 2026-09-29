@@ -1,4 +1,4 @@
-﻿---
+---
 layout: minimal
 permalink: /code/
 ---

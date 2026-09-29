@@ -19,7 +19,7 @@ The Extended Genealogy Method (EGM) is a new data collection tool that uses cros
 
 ## Tools for data input
 
-See my post on [tabulating questionnaire data in Shiny (RStudio)](http://alburez.me/code#tabulate-questionnaires) for a data input template.
+See my post on [tabulating questionnaire data in Shiny (RStudio)](https://alburez.me/code#tabulate-questionnaires) for a data input template.
 
 ## References
 

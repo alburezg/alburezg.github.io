@@ -21,4 +21,4 @@ Ckiky Guarchaj prepared an [amazing tutorial](https://www.youtube.com/watch?v=y_
 
 Watch an interview about the translation on TV Maya--Guatemala:
 
-[![Go to video](img/interview.PNG)](https://www.youtube.com/watch?v=oXWVP0rmiMo)
+[![Go to video](/img/interview.PNG)](https://www.youtube.com/watch?v=oXWVP0rmiMo)

@@ -46,3 +46,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .Rproj.user
+
+# Local Jekyll build
+_site/
+.sass-cache/
+.bundle/
+vendor/

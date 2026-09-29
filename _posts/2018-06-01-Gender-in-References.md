@@ -32,7 +32,6 @@ bibliography. How does yours fare?
   3. Include each reference in a separate line - you may have to reformat references from pdfs
   4. Let me know what you think at [@d_alburez](https://twitter.com/d_alburez)  
 
-[comment]: <> <iframe width = "100%" height = "550px" seamless frameborder = "0" src="http://ec2-18-218-227-138.us-east-2.compute.amazonaws.com:3838/myapp/"></iframe>
 <iframe width = "100%" height = "550px" seamless frameborder = "0" src="https://diego-alburez.shinyapps.io/gender/"></iframe>
 
 *This is a [beta version](https://github.com/alburezg/gender_bibliography). You can help improve it! If the tool doesn't work, send me the error message and
