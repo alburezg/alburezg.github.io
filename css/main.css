@@ -225,13 +225,12 @@ img {
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
-@media only screen and (max-width: 767px) {
-  .navbar-custom .nav .navlinks-container.show-children {
-    background: #eee;
-  }
-  .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
-    display: block;
-  }
+/* Opened by a click (js/main.js) at every screen width, not only on hover */
+.navbar-custom .nav .navlinks-container.show-children {
+  background: #eee;
+}
+.navbar-custom .nav .navlinks-container.show-children .navlinks-children {
+  display: block;
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom .nav .navlinks-container {
@@ -245,6 +244,7 @@ img {
   }
   .navbar-custom .nav .navlinks-children {
     position: absolute;
+    min-width: 170px;
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
@@ -806,7 +806,31 @@ a:focus {
 
 .pub-list {
   margin: 12px 0 0;
-  padding-left: 1.15em;
+  padding-left: 0;
+  list-style: none;
+}
+
+.pub-year-heading {
+  font-size: 1.05em;
+  color: var(--muted);
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 4px;
+  margin: 26px 0 0;
+}
+
+.pub-nav-alt {
+  margin: 10px 0 0;
+  font-size: 0.94em;
+}
+
+.pub-nav-alt a,
+.pub-back-top a {
+  color: var(--accent);
+}
+
+.pub-back-top {
+  font-size: 0.9em;
+  margin-top: 4px;
 }
 
 .pub-list.compact {

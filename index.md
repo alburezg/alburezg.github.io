@@ -22,7 +22,7 @@ path: ""
 
   <section class="featured-research">
     <h2>Selected Publications</h2>
-    <ol class="pub-list compact">
+    <ul class="pub-list compact">
       {% for section in site.data.publications.sections %}
         {% for item in section.items %}
           {% if item.featured %}
@@ -30,7 +30,7 @@ path: ""
           {% endif %}
         {% endfor %}
       {% endfor %}
-    </ol>
+    </ul>
     <p><a href="/publications">View full publications list</a> | <a href="/contact">Contact</a></p>
   </section>
 </div>

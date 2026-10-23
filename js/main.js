@@ -407,3 +407,12 @@ document.addEventListener('click', function(e) {
     other.setAttribute('aria-expanded', open ? 'true' : 'false');
   });
 });
+
+// Navbar dropdowns: a click anywhere outside an open menu closes it
+document.addEventListener('click', function(e) {
+  document.querySelectorAll('.navlinks-container.show-children').forEach(function(menu) {
+    if (!menu.contains(e.target)) {
+      menu.classList.remove('show-children');
+    }
+  });
+});

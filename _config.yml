@@ -24,7 +24,9 @@ description: Demography, kinship, and inequality.
 # List of links in the navigation bar
 # Home is rendered separately on the left in _includes/nav.html
 navbar-links:
-  Publications            :  "publications"
+  Publications:
+    - All publications    :  "publications"
+    - By topic            :  "publications/topics"
   Software                :  "software"
   Public Engagement       :  "public-engagement"
   CV                      :  "pdf/CV_Diego_Alburez.pdf"
