@@ -12,17 +12,16 @@
   {% elsif include.item.volume_issue_pages %}
     {{ include.item.volume_issue_pages }}.
   {% endif %}
+  {% assign html_url = include.item.doi_url | default: include.item.url %}
   {% if include.item.doi and include.item.doi_url %}
-    DOI: <a href="{{ include.item.doi_url }}">{{ include.item.doi }}</a>.
-  {% elsif include.item.doi_url %}
-    <a href="{{ include.item.doi_url }}">Link</a>.
-  {% elsif include.item.url %}
-    <a href="{{ include.item.url }}">Link</a>.
+    DOI: <a href="{{ include.item.doi_url }}" target="_blank" rel="noopener">{{ include.item.doi }}</a>.
+  {% elsif html_url %}
+    <a href="{{ html_url }}" target="_blank" rel="noopener">Link</a>.
   {% endif %}
   {% if include.item.notes %}
     <span class="pub-notes">{{ include.item.notes }}</span>
   {% endif %}
-  {% if abstract or bibtex or include.item.pdf or include.item.code or include.item.data %}
+  {% if abstract or bibtex or html_url or include.item.pdf or include.item.code or include.item.data %}
     <div class="pub-links">
       {% if abstract %}
         <button type="button" class="pub-btn" data-pub-toggle="abs" aria-expanded="false">Abs</button>
@@ -30,14 +29,17 @@
       {% if bibtex %}
         <button type="button" class="pub-btn" data-pub-toggle="bib" aria-expanded="false">Bib</button>
       {% endif %}
+      {% if html_url %}
+        <a class="pub-btn" href="{{ html_url }}" target="_blank" rel="noopener">HTML</a>
+      {% endif %}
       {% if include.item.pdf %}
-        <a class="pub-btn" href="{{ include.item.pdf | prepend: '/pdf/publications/' | relative_url }}">PDF</a>
+        <a class="pub-btn" href="{{ include.item.pdf | prepend: '/pdf/publications/' | relative_url }}" target="_blank" rel="noopener">PDF</a>
       {% endif %}
       {% if include.item.code %}
-        <a class="pub-btn" href="{{ include.item.code }}">Code</a>
+        <a class="pub-btn" href="{{ include.item.code }}" target="_blank" rel="noopener">Code</a>
       {% endif %}
       {% if include.item.data %}
-        <a class="pub-btn" href="{{ include.item.data }}">Data</a>
+        <a class="pub-btn" href="{{ include.item.data }}" target="_blank" rel="noopener">Data</a>
       {% endif %}
     </div>
     {% if abstract %}
