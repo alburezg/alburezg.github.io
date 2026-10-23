@@ -1514,3 +1514,252 @@ a:focus {
 .project-page a {
   color: var(--accent);
 }
+
+/* --- Public Engagement page (.pe-* classes) --- */
+.pe-section {
+  border-top: 1px solid var(--line);
+  padding-top: 18px;
+  margin-top: 30px;
+}
+
+.pe-section > h2 {
+  font-size: 1.45em;
+}
+
+.pe-subhead {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.76em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin: 26px 0 12px;
+}
+
+.pe-media {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px 34px;
+}
+
+.pe-media > li {
+  margin: 0;
+  padding: 2px 0 2px 14px;
+  border-left: 2px solid var(--line);
+  line-height: 1.45;
+}
+
+.pe-outlet {
+  font-weight: 700;
+  font-size: 0.97em;
+}
+
+.pe-desc {
+  display: block;
+  color: var(--muted);
+  font-size: 0.88em;
+  line-height: 1.45;
+  margin-top: 2px;
+}
+
+.pe-lang {
+  font-style: italic;
+}
+
+.pe-entries {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.pe-entry {
+  border-left: 2px solid var(--line);
+  padding: 2px 0 2px 16px;
+  margin: 0 0 22px;
+}
+
+.pe-entry:last-child {
+  margin-bottom: 0;
+}
+
+.pe-entry-meta {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.73em;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin: 0 0 5px;
+}
+
+.pe-kind {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.pe-sep {
+  padding: 0 7px;
+  color: var(--line);
+}
+
+.pe-entry-title {
+  margin: 0 0 4px;
+  font-weight: 700;
+  line-height: 1.4;
+  font-size: 1em;
+}
+
+.pe-entry-body {
+  margin: 0;
+  font-size: 0.94em;
+  line-height: 1.55;
+  color: var(--muted);
+  max-width: 78ch;
+}
+
+@media (max-width: 768px) {
+  .pe-section {
+    margin-top: 24px;
+    padding-top: 14px;
+  }
+
+  .pe-section > h2 {
+    font-size: 1.28em;
+  }
+
+  .pe-media {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .pe-entry {
+    padding-left: 12px;
+    margin-bottom: 18px;
+  }
+}
+
+.project-translation-note {
+  font-size: 0.85em;
+  font-style: italic;
+  color: var(--muted);
+}
+
+/* Language switcher (EN ES DE) at the end of the navbar */
+.navbar-custom .nav > li.lang-switch {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  padding: 10px 0 10px 12px;
+}
+
+.navbar-custom .nav > li.lang-switch > a,
+.navbar-custom .nav > li.lang-switch > .lang-current {
+  display: inline-block;
+  padding: 2px 4px;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: 1.4;
+}
+
+.navbar-custom .nav > li.lang-switch > a {
+  color: var(--muted);
+}
+
+.navbar-custom .nav > li.lang-switch > a:hover,
+.navbar-custom .nav > li.lang-switch > a:focus {
+  color: var(--accent);
+  background: transparent;
+}
+
+.navbar-custom .nav > li.lang-switch > .lang-current {
+  color: var(--accent);
+  border-bottom: 2px solid var(--accent);
+}
+
+@media only screen and (min-width: 768px) {
+  .navbar-custom .nav > li.lang-switch {
+    padding: 20px 0 20px 12px;
+  }
+}
+
+:root[data-theme="dark"] .navbar-custom .nav > li.lang-switch > a {
+  color: var(--muted);
+}
+
+/* Phones: theme toggle and language switcher sit in the top bar, left of the
+   menu button, so they are usable without opening the menu. On wider screens
+   they are the last items of the menu instead. */
+.nav-tools-mobile {
+  display: none;
+}
+
+@media only screen and (max-width: 767px) {
+  .nav-tools-mobile {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    float: left;
+    height: 50px;
+    padding-left: 5px;
+  }
+
+  .nav-tools-mobile .theme-toggle {
+    padding: 8px 6px;
+  }
+
+  .nav-tools-mobile .lang-switch {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+  }
+
+  .nav-tools-mobile .lang-switch > a,
+  .nav-tools-mobile .lang-switch > .lang-current {
+    display: inline-block;
+    padding: 6px 5px;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 1.2;
+    color: var(--muted);
+    text-decoration: none;
+  }
+
+  .nav-tools-mobile .lang-switch > .lang-current {
+    color: var(--accent);
+    border-bottom: 2px solid var(--accent);
+  }
+
+  .navbar-custom .nav > li.nav-tools-desktop {
+    display: none;
+  }
+}
+
+/* Tablets (768-991px): tighter menu so the navbar stays on one line, also in German */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .navbar-custom .nav > li > a,
+  .navbar-custom .nav .navlinks-parent {
+    padding-left: 7px;
+    padding-right: 7px;
+    font-size: 10.5px;
+    letter-spacing: 0.4px;
+  }
+
+  .navbar-custom .nav > li.lang-switch {
+    padding-left: 4px;
+  }
+
+  .navbar-custom .nav > li.lang-switch > a,
+  .navbar-custom .nav > li.lang-switch > .lang-current {
+    padding: 2px 3px;
+  }
+
+  .theme-toggle {
+    padding-left: 6px;
+  }
+}

@@ -1,0 +1,16 @@
+{% comment %} EN ES DE links for the navbar; used twice in nav.html (desktop menu and phone top bar) {% endcomment %}
+{% assign lang = page.lang | default: "en" %}
+  {% comment %} Link to the same page in each language (pages share `ref`), else that language's home {% endcomment %}
+  {% for code in site.data.i18n_order %}
+    {% assign other = site.data.i18n[code] %}
+    {% assign target = nil %}
+    {% if page.ref %}
+      {% assign target = site.pages | where: "ref", page.ref | where: "lang", code | first %}
+    {% endif %}
+    {% if target %}{% assign href = target.url | relative_url %}{% else %}{% assign href = other.prefix | append: '/' | relative_url %}{% endif %}
+    {% if code == lang %}
+      <span class="lang-current" lang="{{ code }}" title="{{ other.name }}">{{ other.short }}</span>
+    {% else %}
+      <a href="{{ href }}" lang="{{ code }}" hreflang="{{ code }}" title="{{ other.name }}">{{ other.short }}</a>
+    {% endif %}
+  {% endfor %}

@@ -1,0 +1,229 @@
+# Interface text in each language. Pages pick their language from `lang`
+# (set by folder in _config.yml defaults: es/ -> es, de/ -> de, else en).
+# Each translated page shares a `ref` with its English original, which the
+# language switcher uses to link the same page across languages.
+#
+# Publication titles, authors and venues, abstracts and BibTeX are never
+# translated: they are shown as published.
+
+en:
+  name: "English"
+  short: "EN"
+  prefix: ""
+  nav:
+    - label: "Publications"
+      children:
+        - label: "All publications"
+          url: "/publications/"
+        - label: "By topic"
+          url: "/publications/topics/"
+    - label: "Projects"
+      url: "/projects/"
+    - label: "Software"
+      url: "/software/"
+    - label: "Public Engagement"
+      url: "/public-engagement/"
+    - label: "CV"
+      url: "/pdf/CV_Diego_Alburez.pdf"
+    - label: "Contact"
+      url: "/contact/"
+  home: "Home"
+  theme_toggle: "Switch between light and dark theme"
+  language: "Language"
+  jump_to_section: "Jump to Section"
+  jump_to_topic: "Jump to Topic"
+  view_by_topic: "View publications by topic"
+  view_by_year: "View all publications by year"
+  accepted: "Accepted"
+  accepted_citation: "accepted"
+  back_to_top: "Back to top"
+  selected_publications: "Selected Publications"
+  view_full_list: "View full publications list"
+  contact: "Contact"
+  doi: "DOI"
+  link: "Link"
+  abstract_label: "Abstract"
+  original_abstract_label: "Resumen"
+  buttons:
+    abs: "Abs"
+    bib: "Bib"
+    html: "HTML"
+    pdf: "PDF"
+    code: "Code"
+    data: "Data"
+  sections:
+    peer_reviewed: "Publications in Peer-Reviewed Journals"
+    book_chapters: "Book Chapters and Conference Proceedings"
+    technical_reports: "Technical Reports"
+    preprints: "Preprints"
+  topics:
+    - id: kinship
+      title: "Kinship structures, family and ageing"
+    - id: bereavement
+      title: "Bereavement, kin loss and mortality"
+    - id: conflict
+      title: "Armed conflict, genocide and displacement"
+    - id: microsimulation
+      title: "Microsimulation and digital data"
+  notes:
+    "Joint first authorship with E. Acosta": "Joint first authorship with E. Acosta"
+    "Preprint version; ISSN 2002-617X": "Preprint version; ISSN 2002-617X"
+    "Spanish reprint of the 2022 Demography article above": "Spanish reprint of the 2022 Demography article above"
+    "Temporary DOI; preprint version": "Temporary DOI; preprint version"
+  projects:
+    all_projects: "All projects"
+    collaborators: "Collaborators"
+    dissertation_label: "Doctoral dissertation by"
+    dissertation_by: "Doctoral dissertation by"
+    supervised_by: "supervised by"
+    and: "and"
+    mpidr_page: "Project page at the MPIDR"
+    translation_note: ""
+
+es:
+  name: "Español"
+  short: "ES"
+  prefix: "/es"
+  nav:
+    - label: "Publicaciones"
+      children:
+        - label: "Todas las publicaciones"
+          url: "/es/publications/"
+        - label: "Por tema"
+          url: "/es/publications/topics/"
+    - label: "Proyectos"
+      url: "/es/projects/"
+    - label: "Software"
+      url: "/es/software/"
+    - label: "Divulgación"
+      url: "/es/public-engagement/"
+    - label: "CV"
+      url: "/pdf/CV_Diego_Alburez.pdf"
+    - label: "Contacto"
+      url: "/es/contact/"
+  home: "Inicio"
+  theme_toggle: "Cambiar entre tema claro y oscuro"
+  language: "Idioma"
+  jump_to_section: "Ir a la sección"
+  jump_to_topic: "Ir al tema"
+  view_by_topic: "Ver las publicaciones por tema"
+  view_by_year: "Ver todas las publicaciones por año"
+  accepted: "Aceptados"
+  accepted_citation: "aceptado"
+  back_to_top: "Volver arriba"
+  selected_publications: "Publicaciones seleccionadas"
+  view_full_list: "Ver la lista completa de publicaciones"
+  contact: "Contacto"
+  doi: "DOI"
+  link: "Enlace"
+  abstract_label: "Abstract"
+  original_abstract_label: "Resumen"
+  buttons:
+    abs: "Resumen"
+    bib: "Bib"
+    html: "HTML"
+    pdf: "PDF"
+    code: "Código"
+    data: "Datos"
+  sections:
+    peer_reviewed: "Artículos en revistas con revisión por pares"
+    book_chapters: "Capítulos de libros y actas de congresos"
+    technical_reports: "Informes técnicos"
+    preprints: "Preprints"
+  topics:
+    - id: kinship
+      title: "Estructuras de parentesco, familia y envejecimiento"
+    - id: bereavement
+      title: "Duelo, pérdida de familiares y mortalidad"
+    - id: conflict
+      title: "Conflicto armado, genocidio y desplazamiento"
+    - id: microsimulation
+      title: "Microsimulación y datos digitales"
+  notes:
+    "Joint first authorship with E. Acosta": "Primera autoría compartida con E. Acosta"
+    "Preprint version; ISSN 2002-617X": "Versión preprint; ISSN 2002-617X"
+    "Spanish reprint of the 2022 Demography article above": "Versión en español del artículo de 2022 en Demography (arriba)"
+    "Temporary DOI; preprint version": "DOI provisional; versión preprint"
+  projects:
+    all_projects: "Todos los proyectos"
+    collaborators: "Colaboradores"
+    dissertation_label: "Tesis doctoral de"
+    dissertation_by: "Tesis doctoral de"
+    supervised_by: "dirigida por"
+    and: "y"
+    mpidr_page: "Página del proyecto en el MPIDR"
+    translation_note: "Traducción del texto en inglés publicado por el MPIDR."
+
+de:
+  name: "Deutsch"
+  short: "DE"
+  prefix: "/de"
+  nav:
+    - label: "Publikationen"
+      children:
+        - label: "Alle Publikationen"
+          url: "/de/publications/"
+        - label: "Nach Thema"
+          url: "/de/publications/topics/"
+    - label: "Projekte"
+      url: "/de/projects/"
+    - label: "Software"
+      url: "/de/software/"
+    - label: "Öffentlichkeitsarbeit"
+      url: "/de/public-engagement/"
+    - label: "CV"
+      url: "/pdf/CV_Diego_Alburez.pdf"
+    - label: "Kontakt"
+      url: "/de/contact/"
+  home: "Start"
+  theme_toggle: "Zwischen hellem und dunklem Design wechseln"
+  language: "Sprache"
+  jump_to_section: "Zum Abschnitt"
+  jump_to_topic: "Zum Thema"
+  view_by_topic: "Publikationen nach Thema anzeigen"
+  view_by_year: "Alle Publikationen nach Jahr anzeigen"
+  accepted: "Angenommen"
+  accepted_citation: "angenommen"
+  back_to_top: "Nach oben"
+  selected_publications: "Ausgewählte Publikationen"
+  view_full_list: "Vollständige Publikationsliste"
+  contact: "Kontakt"
+  doi: "DOI"
+  link: "Link"
+  abstract_label: "Abstract"
+  original_abstract_label: "Resumen"
+  buttons:
+    abs: "Abstract"
+    bib: "Bib"
+    html: "HTML"
+    pdf: "PDF"
+    code: "Code"
+    data: "Daten"
+  sections:
+    peer_reviewed: "Artikel in Fachzeitschriften mit Peer-Review"
+    book_chapters: "Buchkapitel und Tagungsbände"
+    technical_reports: "Technische Berichte"
+    preprints: "Preprints"
+  topics:
+    - id: kinship
+      title: "Verwandtschaftsstrukturen, Familie und Alterung"
+    - id: bereavement
+      title: "Trauer, Verlust von Angehörigen und Sterblichkeit"
+    - id: conflict
+      title: "Bewaffnete Konflikte, Völkermord und Vertreibung"
+    - id: microsimulation
+      title: "Mikrosimulation und digitale Daten"
+  notes:
+    "Joint first authorship with E. Acosta": "Geteilte Erstautorschaft mit E. Acosta"
+    "Preprint version; ISSN 2002-617X": "Preprint-Version; ISSN 2002-617X"
+    "Spanish reprint of the 2022 Demography article above": "Spanische Fassung des oben genannten Demography-Artikels von 2022"
+    "Temporary DOI; preprint version": "Vorläufige DOI; Preprint-Version"
+  projects:
+    all_projects: "Alle Projekte"
+    collaborators: "Mitwirkende"
+    dissertation_label: "Dissertation von"
+    dissertation_by: "Dissertation von"
+    supervised_by: "betreut von"
+    and: "und"
+    mpidr_page: "Projektseite am MPIDR"
+    translation_note: "Übersetzung des englischen Textes des MPIDR."

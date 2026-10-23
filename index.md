@@ -3,6 +3,7 @@ layout: page
 title: Diego Alburez-Gutierrez
 subtitle: Demography, kinship, and inequality
 path: ""
+ref: home
 ---
 
 <div class="academic-page home-page">
@@ -21,17 +22,5 @@ path: ""
     </p>
   </section>
 
-  <section class="featured-research">
-    <h2>Selected Publications</h2>
-    <ul class="pub-list compact">
-      {% for section in site.data.publications.sections %}
-        {% for item in section.items %}
-          {% if item.featured %}
-            {% include publication_entry.html item=item %}
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-    </ul>
-    <p><a href="/publications">View full publications list</a> | <a href="/contact">Contact</a></p>
-  </section>
+  {% include selected_publications.html %}
 </div>

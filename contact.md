@@ -1,4 +1,5 @@
 ---
+ref: contact
 layout: page
 title: Contact
 ---

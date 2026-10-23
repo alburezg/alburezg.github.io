@@ -23,15 +23,7 @@ description: Demography, kinship, and inequality.
 
 # List of links in the navigation bar
 # Home is rendered separately on the left in _includes/nav.html
-navbar-links:
-  Publications:
-    - All publications    :  "publications"
-    - By topic            :  "publications/topics"
-  Projects                :  "projects"
-  Software                :  "software"
-  Public Engagement       :  "public-engagement"
-  CV                      :  "pdf/CV_Diego_Alburez.pdf"
-  Contact                 :  "contact"
+# Navbar links are set per language in _data/i18n.yml (`nav`).
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -132,6 +124,18 @@ defaults:
     values:
       layout: "page"
       show-avatar: false
+      lang: "en"
+  # Translated pages live in es/ and de/ (see _data/i18n.yml)
+  -
+    scope:
+      path: "es"
+    values:
+      lang: "es"
+  -
+    scope:
+      path: "de"
+    values:
+      lang: "de"
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false

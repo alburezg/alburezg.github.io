@@ -1,0 +1,21 @@
+{% comment %} Body of the projects overview page, shared by every language version.
+   Translated project text is under `es:` / `de:` in _data/projects.yml; English is the fallback. {% endcomment %}
+{% assign lang = page.lang %}
+{% assign t = site.data.i18n[lang] %}
+<div class="academic-page">
+  <div class="project-grid">
+    {% for project in site.data.projects %}
+      {% assign pt = project[lang] | default: project %}
+      <a class="project-card" href="{{ t.prefix | append: '/projects/' | append: project.id | append: '/' | relative_url }}">
+        <h2>{{ pt.title | default: project.title }}</h2>
+        {% if project.dissertation_student %}
+          <p class="project-card-dissertation">{{ t.projects.dissertation_label }} {{ project.dissertation_student }}</p>
+        {% endif %}
+        <p>{{ pt.short | default: project.short | xml_escape }}</p>
+        {% assign research = pt.research_keywords | default: project.research_keywords %}
+        {% assign regions = pt.region_keywords | default: project.region_keywords %}
+        <p class="project-card-tags">{% for kw in research %}<span class="project-tag">{{ kw }}</span>{% endfor %}{% for kw in regions %}<span class="project-tag project-tag-region">{{ kw }}</span>{% endfor %}</p>
+      </a>
+    {% endfor %}
+  </div>
+</div>

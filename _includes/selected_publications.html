@@ -1,0 +1,15 @@
+{% comment %} Selected publications (entries with `featured: true`) on each language's home page {% endcomment %}
+{% assign t = site.data.i18n[page.lang] %}
+<section class="featured-research">
+  <h2>{{ t.selected_publications }}</h2>
+  <ul class="pub-list compact">
+    {% for section in site.data.publications.sections %}
+      {% for item in section.items %}
+        {% if item.featured %}
+          {% include publication_entry.html item=item %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ul>
+  <p><a href="{{ t.prefix | append: '/publications/' | relative_url }}">{{ t.view_full_list }}</a> | <a href="{{ t.prefix | append: '/contact/' | relative_url }}">{{ t.contact }}</a></p>
+</section>

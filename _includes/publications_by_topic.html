@@ -1,0 +1,39 @@
+{% comment %} Body of the publications-by-topic page, shared by every language version.
+   Topic ids and titles are in _data/i18n.yml (`topics`); each publication has a `topic`. {% endcomment %}
+{% assign t = site.data.i18n[page.lang] %}
+{% assign all_items = "" | split: "" %}
+{% for section in site.data.publications.sections %}
+  {% assign all_items = all_items | concat: section.items %}
+{% endfor %}
+
+<div class="academic-page" id="top">
+  <div class="pub-layout">
+    <aside class="pub-nav" aria-label="{{ t.jump_to_topic }}">
+      <p class="pub-nav-title">{{ t.jump_to_topic }}</p>
+      <ul>
+        {% for topic in t.topics %}
+          <li><a href="#{{ topic.id }}">{{ topic.title }}</a></li>
+        {% endfor %}
+      </ul>
+      <p class="pub-nav-alt"><a href="{{ t.prefix | append: '/publications/' | relative_url }}">{{ t.view_by_year }}</a></p>
+    </aside>
+    <div class="pub-content">
+      {% for topic in t.topics %}
+        <section class="pub-section" id="{{ topic.id }}">
+          <h2>{{ topic.title }}</h2>
+          {% assign topic_items = all_items | where: "topic", topic.id %}
+          {% assign years = topic_items | map: "year" | uniq | sort | reverse %}
+          <ul class="pub-list">
+            {% for year in years %}
+              {% assign year_items = topic_items | where: "year", year | sort_natural: "authors" %}
+              {% for item in year_items %}
+                {% include publication_entry.html item=item %}
+              {% endfor %}
+            {% endfor %}
+          </ul>
+          <p class="pub-back-top"><a href="#top">{{ t.back_to_top }}</a></p>
+        </section>
+      {% endfor %}
+    </div>
+  </div>
+</div>

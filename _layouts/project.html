@@ -2,34 +2,43 @@
 layout: page
 ---
 
-{% comment %} The short description and keywords are shown on /projects/; this page has the full text {% endcomment %}
+{% comment %} The short description and keywords are shown on the projects overview; this page has the full text.
+   Translated text is under `es:` / `de:` in _data/projects.yml; English is the fallback. {% endcomment %}
+{% assign lang = page.lang %}
+{% assign t = site.data.i18n[lang] %}
 {% assign project = site.data.projects | where: "id", page.project | first %}
+{% assign pt = project[lang] | default: project %}
+{% assign details = pt.details | default: project.details %}
 
 <div class="academic-page project-page">
   {% if project.dissertation_student %}
     {% assign student = project.collaborators | where: "name", project.dissertation_student | first %}
     {% assign cosupervisor = project.collaborators | where: "name", project.dissertation_cosupervisor | first %}
     <p class="project-dissertation">
-      Doctoral dissertation by
+      {{ t.projects.dissertation_by }}
       {% if student.url %}<a href="{{ student.url }}" target="_blank" rel="noopener">{{ project.dissertation_student }}</a>{% else %}{{ project.dissertation_student }}{% endif %},
-      supervised by Diego Alburez-Gutierrez{% if project.dissertation_cosupervisor %} and
+      {{ t.projects.supervised_by }} Diego Alburez-Gutierrez{% if project.dissertation_cosupervisor %} {{ t.projects.and }}
       {% if cosupervisor.url %}<a href="{{ cosupervisor.url }}" target="_blank" rel="noopener">{{ project.dissertation_cosupervisor }}</a>{% else %}{{ project.dissertation_cosupervisor }}{% endif %}{% endif %}.
     </p>
   {% endif %}
 
   <div class="project-description">
-    {% for para in project.details %}<p>{{ para | xml_escape }}</p>{% endfor %}
+    {% for para in details %}<p>{{ para | xml_escape }}</p>{% endfor %}
     {% if project.figure %}
       <figure class="project-figure">
-        <figcaption class="project-figure-title">{{ project.figure.title }}</figcaption>
-        <img src="{{ project.figure.src | relative_url }}" alt="{{ project.figure.title }}" />
-        <figcaption>{{ project.figure.caption | xml_escape }}</figcaption>
+        <figcaption class="project-figure-title">{{ pt.figure_title | default: project.figure.title }}</figcaption>
+        <img src="{{ project.figure.src | relative_url }}" alt="{{ pt.figure_title | default: project.figure.title }}" />
+        <figcaption>{{ pt.figure_caption | default: project.figure.caption | xml_escape }}</figcaption>
       </figure>
     {% endif %}
   </div>
 
+  {% if pt.translated_by_ai %}
+    <p class="project-translation-note">{{ t.projects.translation_note }}</p>
+  {% endif %}
+
   {% if project.collaborators %}
-    <h2 class="project-section-title">Collaborators</h2>
+    <h2 class="project-section-title">{{ t.projects.collaborators }}</h2>
     <ul class="project-collaborators">
       {% for person in project.collaborators %}
         <li>
@@ -40,7 +49,7 @@ layout: page
   {% endif %}
 
   <p class="project-links">
-    <a class="pub-btn" href="{{ project.mpidr_url }}" target="_blank" rel="noopener">Project page at the MPIDR</a>
+    <a class="pub-btn" href="{{ pt.mpidr_url | default: project.mpidr_url }}" target="_blank" rel="noopener">{{ t.projects.mpidr_page }}</a>
   </p>
-  <p class="pub-back-top"><a href="{{ '/projects/' | relative_url }}">All projects</a></p>
+  <p class="pub-back-top"><a href="{{ t.prefix | append: '/projects/' | relative_url }}">{{ t.projects.all_projects }}</a></p>
 </div>

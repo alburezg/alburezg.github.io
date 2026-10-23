@@ -1,6 +1,16 @@
 <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
+    {% assign lang = page.lang | default: "en" %}
+    {% assign t = site.data.i18n[lang] %}
     <div class="navbar-header">
+      <div class="nav-tools-mobile">
+        <button type="button" class="theme-toggle" aria-label="{{ t.theme_toggle }}" title="{{ t.theme_toggle }}">
+          <i class="fa fa-moon-o" aria-hidden="true"></i><i class="fa fa-sun-o" aria-hidden="true"></i>
+        </button>
+        <span class="lang-switch" aria-label="{{ t.language }}">
+          {% include lang_switch.html %}
+        </span>
+      </div>
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
@@ -10,34 +20,33 @@
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
-      <!-- Home sits on the left, where the site title used to be. It is not in
-           navbar-links so that it does not also appear in the right-hand menu. -->
+      <!-- Home sits on the left, where the site title used to be. Menu links
+           come from _data/i18n.yml in the page's language. -->
       <ul class="nav navbar-nav navbar-left">
-        <li><a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">Home</a></li>
+        <li><a href="{{ t.prefix | append: '/' | relative_url }}">{{ t.home }}</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-      {% for link in site.navbar-links %}
-        {% if link[1].first %}
-          <li class="navlinks-container">
-            <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
-            <div class="navlinks-children">
-              {% for childlink in link[1] %}
-                {% for linkparts in childlink %}
-                  {% include navbarlink.html link=linkparts %}
+        {% for link in t.nav %}
+          {% if link.children %}
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">{{ link.label }}</a>
+              <div class="navlinks-children">
+                {% for child in link.children %}
+                  <a href="{{ child.url | relative_url }}">{{ child.label }}</a>
                 {% endfor %}
-              {% endfor %}
-            </div>
-          </li>
-        {% else %}
-          <li>
-            {% include navbarlink.html link=link %}
-          </li>
-        {% endif %}
+              </div>
+            </li>
+          {% else %}
+            <li><a href="{{ link.url | relative_url }}">{{ link.label }}</a></li>
+          {% endif %}
         {% endfor %}
-        <li>
-          <button type="button" class="theme-toggle" aria-label="Switch between light and dark theme" title="Switch between light and dark theme">
+        <li class="nav-tools-desktop">
+          <button type="button" class="theme-toggle" aria-label="{{ t.theme_toggle }}" title="{{ t.theme_toggle }}">
             <i class="fa fa-moon-o" aria-hidden="true"></i><i class="fa fa-sun-o" aria-hidden="true"></i>
           </button>
+        </li>
+        <li class="lang-switch nav-tools-desktop" aria-label="{{ t.language }}">
+          {% include lang_switch.html %}
         </li>
       </ul>
     </div>

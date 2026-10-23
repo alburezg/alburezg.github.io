@@ -1,8 +1,11 @@
 <li class="pub-item">
+  {% comment %} Labels follow the page language; titles, authors, venues, abstracts and BibTeX stay as published {% endcomment %}
+  {% assign entry_lang = page.lang | default: "en" %}
+  {% assign t = site.data.i18n[entry_lang] %}
   {% assign abstract = site.data.pub_abstracts[include.item.key] %}
   {% assign bibtex = site.data.pub_bibtex[include.item.key] %}
   <span class="pub-authors">{{ include.item.authors }}</span>
-  <span class="pub-year">({{ include.item.year }})</span>.
+  <span class="pub-year">({% if include.item.year == "accepted" %}{{ t.accepted_citation }}{% else %}{{ include.item.year }}{% endif %})</span>.
   <span class="pub-title">"{{ include.item.title }}"</span>
   {% if include.item.status %}
     <span class="pub-status">{{ include.item.status }}</span>.
@@ -14,40 +17,40 @@
   {% endif %}
   {% assign html_url = include.item.doi_url | default: include.item.url %}
   {% if include.item.doi and include.item.doi_url %}
-    DOI: <a href="{{ include.item.doi_url }}" target="_blank" rel="noopener">{{ include.item.doi }}</a>.
+    {{ t.doi }}: <a href="{{ include.item.doi_url }}" target="_blank" rel="noopener">{{ include.item.doi }}</a>.
   {% elsif html_url %}
-    <a href="{{ html_url }}" target="_blank" rel="noopener">Link</a>.
+    <a href="{{ html_url }}" target="_blank" rel="noopener">{{ t.link }}</a>.
   {% endif %}
   {% if include.item.notes %}
-    <span class="pub-notes">{{ include.item.notes }}</span>
+    <span class="pub-notes">{{ t.notes[include.item.notes] | default: include.item.notes }}</span>
   {% endif %}
   {% if abstract or bibtex or html_url or include.item.pdf or include.item.code or include.item.data %}
     <div class="pub-links">
       {% if abstract %}
-        <button type="button" class="pub-btn" data-pub-toggle="abs" aria-expanded="false">Abs</button>
+        <button type="button" class="pub-btn" data-pub-toggle="abs" aria-expanded="false">{{ t.buttons.abs }}</button>
       {% endif %}
       {% if bibtex %}
-        <button type="button" class="pub-btn" data-pub-toggle="bib" aria-expanded="false">Bib</button>
+        <button type="button" class="pub-btn" data-pub-toggle="bib" aria-expanded="false">{{ t.buttons.bib }}</button>
       {% endif %}
       {% if html_url %}
-        <a class="pub-btn" href="{{ html_url }}" target="_blank" rel="noopener">HTML</a>
+        <a class="pub-btn" href="{{ html_url }}" target="_blank" rel="noopener">{{ t.buttons.html }}</a>
       {% endif %}
       {% if include.item.pdf %}
-        <a class="pub-btn" href="{{ include.item.pdf | prepend: '/pdf/publications/' | relative_url }}" target="_blank" rel="noopener">PDF</a>
+        <a class="pub-btn" href="{{ include.item.pdf | prepend: '/pdf/publications/' | relative_url }}" target="_blank" rel="noopener">{{ t.buttons.pdf }}</a>
       {% endif %}
       {% if include.item.code %}
-        <a class="pub-btn" href="{{ include.item.code }}" target="_blank" rel="noopener">Code</a>
+        <a class="pub-btn" href="{{ include.item.code }}" target="_blank" rel="noopener">{{ t.buttons.code }}</a>
       {% endif %}
       {% if include.item.data %}
-        <a class="pub-btn" href="{{ include.item.data }}" target="_blank" rel="noopener">Data</a>
+        <a class="pub-btn" href="{{ include.item.data }}" target="_blank" rel="noopener">{{ t.buttons.data }}</a>
       {% endif %}
     </div>
     {% if abstract %}
       <div class="pub-panel pub-abstract" data-pub-panel="abs" hidden>
-        {% if abstract.text_en %}<p class="pub-panel-label">Resumen</p>{% endif %}
+        {% if abstract.text_en %}<p class="pub-panel-label">{{ t.original_abstract_label }}</p>{% endif %}
         {% for para in abstract.text %}<p>{{ para | xml_escape }}</p>{% endfor %}
         {% if abstract.text_en %}
-          <p class="pub-panel-label">Abstract</p>
+          <p class="pub-panel-label">{{ t.abstract_label }}</p>
           {% for para in abstract.text_en %}<p>{{ para | xml_escape }}</p>{% endfor %}
         {% endif %}
       </div>

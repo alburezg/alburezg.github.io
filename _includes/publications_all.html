@@ -1,0 +1,33 @@
+{% comment %} Body of the all-publications page, shared by every language version {% endcomment %}
+{% assign t = site.data.i18n[page.lang] %}
+<div class="academic-page">
+  <div class="pub-layout">
+    <aside class="pub-nav" aria-label="{{ t.jump_to_section }}">
+      <p class="pub-nav-title">{{ t.jump_to_section }}</p>
+      <ul>
+        {% for section in site.data.publications.sections %}
+          <li><a href="#{{ section.id }}">{{ t.sections[section.id] }}</a></li>
+        {% endfor %}
+      </ul>
+      <p class="pub-nav-alt"><a href="{{ t.prefix | append: '/publications/topics/' | relative_url }}">{{ t.view_by_topic }}</a></p>
+    </aside>
+    <div class="pub-content">
+      {% for section in site.data.publications.sections %}
+        <section class="pub-section" id="{{ section.id }}">
+          <h2>{{ t.sections[section.id] }}</h2>
+          {% comment %} Newest first; "accepted" sorts after the years, so it comes first once reversed {% endcomment %}
+          {% assign years = section.items | map: "year" | uniq | sort | reverse %}
+          {% for year in years %}
+            <h3 class="pub-year-heading">{% if year == "accepted" %}{{ t.accepted }}{% else %}{{ year }}{% endif %}</h3>
+            <ul class="pub-list">
+              {% assign year_items = section.items | where: "year", year | sort_natural: "authors" %}
+              {% for item in year_items %}
+                {% include publication_entry.html item=item %}
+              {% endfor %}
+            </ul>
+          {% endfor %}
+        </section>
+      {% endfor %}
+    </div>
+  </div>
+</div>

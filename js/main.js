@@ -166,12 +166,12 @@ document.addEventListener('DOMContentLoaded', function() {
       var resetText = btn.textContent;
 
       var onSuccess = function() {
-        btn.textContent = 'Copied';
+        btn.textContent = btn.getAttribute('data-copied') || 'Copied';
         setTimeout(function() { btn.textContent = resetText; }, 1400);
       };
 
       var onFailure = function() {
-        btn.textContent = 'Copy failed';
+        btn.textContent = btn.getAttribute('data-failed') || 'Copy failed';
         setTimeout(function() { btn.textContent = resetText; }, 1400);
       };
 
