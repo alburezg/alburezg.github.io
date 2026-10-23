@@ -1,0 +1,37 @@
+---
+layout: page
+---
+
+{% assign project = site.data.projects | where: "id", page.project | first %}
+
+<div class="academic-page project-page">
+  <p class="lede">{{ project.short | xml_escape }}</p>
+
+  <dl class="project-keywords">
+    {% if project.research_keywords %}
+      <dt>Research keywords</dt>
+      <dd>{% for kw in project.research_keywords %}<span class="project-tag">{{ kw }}</span>{% endfor %}</dd>
+    {% endif %}
+    {% if project.region_keywords %}
+      <dt>Regions</dt>
+      <dd>{% for kw in project.region_keywords %}<span class="project-tag">{{ kw }}</span>{% endfor %}</dd>
+    {% endif %}
+  </dl>
+
+  <details class="project-details">
+    <summary>Detailed description</summary>
+    {% for para in project.details %}<p>{{ para | xml_escape }}</p>{% endfor %}
+    {% if project.figure %}
+      <figure class="project-figure">
+        <figcaption class="project-figure-title">{{ project.figure.title }}</figcaption>
+        <img src="{{ project.figure.src | relative_url }}" alt="{{ project.figure.title }}" />
+        <figcaption>{{ project.figure.caption | xml_escape }}</figcaption>
+      </figure>
+    {% endif %}
+  </details>
+
+  <p class="project-links">
+    <a class="pub-btn" href="{{ project.mpidr_url }}" target="_blank" rel="noopener">Project page at the MPIDR</a>
+  </p>
+  <p class="pub-back-top"><a href="{{ '/projects/' | relative_url }}">All projects</a></p>
+</div>

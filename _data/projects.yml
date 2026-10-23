@@ -1,0 +1,124 @@
+# Research projects shown under Projects in the navbar.
+# Text taken from the Kinship Inequalities Research Group pages at the MPIDR.
+- id: kinship-structure
+  title: "Modeling Kinship Structure: Demographic Projections and Population Heterogeneity"
+  menu_title: "Modeling Kinship Structure"
+  short: "This project studies the structure and evolution of kinship networks by describing their size and composition by age, sex, type of kin, and other characteristics. It produces cross-national projections of kinship structure, emphasizing how kinship is shaped by demographic change and heterogeneity."
+  research_keywords:
+    - "Aging, Mortality and Longevity"
+    - "Demographic Change"
+    - "Family Behavior"
+    - "Health Care"
+    - "Public Health, Medicine, and Epidemiology"
+    - "Intergenerational Relationships"
+  region_keywords:
+    - "World"
+  mpidr_url: "https://www.demogr.mpg.de/en/research_6120/independent_research_groups_11668/kinship_inequalities_10703/modeling_kinship_structure_demographic_projections_and_population_heterogeneity_13761"
+  details:
+    - "Demographers have long projected shifts in the size and age composition of populations, but have paid comparatively little attention to the question of what these changes imply for the structure of family networks. Kinship structures are fundamental to systems of informal support because the exchange of care, financial transfers, and emotional assistance depends on the availability of living relatives. Understanding how demographic change reshapes kinship networks is therefore essential for anticipating the distribution of care and support within societies."
+    - "Recent advances in kinship demography make it possible to model the number, sex, and age structure of biological kin using formal demographic methods. These models show how shifts in fertility, mortality, and migration reshape family networks across generations and over time. For example, sustained fertility decline reduces the prevalence of horizontal kin such as siblings and cousins, while mortality improvements increase the likelihood that individuals will share overlapping lifetimes with ascendant and descendant kin. These processes reshape the balance between vertical and horizontal kin and alter the structure of potential support networks within families."
+    - "The project consists of two complementary components. The first component produces demographic projections of kinship structures. Building on recent developments in kinship demography, the project generates projections of nuclear and extended kin for all countries over the 21st century (considering parents, siblings, children, grandparents, grandchildren, aunts and uncles, nieces and nephews, and cousins). These projections describe the expected number and composition of kin by age, sex, and type of kin. They allow us to examine how demographic change reshapes kin structures across populations."
+    - "The second component examines how population heterogeneity shapes kinship structures. Most existing kinship models treat populations as demographically homogeneous, even though demographic processes are deeply stratified. Fertility declines often occur earlier among highly educated individuals and younger cohorts. Moreover, mortality improvements vary across socioeconomic groups and between men and women, and migration restructures family networks in ways that differ across regions and populations. These processes generate substantial variation in kinship structures both between demographic groups and within populations."
+    - "To capture this complexity, the project integrates kinship projections with explicit modeling of demographic heterogeneity. It draws on methodological advances in demographic kinship models and stochastic microsimulation to represent two complementary sources of variation: structured differences between demographic groups defined by attributes such as age, sex, education, or place of residence; and within-group variability arising from demographic stochasticity and individual-level life course variation."
+    - "Combining demographic projections with models of population heterogeneity makes it possible to move beyond estimates of average kin counts to uncover the distribution of kinship structures across individuals and groups. The resulting analyses provide a framework for understanding how demographic change reshapes family networks across societies, and how the potential availability of kin-based support evolves in the context of population aging and changing family patterns."
+- id: bereavement
+  title: "The Demography of Bereavement: Quantifying the Dynamics of Kin Loss"
+  menu_title: "The Demography of Bereavement"
+  short: "This project explores how individual deaths translate into experiences of kin loss among surviving relatives. We conceptualize bereavement as a demographic process using methods from kinship demography, and quantify its dynamics at the individual and population levels."
+  research_keywords:
+    - "Aging, Mortality and Longevity"
+    - "Data and Surveys"
+    - "Demographic Change"
+    - "Intergenerational Relationships"
+    - "Life Course"
+  region_keywords:
+    - "Colombia"
+    - "Guatemala"
+    - "USA"
+    - "World"
+  mpidr_url: "https://www.demogr.mpg.de/en/research_6120/independent_research_groups_11668/kinship_inequalities_10703/the_demography_of_bereavement_quantifying_the_dynamics_of_kin_loss_6177"
+  details:
+    - "Mortality research has traditionally treated death as an individual event measured through demographic rates. While this approach is essential for monitoring population-level mortality, it reveals little about how mortality is experienced by individuals. In practice, people encounter death not as a statistical rate, but rather through the loss of members of their social networks. This insight has motivated the emerging demography of bereavement, which seeks to quantify the structure and dynamics of kin loss using demographic methods."
+    - "The loss of kin has long been recognized as a major life event with wide-ranging and long-lasting implications for individuals' physical and mental health. Bereavement can affect individuals differently depending on the life stage when it is experienced: Losing a parent at a young age has different consequences than losing a child in old age. Despite a sizeable literature on the individual-level effects of bereavement, which mainly focuses on orphanhood and widowhood, we know relatively little about how common bereavement is, at which ages it occurs, and how many people experience it across populations and over time."
+    - "This project applies methods from kinship demography to characterize patterns of bereavement at the individual and population levels. It addresses questions such as: At what ages do women experience the loss of children? How many people lose kin each year due to drug overdoses? What proportion of a population have ever lost members of their extended family due to conflict-related mortality? In tackling these questions, the project seeks to address a significant gap in the demographic literature, in which bereavement has received comparatively little systematic attention despite its broad implications for population health."
+    - "The project also develops a methodological toolkit for quantifying and describing bereavement that can be applied across contexts. This includes descriptive indicators that quantify the timing and magnitude of kin loss across the life course, as well as measures to characterize bereavement at the population level. The latter focus on two complementary dimensions: the structure of kin loss, which refers to the age-sex composition of the bereaved population at a given point in time; and the dynamics of kin loss, which captures how that composition shifts in response to demographic change. The project relies on descriptive analyses of microdata from genealogical sources, administrative registers, and household surveys, as well as demographic analyses applied to aggregate data. The latter are supported by the DemoKin R package, which is developed and maintained by members of the Kinship Inequality Research Group."
+- id: queer-kinship
+  title: "Queer and Chosen Kinship: Family Diversity Across the Globe"
+  menu_title: "Queer and Chosen Kinship"
+  short: "The project considers the social and kinship networks of queer people, focusing on network structure and relationship quality. It aims to understand the individual-, family-, and society-level impacts on inter- and intragenerational solidarity and resource exchange between queer people and their kin."
+  research_keywords:
+    - "Family Behavior"
+    - "Intergenerational Relationships"
+    - "Policies, Politics, Administration, Welfare State"
+    - "Statistics and Mathematics"
+  region_keywords:
+    - "Europe"
+    - "USA"
+    - "World"
+  mpidr_url: "https://www.demogr.mpg.de/en/research_6120/independent_research_groups_11668/kinship_inequalities_10703/queer_and_chosen_kinship_family_diversity_across_the_globe_14847"
+  details:
+    - "After decades of shifts in partnering and childbearing, family diversity (i.e., family forms that exist outside of the married heterosexual nuclear family) has become a key focus of researchers and policymakers alike. Such family forms include cohabiting couples with or without children, multigenerational families, single people and parents, blended and stepfamilies, and same-sex couples and parents. However, for the latter group, the existing research maintains a relatively narrow focus on partnered queer people (i.e., those who identify as lesbian, gay, bisexual, or queer, or as having another non-heterosexual orientation). The project broadens this focus by centering instead the social and kinship networks of queer people, thus providing an improved body of sociological and demographic evidence on queer and chosen kin."
+    - "The project rethinks who counts as kin and how individuals experience kinship. The terms “family” and “kin” are used interchangeably here to refer to relationships formed by either biological or legal ties (e.g., adoption, marriage), and they are inclusive of nuclear family (i.e., parents and children) and extended family relationships (e.g., cousins, grandparents). The project differentiates between “chosen” and “nonchosen” kin, with the former referring to a nonbiological, nonlegal network that provides support similar to that typically offered by a family – though it is certainly also the case many “nonchosen” kin may form part of a “chosen family.”"
+    - "The first aim of this project is to understand the family ties and relationships of queer people. While there is a growing body of research on the influence that extended kin, and particularly aunts and cousins, have in the lives of queer people, little is known about the number of queer kin an individual can expect to have, or how this number varies by kin type and gender. Additionally, the quality of queer people’s family ties (including the exchange of resources, support, and care) is not well understood, particularly in the European context. The project provides new evidence on queer kinship, both quantifying (i.e., determining the number and structure) and qualifying (i.e., investigating resource and care transfers, relationship quality, and inter- and intragenerational support) the extended kinship networks of queer people."
+    - "The second aim is to investigate the roles chosen kin play in the lives of queer people. Although acceptance of sexual minorities is growing worldwide, queer people continue to experience higher rates of family estrangement and social exclusion than their heterosexual counterparts, and this often translates into greater reliance on chosen kin. The project extends previous research by investigating the role of chosen kin across different life stages and social and legal contexts."
+    - "Amid population aging and shrinking kinship structures, the project \"Queer and Chosen Kinship\" demonstrates how support and solidarity can exist outside of the heterosexual nuclear family. Its findings can be used to inform policy directed at greater inclusion of diverse family forms. Further, the project advances our theoretical understanding of the role the social and legal landscape plays in shaping queer people’s social and kinship ties across contexts."
+- id: migration-kin
+  title: "Analyzing Migration Behavior From the Perspective of Kin (Dissertation)"
+  menu_title: "Migration From the Perspective of Kin"
+  short: "This project analyzes the influence of kin networks on individuals' migration behaviors and migration patterns across countries, time, and generations by combining established and novel data sources and methods."
+  research_keywords:
+    - "Family Behavior"
+    - "Historical Demography"
+    - "Intergenerational Relationships"
+    - "Life Course"
+    - "Migration"
+  region_keywords:
+    - "Europe"
+    - "Netherlands"
+    - "USA"
+  mpidr_url: "https://www.demogr.mpg.de/en/research_6120/independent_research_groups_11668/kinship_inequalities_10703/analyzing_migration_behavior_from_the_perspective_of_kin_dissertation_11949"
+  details:
+    - "Focusing on kinship networks can help us better understand how and why people migrate. Family ties shape individual migration decisions, and migration behaviors have important implications for individuals and families in areas of departure and arrival."
+    - "We evaluate the impact of kin networks on migration behavior. Our first objective is to describe how transnational kin networks are distributed across countries, and how they develop over time. Our second objective is to analyze the effect of the mobility of relatives on the likelihood of an individual migrating, and the different trajectories and behaviors that this individual may experience during his or her lifetime."
+    - "Richer data about individuals and their ancestors and descendants are now available thanks to the increasing availability of linked census data as well as genealogical and historical databases. This enables us to consider more generations and longer time frames. The project uses data sources that allow us to study family networks across country borders, such as genealogical data, and data sources with more complete and detailed demographic information across multiple generations, such as historical registers."
+    - "Previous studies have highlighted the role that kinship ties plays in individual decisions to move internally or internationally. However, existing research has rarely addressed how the influence of family networks on an individual’s migration behavior has evolved over time, or how the propensity to migrate is transmitted over generations. The project fills this gap by incorporating long-term analysis that covers a larger number of generations and relatives in the extended family. The project thus goes beyond the usual two-generation approach, which focuses only on the influence of parents on their offspring, by assessing the influence of siblings and more distant relatives on individual migration decisions."
+    - "Future work can build on findings from this project to gain deeper insights into migration behavior, taking into account family networks as well as their migration patterns and outcomes. The project provides insights into the consequences of migration for families and family support. It will also improve our understanding of how datasets with detailed genealogical information can be used for demographic research."
+- id: years-we-share
+  title: "The Years We Share: Mother-Child Shared Lifetime, Health, and Intergenerational Transfers"
+  menu_title: "The Years We Share"
+  short: "This dissertation explores the mother-child dyad from a demographic perspective, focusing on how the overlap of maternal and child life courses relates to bidirectional intergenerational support."
+  research_keywords:
+    - "Family Behavior"
+  region_keywords:
+    - "Brazil"
+    - "Denmark"
+  mpidr_url: "https://www.demogr.mpg.de/en/research_6120/independent_research_groups_11668/kinship_inequalities_10703/the_years_we_share_mother_child_shared_lifetime_health_and_intergenerational_transfers_12753"
+  details:
+    - "Family networks provide essential support, resources, and socialization throughout the life course. The \"linked lives\" perspective emphasizes that the advantages or disadvantages experienced by one family member affect others. This perspective also stresses the mutual nature of these ties: mothers impact their children, and conversely, children affect maternal outcomes. However, most research has focused on maternal effects on children, leaving the reverse pathway and the temporal dimension of intergenerational exchange largely unexplored."
+    - "This dissertation fills this gap by examining the demographic constraints for mothers and children to support each other, as well as the direction of support from children to mothers. Longer periods of shared lifetime imply greater opportunities for mutual support. Furthermore, the mother's health during those shared years is important. When she is healthy, the relationship can involve reciprocal caregiving. When she is unhealthy, the child's ability to provide care becomes a critical source of support. By highlighting the duration of the mother–child overlap and the mother's health during that period, this study paves the way for a more comprehensive analysis of the mother–child relationship's potential in providing care and resources."
+    - "The first paper investigates the impact of children's education on maternal survival in Chile. We use the orphanhood method to estimate maternal mortality based on reports of parental survival from children. We find that higher educational achievement among adult children is associated with better maternal survival, particularly among mothers with a low level of education. This suggests that educated children may provide health knowledge, financial support, or care that improves their mothers' chances of living longer."
+    - "The second paper introduces two new demographic indicators: Shared Lifetime (SLT), the average number of years a mother and child are alive at the same time, and Years of Shared Life Lost (YSLL), the years lost due to death. We estimate these measures for every country using formal models, age-specific fertility rates, and life tables from the United Nations World Population Prospects (1950–2023). The results demonstrate a universal increase in SLT over time; however, substantial cross-national disparities persist. These patterns highlight the impact of variations in fertility and mortality dynamics on the amount of time that mothers and children can spend together and have significant implications for intergenerational support."
+    - "The third paper builds on the Shared Lifetime concept by introducing the Healthy Shared Lifetime (HSLT), which estimates the number of years that a mother and child share while the mother is in good health. Using Danish registry data linking kinship records with national health information, we calculate the HSLT for mother-child dyads. This method distinguishes years spent in good health from years spent in health versus illness, offering a more nuanced understanding of the quality of time spent within the family unit."
+    - "This dissertation advances the study of intergenerational family transfer dynamics, offering researchers and policymakers a concise framework to evaluate the potential of mutual mother-child support. This framework has significant implications for mitigating health disparities and promoting well-being across generations."
+- id: generational-placement
+  title: "Generational Placement Trajectories and Social Inequality"
+  menu_title: "Generational Placement Trajectories"
+  short: "This project explores patterns of generational placements (i.e., individuals’ roles as children, parents, or grandparents) over the life course (i.e., the timing and ordering in which they happen) and their associations with social inequality."
+  research_keywords:
+    - "Family Behavior"
+    - "Intergenerational Relationships"
+    - "Life Course"
+  region_keywords:
+    - "Europe"
+    - "Germany"
+    - "Norway"
+  mpidr_url: "https://www.demogr.mpg.de/en/research_6120/independent_research_groups_11668/kinship_inequalities_10703/generational_placement_trajectories_and_social_inequality_12260"
+  details:
+    - "The presence or absence of ascendants and descendants in the family network of individuals determines their generational placement: i.e., whether they occupy the role of a child, a parent, and/or a grandparent. As people age, they transition through different generational placements as a result of births and deaths in the intergenerational family system, which is a fundamental source of social support. These family transitions can occur at various ages (timing) and in distinct orderings, leading to a variety of generational placement trajectories."
+    - "The first aim of the project is to identify typical patterns of generational placement trajectories and to investigate the prevalence of these patterns over time and in different European contexts. Some generational placement trajectories are more common than others because sociohistorical contexts, which are characterized by their specific institutions and societal norms, favor certain life courses. Previous research has investigated specific family transitions separately or accounted for only two generations at a time. Thus, little is known about how the structure of the intergenerational family system, or the individual’s position within it, varies across and between individual life courses. This project presents a novel analytical approach to the study of intergenerational family systems by applying methods of sequence and cluster analysis. The project provides a more comprehensive description of the family structure as a process, i.e., a sequence of multiple events. It examines the variations in family trajectories over age and between individuals, and it highlights the micro-level consequences of the macro fertility and mortality trends described by the second demographic transition framework."
+    - "The second aim is to investigate the potential consequences of typical generational placement trajectories for individuals’ well-being and health later in life, as well as for their wealth accumulation over the life course. Kinship structures may be important determinants of individual-level outcomes because generational placements are accompanied by socially conditioned normative behavioral expectations, such as (un)salutary health or (non)risky financial investment behaviors. Previous research has demonstrated that single family transitions (i.e., becoming a grandparent) and positions (i.e., being a grandparent) are associated with different life course outcomes, such as overall well-being, physical health, or homeownership. This project extends existing research by examining how multiple family transitions and positions, and their timing and ordering, are mutually associated with individual outcomes. The project offers a broader context for this existing research by providing a thorough description of the family system and its associations with individual outcomes."
+    - "The project’s results can be used to identify structurally vulnerable groups and guide policy aimed at preventing the accumulation of disadvantage and its transmission across generations. Moreover, they can inform theoretical advances in our understanding of how multiple family transitions interact and contribute to social inequality."
+  figure:
+    src: "/img/projects/generational-placement.jpg"
+    title: "Generational position in the life course"
+    caption: "Schematic representation of how different family transition events (in italics) affect the generational placement trajectories of two hypothetical individuals. E.g., individual (a) becomes a parent after having a child and a grandparent after the birth of a grandchild. © [Adapted from Hünteler, 2022, https://doi.org/10.1016/j.alcr.2021.100450]"

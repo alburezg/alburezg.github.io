@@ -7,6 +7,7 @@ path: ""
 
 <div class="academic-page home-page">
   <section class="home-intro">
+    <img class="home-portrait" src="{{ '/img/portrait.jpg' | relative_url }}" alt="Portrait of Diego Alburez-Gutierrez" width="500" height="667" />
     <p class="lede">
       I am a social scientist working on demographic processes, kinship dynamics, inequality, and demographic estimation in the context of crises and armed conflicts.
       I lead the <a href="https://www.demogr.mpg.de/en/research_6120/kinship_inequalities_10703">Kinship Inequalities Research Group</a>

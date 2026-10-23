@@ -27,6 +27,14 @@ navbar-links:
   Publications:
     - All publications    :  "publications"
     - By topic            :  "publications/topics"
+  Projects:
+    - All projects        :  "projects"
+    - Modeling Kinship Structure :  "projects/kinship-structure"
+    - The Demography of Bereavement :  "projects/bereavement"
+    - Queer and Chosen Kinship :  "projects/queer-kinship"
+    - Migration From the Perspective of Kin :  "projects/migration-kin"
+    - The Years We Share :  "projects/years-we-share"
+    - Generational Placement Trajectories :  "projects/generational-placement"
   Software                :  "software"
   Public Engagement       :  "public-engagement"
   CV                      :  "pdf/CV_Diego_Alburez.pdf"
