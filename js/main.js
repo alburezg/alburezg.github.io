@@ -417,17 +417,3 @@ document.addEventListener('click', function(e) {
   });
 });
 
-// Theme toggle: switch between light and dark, and remember the choice
-document.addEventListener('click', function(e) {
-  if (!e.target.closest('.theme-toggle')) {
-    return;
-  }
-  var root = document.documentElement;
-  var dark = root.getAttribute('data-theme') !== 'dark';
-  if (dark) {
-    root.setAttribute('data-theme', 'dark');
-  } else {
-    root.removeAttribute('data-theme');
-  }
-  try { localStorage.setItem('theme', dark ? 'dark' : 'light'); } catch (err) {}
-});

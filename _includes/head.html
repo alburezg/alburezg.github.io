@@ -14,6 +14,22 @@
       if (theme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
       }
+
+      // The navbar toggle switches between light and dark and remembers the choice.
+      // It lives here rather than in js/main.js so it always matches this page.
+      document.addEventListener('click', function(e) {
+        if (!e.target.closest || !e.target.closest('.theme-toggle')) {
+          return;
+        }
+        var root = document.documentElement;
+        var dark = root.getAttribute('data-theme') !== 'dark';
+        if (dark) {
+          root.setAttribute('data-theme', 'dark');
+        } else {
+          root.removeAttribute('data-theme');
+        }
+        try { localStorage.setItem('theme', dark ? 'dark' : 'light'); } catch (err) {}
+      });
     })();
   </script>
 

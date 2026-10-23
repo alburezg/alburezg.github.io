@@ -52,3 +52,6 @@ _site/
 .sass-cache/
 .bundle/
 vendor/
+
+# Notes for AI assistants (local only)
+CLAUDE.md

@@ -2,24 +2,22 @@
 layout: page
 ---
 
+{% comment %} The short description and keywords are shown on /projects/; this page has the full text {% endcomment %}
 {% assign project = site.data.projects | where: "id", page.project | first %}
 
 <div class="academic-page project-page">
-  <p class="lede">{{ project.short | xml_escape }}</p>
+  {% if project.dissertation_student %}
+    {% assign student = project.collaborators | where: "name", project.dissertation_student | first %}
+    {% assign cosupervisor = project.collaborators | where: "name", project.dissertation_cosupervisor | first %}
+    <p class="project-dissertation">
+      Doctoral dissertation by
+      {% if student.url %}<a href="{{ student.url }}" target="_blank" rel="noopener">{{ project.dissertation_student }}</a>{% else %}{{ project.dissertation_student }}{% endif %},
+      supervised by Diego Alburez-Gutierrez{% if project.dissertation_cosupervisor %} and
+      {% if cosupervisor.url %}<a href="{{ cosupervisor.url }}" target="_blank" rel="noopener">{{ project.dissertation_cosupervisor }}</a>{% else %}{{ project.dissertation_cosupervisor }}{% endif %}{% endif %}.
+    </p>
+  {% endif %}
 
-  <dl class="project-keywords">
-    {% if project.research_keywords %}
-      <dt>Research keywords</dt>
-      <dd>{% for kw in project.research_keywords %}<span class="project-tag">{{ kw }}</span>{% endfor %}</dd>
-    {% endif %}
-    {% if project.region_keywords %}
-      <dt>Regions</dt>
-      <dd>{% for kw in project.region_keywords %}<span class="project-tag">{{ kw }}</span>{% endfor %}</dd>
-    {% endif %}
-  </dl>
-
-  <details class="project-details">
-    <summary>Detailed description</summary>
+  <div class="project-description">
     {% for para in project.details %}<p>{{ para | xml_escape }}</p>{% endfor %}
     {% if project.figure %}
       <figure class="project-figure">
@@ -28,7 +26,18 @@ layout: page
         <figcaption>{{ project.figure.caption | xml_escape }}</figcaption>
       </figure>
     {% endif %}
-  </details>
+  </div>
+
+  {% if project.collaborators %}
+    <h2 class="project-section-title">Collaborators</h2>
+    <ul class="project-collaborators">
+      {% for person in project.collaborators %}
+        <li>
+          {% if person.url %}<a href="{{ person.url }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}{% if person.affiliation %}<span class="project-affiliation">, {{ person.affiliation }}</span>{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
 
   <p class="project-links">
     <a class="pub-btn" href="{{ project.mpidr_url }}" target="_blank" rel="noopener">Project page at the MPIDR</a>

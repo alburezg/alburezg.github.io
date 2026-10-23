@@ -1472,3 +1472,45 @@ a:focus {
 :root[data-theme="dark"] footer .fa-inverse {
   color: var(--paper);
 }
+
+.project-dissertation {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.9em;
+  padding: 8px 14px;
+  border-left: 3px solid var(--accent);
+  background: var(--panel);
+  margin-bottom: 22px;
+}
+
+.project-card .project-card-dissertation {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.75em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin: -2px 0 8px;
+}
+
+.project-tag-region {
+  background: transparent;
+  border: 1px solid var(--line);
+}
+
+.project-section-title {
+  font-size: 1.15em;
+  margin: 28px 0 8px;
+}
+
+.project-collaborators {
+  padding-left: 1.15em;
+  margin-bottom: 20px;
+}
+
+.project-affiliation {
+  color: var(--muted);
+}
+
+.project-page a {
+  color: var(--accent);
+}

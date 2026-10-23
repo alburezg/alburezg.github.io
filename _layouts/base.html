@@ -1,14 +1,12 @@
 ---
+# Fonts and icons are self-hosted (css/fonts.css, css/font-awesome.min.css,
+# fonts/) so that pages make no requests to third parties.
 common-css:
+  - "/css/fonts.css"
+  - "/css/font-awesome.min.css"
   - "/css/bootstrap.min.css"
   - "/css/bootstrap-social.css"
   - "/css/main.css"
-common-ext-css:
-  - href: "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"
-    sri: "sha384-I6JCnqxMbC2DuiHjsoCiLa15NVbKRf8/ooANRLsXD87zD2dVqzlz6Oqjvj470ztk"
-common-googlefonts:
-  - "Lora:400,700,400italic,700italic"
-  - "Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
 common-js:
   - "/js/jquery-3.7.1.min.js"
   - "/js/bootstrap.min.js"
