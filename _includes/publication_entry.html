@@ -1,4 +1,6 @@
 <li class="pub-item">
+  {% assign abstract = site.data.pub_abstracts[include.item.key] %}
+  {% assign bibtex = site.data.pub_bibtex[include.item.key] %}
   <span class="pub-authors">{{ include.item.authors }}</span>
   <span class="pub-year">({{ include.item.year }})</span>.
   <span class="pub-title">"{{ include.item.title }}"</span>
@@ -17,10 +19,41 @@
   {% elsif include.item.url %}
     <a href="{{ include.item.url }}">Link</a>.
   {% endif %}
-  {% if include.item.pdf %}
-    <a class="pub-pdf" href="{{ include.item.pdf | prepend: '/pdf/publications/' | relative_url }}">PDF</a>
-  {% endif %}
   {% if include.item.notes %}
     <span class="pub-notes">{{ include.item.notes }}</span>
+  {% endif %}
+  {% if abstract or bibtex or include.item.pdf or include.item.code or include.item.data %}
+    <div class="pub-links">
+      {% if abstract %}
+        <button type="button" class="pub-btn" data-pub-toggle="abs" aria-expanded="false">Abs</button>
+      {% endif %}
+      {% if bibtex %}
+        <button type="button" class="pub-btn" data-pub-toggle="bib" aria-expanded="false">Bib</button>
+      {% endif %}
+      {% if include.item.pdf %}
+        <a class="pub-btn" href="{{ include.item.pdf | prepend: '/pdf/publications/' | relative_url }}">PDF</a>
+      {% endif %}
+      {% if include.item.code %}
+        <a class="pub-btn" href="{{ include.item.code }}">Code</a>
+      {% endif %}
+      {% if include.item.data %}
+        <a class="pub-btn" href="{{ include.item.data }}">Data</a>
+      {% endif %}
+    </div>
+    {% if abstract %}
+      <div class="pub-panel pub-abstract" data-pub-panel="abs" hidden>
+        {% if abstract.text_en %}<p class="pub-panel-label">Resumen</p>{% endif %}
+        {% for para in abstract.text %}<p>{{ para | xml_escape }}</p>{% endfor %}
+        {% if abstract.text_en %}
+          <p class="pub-panel-label">Abstract</p>
+          {% for para in abstract.text_en %}<p>{{ para | xml_escape }}</p>{% endfor %}
+        {% endif %}
+      </div>
+    {% endif %}
+    {% if bibtex %}
+      <div class="pub-panel pub-bibtex" data-pub-panel="bib" hidden>
+        <pre><code>{{ bibtex | strip | xml_escape }}</code></pre>
+      </div>
+    {% endif %}
   {% endif %}
 </li>

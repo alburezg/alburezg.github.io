@@ -391,3 +391,19 @@ document.addEventListener('DOMContentLoaded', function() {
 
   document.addEventListener('keydown', onKey);
 });
+
+// Publication lists: Abs/Bib buttons show or hide the matching panel of their entry
+document.addEventListener('click', function(e) {
+  var btn = e.target.closest('[data-pub-toggle]');
+  if (!btn) {
+    return;
+  }
+  var item = btn.closest('.pub-item');
+  var name = btn.getAttribute('data-pub-toggle');
+  item.querySelectorAll('[data-pub-toggle]').forEach(function(other) {
+    var panel = item.querySelector('[data-pub-panel="' + other.getAttribute('data-pub-toggle') + '"]');
+    var open = other === btn && panel.hidden;
+    panel.hidden = !open;
+    other.setAttribute('aria-expanded', open ? 'true' : 'false');
+  });
+});

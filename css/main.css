@@ -826,26 +826,74 @@ a:focus {
   color: var(--muted);
 }
 
-.pub-pdf {
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.pub-btn {
   display: inline-block;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 0.72em;
   font-weight: 700;
   letter-spacing: 0.05em;
   line-height: 1;
-  padding: 3px 6px;
+  padding: 4px 8px;
   border: 1px solid var(--accent);
   border-radius: 3px;
+  background: transparent;
   color: var(--accent);
   text-decoration: none;
-  vertical-align: 1px;
+  cursor: pointer;
 }
 
-.pub-pdf:hover,
-.pub-pdf:focus {
+.pub-btn:hover,
+.pub-btn:focus,
+.pub-btn[aria-expanded="true"] {
   background: var(--accent);
   color: #fff;
   text-decoration: none;
+}
+
+.pub-panel {
+  margin: 8px 0 4px;
+  padding: 10px 14px;
+  border-left: 3px solid var(--accent);
+  background: rgba(0, 0, 0, 0.03);
+  font-size: 0.92em;
+}
+
+.pub-panel[hidden] {
+  display: none;
+}
+
+.pub-panel p {
+  margin: 0 0 0.6em;
+}
+
+.pub-panel p:last-child {
+  margin-bottom: 0;
+}
+
+.pub-panel-label {
+  font-weight: 700;
+}
+
+.pub-bibtex pre {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  font-size: 0.85em;
+}
+
+.pub-bibtex pre,
+.pub-bibtex code {
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .pub-layout {
