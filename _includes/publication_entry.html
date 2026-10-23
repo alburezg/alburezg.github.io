@@ -17,6 +17,9 @@
   {% elsif include.item.url %}
     <a href="{{ include.item.url }}">Link</a>.
   {% endif %}
+  {% if include.item.pdf %}
+    <a class="pub-pdf" href="{{ include.item.pdf | prepend: '/pdf/publications/' | relative_url }}">PDF</a>
+  {% endif %}
   {% if include.item.notes %}
     <span class="pub-notes">{{ include.item.notes }}</span>
   {% endif %}
