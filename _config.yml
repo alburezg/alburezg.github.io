@@ -44,6 +44,7 @@ author:
   github: alburezg    # eg. daattali
   twitter: d_alburez   # eg. daattali
   linkedin: diego-alburez-gutierrez-64b62975  # eg. daattali
+  google-scholar: uyx520sAAAAJ  # Google Scholar user id
   stackoverflow: 5201944/inspectorsands
 
 # Select which links to show in the footer
@@ -56,6 +57,7 @@ footer-links-active:
   github: true
   reddit: false
   linkedin: true
+  google-scholar: true
   xing: false
   stackoverflow: false
   snapchat: false
