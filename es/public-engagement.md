@@ -131,6 +131,11 @@ permalink: /es/public-engagement/
     <h2>Conferencias públicas y paneles</h2>
     <ul class="pe-entries">
       <li class="pe-entry">
+        <p class="pe-entry-meta"><span class="pe-kind">Panel</span><span class="pe-sep">&bull;</span>octubre de 2026</p>
+        <p class="pe-entry-title">&ldquo;The Long Shadow of Trauma after Conflict and Violence: Psychological, Demographic, and Political Perspectives&rdquo;</p>
+        <p class="pe-entry-body">Panel organizado por el Einstein Center Population Diversity y el WZB Berlin Social Science Center. Berlín.</p>
+      </li>
+      <li class="pe-entry">
         <p class="pe-entry-meta"><span class="pe-kind">Conferencia magistral</span><span class="pe-sep">&bull;</span>UNFPA<span class="pe-sep">&bull;</span>septiembre de 2026</p>
         <p class="pe-entry-title">&ldquo;Demographic Dynamics in a World in Transformation: New Scenarios for Societies and Development&rdquo;</p>
         <p class="pe-entry-body">Conferencia magistral inaugural de la <em>C&aacute;tedra permanente sobre desarrollo y resiliencia demogr&aacute;fica</em> del UNFPA (2026&ndash;2027), creada junto con UCA, UES, UDB, UEES, UNIVO, M&oacute;nica Herrera, FLACSO y FUSADES. San Salvador. <span class="pe-lang">En español.</span></p>
