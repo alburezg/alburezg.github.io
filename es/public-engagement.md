@@ -84,6 +84,14 @@ permalink: /es/public-engagement/
         <a class="pe-outlet" href="https://www.haaretz.co.il/science/social-science/2024-08-04/ty-article-magazine/.premium/00000191-03e9-db69-af9f-ffed78d40000">Haaretz</a>
         <span class="pe-desc">&ldquo;Del individuo a la familia y más allá: ¿cuáles son los efectos sociales a largo plazo del duelo?&rdquo; <span class="pe-lang">En hebreo.</span></span>
       </li>
+      <li>
+        <a class="pe-outlet" href="https://www.stuttgarter-zeitung.de/politik/forscher-des-max-planck-instituts-hochrechnung-mehr-als-100000-tote-im-gaza-krieg-78883713.html">Stuttgarter Zeitung</a>
+        <span class="pe-desc">&ldquo;Proyección: más de 100.000 muertos en la guerra de Gaza.&rdquo; <span class="pe-lang">En alemán.</span></span>
+      </li>
+      <li>
+        <a class="pe-outlet" href="https://www.freitag.de/autoren/hanno-hauenstein/max-planck-institut-zaehlt-126-000-gaza-tote-was-heisst-das-fuer-den-genozid">Der Freitag</a>
+        <span class="pe-desc">&ldquo;El Instituto Max Planck cuenta 126.000 muertos en Gaza: ¿qué significa esto para la cuestión del genocidio?&rdquo; <span class="pe-lang">En alemán.</span></span>
+      </li>
     </ul>
 
     <h3 class="pe-subhead">Revistas y medios digitales</h3>
@@ -108,6 +116,10 @@ permalink: /es/public-engagement/
         <a class="pe-outlet" href="https://www.nationalgeographic.de/wissenschaft/2024/01/anzahl-lebende-verwandte-in-zukunft-gross-familie-demografischer-wandel">National Geographic</a>
         <span class="pe-desc">&ldquo;Cuántos parientes vivos tendremos en el futuro.&rdquo; <span class="pe-lang">En alemán.</span></span>
       </li>
+      <li>
+        <a class="pe-outlet" href="https://fortune.com/well/2024/01/10/longer-life-expectancy-worldwide-century-smaller-families-older-grandparents-caregiving/">Fortune</a>
+        <span class="pe-desc">&ldquo;Se prevé que los abuelos e incluso los bisabuelos vivan más a finales de siglo. Pero no hay que esperar que ayuden a cuidar a los niños.&rdquo;</span>
+      </li>
     </ul>
 
     <h3 class="pe-subhead">Televisión, radio y pódcasts</h3>
@@ -123,6 +135,14 @@ permalink: /es/public-engagement/
       <li>
         <a class="pe-outlet" href="https://www.mdrjump.de/podcasts/fakt-oder-fake/hat-der-mensch-immer-weniger-verwandte-100.html">MDR Jump</a>
         <span class="pe-desc">&ldquo;¿Tenemos cada vez menos parientes?&rdquo;, en el pódcast <em>Fakt oder Fake</em>. <span class="pe-lang">En alemán.</span></span>
+      </li>
+      <li>
+        <a class="pe-outlet" href="https://www.cbc.ca/news/canada/cousins-decline-canada-1.7103338">CBC News</a>
+        <span class="pe-desc">&ldquo;Los primos están desapareciendo. ¿Está cambiando esto la experiencia de la infancia?&rdquo;</span>
+      </li>
+      <li>
+        <a class="pe-outlet" href="https://theworld.org/media/2024-01-11/study-global-demographic-change-fueling-decrese-family-size-and-kinfolk">The World (PRX)</a>
+        <span class="pe-desc">&ldquo;Estudio: el cambio demográfico mundial está reduciendo el tamaño de las familias y el número de parientes.&rdquo;</span>
       </li>
     </ul>
   </section>
